@@ -1,0 +1,1555 @@
+Vehicle_ID,State,Vehicle_Type,Fuel_Type,EV_Status,Manufacturer,Model,Year_of_Manufacture,Units_Sold,Price,Mileage_kmpl,CO2_Emission_g_km,Registration_City
+V0001,Telangana,Auto,Electric,Yes,TVS,Apache,2017,9297,1955225,0.0,0.0,Mumbai
+V0002,Jharkhand,Bus,Diesel,No,Ashok Leyland,Dost,2021,754,484557,15.3,132.5,Ahmedabad
+V0003,Andhra Pradesh,Truck,Hybrid,No,Eicher,Pro 3015,2024,14319,550856,19.8,103.4,Bengaluru
+V0004,Haryana,Van,Petrol,No,Force Motors,Traveller,2011,10015,966216,16.9,144.1,Hyderabad
+V0005,Gujarat,Bus,Diesel,No,Ashok Leyland,Dost,2017,2140,638713,24.5,191.7,Ahmedabad
+V0006,Kerala,Bike,Electric,Yes,Royal Enfield,Classic 350,2023,10794,840063,0.0,0.0,Kochi
+V0007,Uttar Pradesh,Truck,Hybrid,No,Mahindra,Jeeto,2012,11874,926875,11.2,121.0,Jaipur
+V0008,Delhi,Bike,Hybrid,No,Royal Enfield,Classic 350,2012,8231,1810523,12.6,144.6,Hyderabad
+V0009,Rajasthan,Car,Diesel,No,Honda,City,2022,2323,189782,13.3,199.9,Mumbai
+V0010,Odisha,Bus,Electric,Yes,Volvo,9400,2017,11991,1585264,0.0,0.0,Mumbai
+V0011,Tamil Nadu,Bike,Petrol,No,TVS,Jupiter,2018,11427,1282051,14.2,184.4,Mumbai
+V0012,Assam,Car,Diesel,No,Tata,Punch,2021,9909,224483,15.9,117.6,Mumbai
+V0013,Punjab,Bus,Electric,Yes,Volvo,9400,2017,3603,1714721,0.0,0.0,Bengaluru
+V0014,Rajasthan,Van,Petrol,No,Force Motors,Traveller,2018,8170,2309322,26.6,116.8,Delhi
+V0015,Delhi,Car,Hybrid,No,Hyundai,Venue,2017,10000,909140,11.5,124.0,Ahmedabad
+V0016,West Bengal,Car,Petrol,No,Toyota,Innova,2021,6273,1362020,12.4,115.3,Chennai
+V0017,Rajasthan,Auto,Diesel,No,TVS,Apache,2012,8090,1006823,14.4,105.0,Chennai
+V0018,Madhya Pradesh,Bike,Electric,Yes,Hero,HF Deluxe,2014,10037,925311,0.0,0.0,Chennai
+V0019,Jharkhand,SUV,Hybrid,No,Tata,Punch,2021,10753,2133479,23.1,119.4,Hyderabad
+V0020,Bihar,Truck,Petrol,No,Ashok Leyland,Captain,2016,10142,1908378,27.7,100.3,Lucknow
+V0021,Punjab,SUV,Electric,Yes,Tata,Punch,2010,12741,1758726,0.0,0.0,Bengaluru
+V0022,Uttarakhand,Bus,Electric,Yes,Volvo,9400,2021,7777,606923,0.0,0.0,Mumbai
+V0023,Maharashtra,Car,Hybrid,No,Toyota,Fortuner,2018,3989,271413,13.6,108.5,Hyderabad
+V0024,Assam,Auto,Electric,Yes,TVS,Jupiter,2023,1680,400414,0.0,0.0,Lucknow
+V0025,Uttarakhand,Auto,Electric,Yes,Piaggio,Porter,2021,12215,621109,0.0,0.0,Mumbai
+V0026,Odisha,Car,Diesel,No,Kia,Sonet,2016,3098,414692,25.3,104.5,Hyderabad
+V0027,Maharashtra,Truck,Petrol,No,Mahindra,Jeeto,2023,2230,2390097,12.1,164.8,Ahmedabad
+V0028,Telangana,Truck,Electric,Yes,Ashok Leyland,Captain,2010,5499,1528151,0.0,0.0,Delhi
+V0029,Uttar Pradesh,Bus,Hybrid,No,Tata,Nexon,2015,9541,1891648,15.6,187.6,Kochi
+V0030,Haryana,Auto,Electric,Yes,TVS,Apache,2024,2330,1160944,0.0,0.0,Hyderabad
+V0031,West Bengal,Bike,Electric,Yes,Hero,HF Deluxe,2010,10805,1900555,0.0,0.0,Kochi
+V0032,Madhya Pradesh,Bike,Electric,Yes,TVS,Jupiter,2011,11978,617518,0.0,0.0,Kochi
+V0033,Andhra Pradesh,SUV,Electric,Yes,MG,Astor,2012,1651,1821268,0.0,0.0,Jaipur
+V0034,Telangana,Van,Petrol,No,Force Motors,Gurkha,2015,3085,812952,17.0,146.8,Chennai
+V0035,Telangana,Truck,Hybrid,No,Eicher,Pro 3015,2014,12284,2103148,19.5,141.4,Mumbai
+V0036,Gujarat,Bike,Hybrid,No,Royal Enfield,Hunter 350,2021,13679,190807,14.8,191.3,Mumbai
+V0037,Jharkhand,Bus,Electric,Yes,Tata,Punch,2014,5111,738361,0.0,0.0,Hyderabad
+V0038,Uttarakhand,Bus,Diesel,No,Ashok Leyland,Dost,2017,866,1659152,13.3,118.9,Ahmedabad
+V0039,Madhya Pradesh,Truck,Petrol,No,Tata,Tiago,2023,11319,1307201,28.6,169.3,Bengaluru
+V0040,Tamil Nadu,Bus,Petrol,No,Ashok Leyland,Captain,2010,5565,421906,11.7,174.1,Mumbai
+V0041,Odisha,Truck,Hybrid,No,Mahindra,Bolero,2022,8290,258973,25.2,167.8,Lucknow
+V0042,Tamil Nadu,Truck,Hybrid,No,Mahindra,Jeeto,2010,6340,2268988,25.3,133.0,Bengaluru
+V0043,Punjab,Car,Hybrid,No,Kia,Seltos,2022,13230,340785,10.5,171.0,Chennai
+V0044,Assam,Bus,Diesel,No,Volvo,9400,2020,11034,2038499,24.3,156.8,Delhi
+V0045,Telangana,Bus,Diesel,No,Ashok Leyland,Dost,2018,5708,421115,14.1,132.5,Kochi
+V0046,Andhra Pradesh,Auto,Electric,Yes,Bajaj,Chetak,2023,7220,387327,0.0,0.0,Lucknow
+V0047,Madhya Pradesh,Van,Petrol,No,Tata,Tiago,2021,10932,2139891,15.1,121.9,Bengaluru
+V0048,Punjab,Car,Petrol,No,Honda,Amaze,2016,905,469552,29.8,149.3,Jaipur
+V0049,Haryana,Car,Electric,Yes,Maruti,Ertiga,2021,11399,1297661,0.0,0.0,Chennai
+V0050,Madhya Pradesh,Truck,Diesel,No,Ashok Leyland,Dost,2024,4155,1130502,22.4,126.9,Chennai
+V0051,Tamil Nadu,SUV,Hybrid,No,Hyundai,i20,2011,8476,2247775,15.2,176.8,Delhi
+V0052,Andhra Pradesh,Van,Electric,Yes,Maruti,Baleno,2016,8287,2300794,0.0,0.0,Lucknow
+V0053,Andhra Pradesh,Van,Petrol,No,Maruti,Baleno,2010,14792,1355887,24.1,156.6,Mumbai
+V0054,Madhya Pradesh,Bike,Electric,Yes,Hero,Splendor,2010,3882,1247527,0.0,0.0,Chennai
+V0055,Odisha,Bike,Electric,Yes,Hero,HF Deluxe,2019,12768,1860760,0.0,0.0,Kolkata
+V0056,Delhi,Car,Petrol,No,Tata,Punch,2024,4671,2431102,25.3,122.4,Mumbai
+V0057,West Bengal,Auto,Hybrid,No,Piaggio,Porter,2010,11304,1661023,29.7,121.7,Bengaluru
+V0058,Telangana,Auto,Hybrid,No,TVS,Apache,2021,9171,1399268,26.8,173.8,Mumbai
+V0059,West Bengal,Van,Electric,Yes,Tata,Tiago,2021,5537,2234235,0.0,0.0,Bengaluru
+V0060,Gujarat,Van,Electric,Yes,Maruti,Baleno,2021,12513,1409448,0.0,0.0,Chennai
+V0061,Karnataka,Auto,Hybrid,No,Bajaj,Pulsar,2024,1956,773263,17.6,139.8,Lucknow
+V0062,Chhattisgarh,Car,Diesel,No,Kia,Sonet,2012,14996,1107412,20.5,110.4,Bengaluru
+V0063,Uttarakhand,Truck,Electric,Yes,Eicher,Pro 2049,2019,12576,937207,0.0,0.0,Hyderabad
+V0064,Uttarakhand,Auto,Diesel,No,Piaggio,Ape,2013,14279,2188782,23.2,177.7,Kochi
+V0065,West Bengal,Bus,Diesel,No,Tata,Tiago,2022,5772,2251796,23.6,102.4,Chennai
+V0066,Chhattisgarh,SUV,Petrol,No,Hyundai,i20,2016,13873,699388,22.3,162.0,Lucknow
+V0067,Rajasthan,Truck,Hybrid,No,Eicher,Pro 2049,2012,13426,413182,24.3,147.9,Kochi
+V0068,West Bengal,Truck,Electric,Yes,Ashok Leyland,Dost,2023,14942,1603535,0.0,0.0,Ahmedabad
+V0069,Tamil Nadu,Auto,Hybrid,No,Piaggio,Ape,2011,2104,430694,21.2,171.9,Jaipur
+V0070,Uttarakhand,Van,Hybrid,No,Tata,Punch,2020,6346,493432,26.9,148.5,Delhi
+V0071,Karnataka,SUV,Diesel,No,Hyundai,Venue,2013,102,1111053,23.5,172.2,Kolkata
+V0072,West Bengal,SUV,Diesel,No,Hyundai,Venue,2015,12444,1120212,22.1,164.4,Jaipur
+V0073,Assam,Bus,Diesel,No,Tata,Tiago,2013,1363,1095339,15.0,110.0,Delhi
+V0074,Rajasthan,Van,Hybrid,No,Tata,Punch,2022,10773,543594,15.2,154.4,Delhi
+V0075,Haryana,SUV,Hybrid,No,MG,Astor,2023,7047,381872,29.8,104.5,Delhi
+V0076,West Bengal,Car,Petrol,No,Toyota,Fortuner,2023,368,1002713,20.2,112.1,Mumbai
+V0077,Delhi,Truck,Petrol,No,Mahindra,Jeeto,2019,2758,1837934,16.9,185.1,Kolkata
+V0078,Maharashtra,Bus,Diesel,No,Tata,Punch,2024,2402,1477079,21.8,114.9,Chennai
+V0079,Andhra Pradesh,Truck,Diesel,No,Mahindra,Jeeto,2023,3664,873866,24.7,155.4,Kochi
+V0080,Karnataka,SUV,Petrol,No,Tata,Tiago,2024,3615,1251595,29.7,116.3,Bengaluru
+V0081,Uttarakhand,Auto,Electric,Yes,TVS,Jupiter,2016,6607,2110238,0.0,0.0,Mumbai
+V0082,Odisha,Auto,Hybrid,No,TVS,Jupiter,2011,13457,2481675,19.0,118.0,Mumbai
+V0083,Maharashtra,Truck,Petrol,No,Tata,Punch,2013,11312,345902,19.8,117.1,Bengaluru
+V0084,Tamil Nadu,Bus,Diesel,No,Ashok Leyland,Captain,2014,4470,765152,24.2,186.8,Kochi
+V0085,Delhi,Car,Hybrid,No,Kia,Sonet,2010,9217,129700,10.1,153.3,Chennai
+V0086,Odisha,Van,Petrol,No,Maruti,Alto,2014,10343,2020545,27.0,141.3,Jaipur
+V0087,Andhra Pradesh,Car,Petrol,No,Tata,Punch,2021,13333,2328793,26.0,121.2,Jaipur
+V0088,Karnataka,Truck,Petrol,No,Tata,Nexon,2019,9042,1390731,17.0,156.1,Lucknow
+V0089,Gujarat,Bike,Electric,Yes,Bajaj,Chetak,2017,8106,635389,0.0,0.0,Lucknow
+V0090,Rajasthan,Van,Hybrid,No,Tata,Nexon,2011,5597,230120,15.4,116.6,Jaipur
+V0091,Bihar,Bike,Petrol,No,Hero,HF Deluxe,2021,2069,2004685,15.2,110.3,Lucknow
+V0092,Karnataka,Bike,Diesel,No,Honda,City,2013,1355,1802391,23.1,178.0,Ahmedabad
+V0093,Madhya Pradesh,Bike,Hybrid,No,Hero,HF Deluxe,2014,5320,1070075,21.5,106.1,Kochi
+V0094,Delhi,Bike,Electric,Yes,Royal Enfield,Classic 350,2014,7287,1766037,0.0,0.0,Bengaluru
+V0095,Telangana,Truck,Petrol,No,Ashok Leyland,Dost,2010,2151,981965,22.0,188.9,Mumbai
+V0096,Assam,SUV,Hybrid,No,MG,Hector,2013,1637,883206,15.5,141.4,Hyderabad
+V0097,Maharashtra,Bus,Electric,Yes,Volvo,9400,2017,297,1290030,0.0,0.0,Kochi
+V0098,Bihar,Truck,Petrol,No,Ashok Leyland,Captain,2013,4083,93877,21.4,100.5,Hyderabad
+V0099,Gujarat,Bike,Diesel,No,Hero,Splendor,2019,922,1745583,29.5,152.7,Kolkata
+V0100,West Bengal,Bus,Petrol,No,Ashok Leyland,Captain,2024,5521,1615008,24.5,111.9,Bengaluru
+V0101,Bihar,Bike,Diesel,No,Bajaj,Pulsar,2022,7561,1959245,25.6,181.7,Kochi
+V0102,Karnataka,Bus,Diesel,No,Ashok Leyland,Dost,2011,9455,1636977,26.4,130.4,Ahmedabad
+V0103,Delhi,SUV,Hybrid,No,Tata,Nexon,2024,5522,881952,12.7,167.4,Jaipur
+V0104,Andhra Pradesh,Van,Diesel,No,Force Motors,Traveller,2011,12872,1952990,12.5,176.3,Hyderabad
+V0105,Chhattisgarh,Van,Diesel,No,Tata,Punch,2020,3708,1301891,12.7,170.4,Kochi
+V0106,Bihar,SUV,Petrol,No,Tata,Punch,2023,8898,290666,14.3,156.6,Kochi
+V0107,Odisha,Van,Electric,Yes,Maruti,Ertiga,2023,5088,2257815,0.0,0.0,Delhi
+V0108,Tamil Nadu,SUV,Diesel,No,MG,Astor,2022,5639,91881,19.5,159.8,Lucknow
+V0109,Jharkhand,Auto,Petrol,No,TVS,Apache,2015,7892,2404817,19.6,119.2,Kolkata
+V0110,Assam,Bike,Hybrid,No,TVS,Apache,2010,9567,943950,13.7,116.7,Lucknow
+V0111,Tamil Nadu,Truck,Diesel,No,Eicher,Pro 2049,2018,9021,2336500,18.7,151.3,Kochi
+V0112,Jharkhand,Bus,Electric,Yes,Tata,Nexon,2011,1264,209316,0.0,0.0,Kochi
+V0113,Odisha,Truck,Hybrid,No,Eicher,Pro 2049,2012,4861,191428,25.2,127.8,Kolkata
+V0114,Assam,SUV,Diesel,No,Hyundai,i20,2021,7199,1531261,23.6,100.3,Jaipur
+V0115,Bihar,Van,Hybrid,No,Tata,Punch,2022,6422,304866,28.0,171.5,Bengaluru
+V0116,Punjab,SUV,Hybrid,No,Tata,Punch,2021,6820,1686282,12.9,138.5,Ahmedabad
+V0117,Rajasthan,Truck,Electric,Yes,Tata,Punch,2016,5511,2239674,0.0,0.0,Lucknow
+V0118,Uttarakhand,Bus,Hybrid,No,Volvo,9400,2019,10467,1533774,15.1,154.1,Mumbai
+V0119,Assam,Car,Hybrid,No,Maruti,Swift,2011,4340,1502201,20.8,156.5,Lucknow
+V0120,West Bengal,Auto,Electric,Yes,Piaggio,Porter,2022,603,2144863,0.0,0.0,Kolkata
+V0121,Bihar,Car,Petrol,No,Hyundai,Creta,2019,9131,559311,13.6,131.2,Ahmedabad
+V0122,Andhra Pradesh,Car,Electric,Yes,Hyundai,i20,2010,2192,1318794,0.0,0.0,Lucknow
+V0123,Karnataka,Auto,Diesel,No,TVS,Apache,2020,4351,1981378,10.5,152.0,Ahmedabad
+V0124,Kerala,Truck,Electric,Yes,Mahindra,Jeeto,2017,283,469464,0.0,0.0,Delhi
+V0125,Andhra Pradesh,SUV,Diesel,No,Tata,Tiago,2023,108,1331858,24.1,194.9,Kochi
+V0126,Telangana,Van,Electric,Yes,Tata,Punch,2023,1245,2408128,0.0,0.0,Ahmedabad
+V0127,Jharkhand,SUV,Electric,Yes,Mahindra,Jeeto,2021,129,1079139,0.0,0.0,Jaipur
+V0128,West Bengal,Car,Hybrid,No,Hyundai,Venue,2015,14310,1463103,20.1,162.2,Kolkata
+V0129,Madhya Pradesh,SUV,Hybrid,No,Mahindra,Bolero,2015,8141,2112922,21.5,104.1,Delhi
+V0130,Kerala,Car,Petrol,No,Kia,Seltos,2011,13467,1445458,18.6,192.1,Lucknow
+V0131,Uttarakhand,Bike,Diesel,No,Bajaj,Pulsar,2013,261,1561212,11.6,158.9,Delhi
+V0132,Andhra Pradesh,Truck,Electric,Yes,Eicher,Pro 2049,2024,1205,2296844,0.0,0.0,Kolkata
+V0133,Uttar Pradesh,Auto,Electric,Yes,Bajaj,Pulsar,2011,5386,2001160,0.0,0.0,Jaipur
+V0134,Kerala,SUV,Electric,Yes,Mahindra,Jeeto,2012,7243,422033,0.0,0.0,Delhi
+V0135,Gujarat,Truck,Hybrid,No,Tata,Punch,2023,8028,1295581,25.6,192.4,Chennai
+V0136,Assam,SUV,Diesel,No,Hyundai,Venue,2011,2143,1725681,26.2,117.3,Kolkata
+V0137,Haryana,Bus,Hybrid,No,Tata,Tiago,2022,11471,1486462,26.3,193.2,Kochi
+V0138,Gujarat,Van,Electric,Yes,Force Motors,Gurkha,2021,7391,125804,0.0,0.0,Jaipur
+V0139,Odisha,SUV,Petrol,No,Mahindra,Bolero,2012,7566,2376949,29.5,120.8,Delhi
+V0140,Odisha,Car,Diesel,No,Toyota,Innova,2024,6728,2386331,18.9,162.3,Ahmedabad
+V0141,Punjab,Car,Hybrid,No,Toyota,Innova,2010,984,2215796,16.9,186.7,Kolkata
+V0142,Karnataka,Bus,Electric,Yes,Ashok Leyland,Dost,2013,10626,433216,0.0,0.0,Ahmedabad
+V0143,Madhya Pradesh,Auto,Petrol,No,Piaggio,Ape,2024,3219,494137,15.0,188.6,Delhi
+V0144,Punjab,Auto,Diesel,No,Bajaj,Pulsar,2023,521,1627578,29.8,141.5,Mumbai
+V0145,Delhi,SUV,Diesel,No,Mahindra,Bolero,2019,10487,1642901,11.4,169.6,Mumbai
+V0146,Karnataka,Auto,Electric,Yes,TVS,Apache,2011,11436,371242,0.0,0.0,Lucknow
+V0147,Bihar,Van,Hybrid,No,Maruti,Alto,2016,11672,667598,22.5,186.5,Ahmedabad
+V0148,Delhi,Bike,Petrol,No,Bajaj,Pulsar,2019,7571,1491535,28.7,185.8,Jaipur
+V0149,Haryana,Van,Petrol,No,Force Motors,Traveller,2014,7951,1778075,20.1,143.3,Delhi
+V0150,Delhi,Car,Electric,Yes,Maruti,Swift,2019,5748,2257390,0.0,0.0,Mumbai
+V0151,Chhattisgarh,Auto,Petrol,No,Bajaj,Chetak,2022,1179,1694776,28.2,174.7,Kochi
+V0152,Bihar,Bus,Hybrid,No,Ashok Leyland,Captain,2015,13989,2197419,25.7,143.8,Kolkata
+V0153,Haryana,SUV,Diesel,No,MG,Astor,2020,3660,1312777,19.3,157.3,Chennai
+V0154,Chhattisgarh,Car,Electric,Yes,Tata,Punch,2014,4797,1033818,0.0,0.0,Kolkata
+V0155,Bihar,SUV,Hybrid,No,Hyundai,i20,2021,4161,1781544,16.1,118.0,Hyderabad
+V0156,Gujarat,SUV,Hybrid,No,Hyundai,i20,2016,1776,946806,21.8,200.0,Kochi
+V0157,Telangana,Van,Diesel,No,Force Motors,Traveller,2024,7727,1203847,10.7,185.0,Bengaluru
+V0158,Haryana,Bike,Electric,Yes,Bajaj,Chetak,2019,13188,2412730,0.0,0.0,Mumbai
+V0159,West Bengal,Bus,Petrol,No,Tata,Punch,2011,3047,2150306,19.3,168.1,Chennai
+V0160,Punjab,Truck,Hybrid,No,Tata,Tiago,2022,8005,1573765,11.3,183.3,Hyderabad
+V0161,Bihar,SUV,Petrol,No,Mahindra,Bolero,2013,10533,2058384,23.7,163.6,Ahmedabad
+V0162,Bihar,SUV,Diesel,No,Mahindra,Bolero,2018,3790,1402293,23.7,119.6,Kolkata
+V0163,Haryana,SUV,Petrol,No,MG,Astor,2013,12126,1773074,18.6,118.1,Bengaluru
+V0164,Maharashtra,Bus,Petrol,No,Volvo,9600,2024,13795,615616,20.9,186.2,Hyderabad
+V0165,Kerala,Van,Diesel,No,Maruti,Swift,2021,14015,586438,11.7,117.4,Ahmedabad
+V0166,Rajasthan,Bike,Diesel,No,Royal Enfield,Hunter 350,2023,13431,794234,17.8,182.2,Delhi
+V0167,Uttarakhand,Bus,Petrol,No,Tata,Punch,2014,9495,2371018,13.1,152.0,Lucknow
+V0168,West Bengal,Truck,Diesel,No,Tata,Nexon,2023,13864,801903,22.9,135.3,Hyderabad
+V0169,West Bengal,Bus,Hybrid,No,Tata,Nexon,2017,14891,1053300,25.7,147.1,Hyderabad
+V0170,Kerala,SUV,Hybrid,No,Mahindra,Bolero,2012,6873,754983,20.2,104.7,Bengaluru
+V0171,Madhya Pradesh,Bus,Diesel,No,Volvo,9400,2014,14154,2300167,25.9,195.5,Ahmedabad
+V0172,Karnataka,Car,Petrol,No,Kia,Sonet,2010,9648,2436299,13.8,141.2,Jaipur
+V0173,Jharkhand,Auto,Hybrid,No,Piaggio,Porter,2015,12360,1897086,22.0,166.7,Lucknow
+V0174,Chhattisgarh,Bus,Hybrid,No,Tata,Punch,2018,13817,333334,10.5,191.4,Chennai
+V0175,Haryana,SUV,Petrol,No,MG,Hector,2024,10719,359328,13.9,172.9,Chennai
+V0176,Madhya Pradesh,Van,Electric,Yes,Force Motors,Gurkha,2011,3027,1923461,0.0,0.0,Ahmedabad
+V0177,Assam,Bike,Electric,Yes,TVS,Jupiter,2017,1433,971512,0.0,0.0,Jaipur
+V0178,Delhi,Auto,Electric,Yes,TVS,Apache,2022,8384,349672,0.0,0.0,Mumbai
+V0179,Uttar Pradesh,Van,Hybrid,No,Maruti,Alto,2022,12917,1857228,26.3,137.8,Jaipur
+V0180,Karnataka,Van,Electric,Yes,Force Motors,Traveller,2021,10540,1117551,0.0,0.0,Mumbai
+V0181,Punjab,Bike,Diesel,No,Hero,Splendor,2014,6051,140264,27.4,146.8,Kochi
+V0182,Karnataka,Bus,Petrol,No,Tata,Tiago,2012,886,2182533,13.6,183.8,Hyderabad
+V0183,Telangana,Bike,Hybrid,No,Honda,Amaze,2024,12902,2474907,16.3,139.1,Kochi
+V0184,Telangana,Van,Electric,Yes,Tata,Tiago,2015,6940,319365,0.0,0.0,Kochi
+V0185,Andhra Pradesh,Car,Hybrid,No,Kia,Seltos,2021,13079,963331,27.7,113.2,Chennai
+V0186,Odisha,SUV,Petrol,No,Mahindra,Bolero,2011,14179,1459871,29.7,113.7,Bengaluru
+V0187,Kerala,Bike,Diesel,No,Bajaj,Chetak,2017,8524,1325866,18.4,113.9,Kochi
+V0188,Punjab,Car,Electric,Yes,Hyundai,Creta,2017,9818,978921,0.0,0.0,Kolkata
+V0189,Chhattisgarh,Car,Hybrid,No,Toyota,Innova,2024,11367,486498,10.8,162.4,Bengaluru
+V0190,Andhra Pradesh,Van,Petrol,No,Force Motors,Traveller,2023,4777,514917,14.0,119.9,Mumbai
+V0191,Karnataka,Van,Petrol,No,Maruti,Ertiga,2020,1243,2299911,11.7,176.6,Delhi
+V0192,Tamil Nadu,Bike,Electric,Yes,Royal Enfield,Classic 350,2022,12110,1825464,0.0,0.0,Ahmedabad
+V0193,Punjab,Car,Diesel,No,Honda,Amaze,2017,9361,632460,11.2,123.9,Jaipur
+V0194,Delhi,Truck,Petrol,No,Mahindra,Jeeto,2024,13691,1181030,16.4,192.8,Delhi
+V0195,Karnataka,Van,Petrol,No,Force Motors,Gurkha,2015,7875,395530,11.4,197.0,Kochi
+V0196,Gujarat,Van,Hybrid,No,Tata,Nexon,2015,10962,1786016,15.7,149.2,Delhi
+V0197,Rajasthan,Bike,Electric,Yes,Royal Enfield,Hunter 350,2023,3396,1412161,0.0,0.0,Jaipur
+V0198,Maharashtra,Truck,Electric,Yes,Mahindra,Bolero,2014,12911,1428364,0.0,0.0,Hyderabad
+V0199,Assam,Auto,Petrol,No,TVS,Apache,2023,13357,2037574,13.0,137.3,Kochi
+V0200,Andhra Pradesh,Car,Petrol,No,Kia,Sonet,2022,2608,2078735,22.5,189.4,Jaipur
+V0201,Gujarat,Auto,Hybrid,No,TVS,Apache,2014,3607,1133051,23.1,115.3,Lucknow
+V0202,Kerala,Bus,Hybrid,No,Tata,Punch,2013,8526,1931878,21.1,102.9,Chennai
+V0203,Andhra Pradesh,SUV,Hybrid,No,MG,Astor,2023,9800,1472245,20.7,114.3,Jaipur
+V0204,Punjab,Auto,Hybrid,No,Bajaj,Pulsar,2022,992,370385,17.2,150.1,Ahmedabad
+V0205,Andhra Pradesh,Bike,Electric,Yes,Honda,Amaze,2018,1255,1935771,0.0,0.0,Lucknow
+V0206,Tamil Nadu,Bike,Diesel,No,Royal Enfield,Classic 350,2024,6163,1763273,29.2,125.5,Kolkata
+V0207,Chhattisgarh,Truck,Petrol,No,Eicher,Pro 2049,2012,6647,1459666,26.4,169.6,Lucknow
+V0208,Delhi,Van,Hybrid,No,Maruti,Ertiga,2023,13994,2442447,12.3,101.8,Ahmedabad
+V0209,Telangana,SUV,Diesel,No,Hyundai,Venue,2018,2139,1697108,17.1,106.4,Kochi
+V0210,Andhra Pradesh,Car,Electric,Yes,Hyundai,i20,2018,14363,355743,0.0,0.0,Ahmedabad
+V0211,Chhattisgarh,Truck,Petrol,No,Mahindra,Bolero,2023,7140,1310507,23.1,141.5,Jaipur
+V0212,Delhi,SUV,Diesel,No,Mahindra,Bolero,2021,10453,832012,27.5,119.9,Hyderabad
+V0213,Punjab,Truck,Hybrid,No,Mahindra,Bolero,2018,4188,2141746,11.1,140.3,Mumbai
+V0214,Punjab,Auto,Petrol,No,TVS,Apache,2018,305,1690501,11.7,150.9,Bengaluru
+V0215,Uttar Pradesh,Auto,Diesel,No,TVS,Apache,2024,1102,847392,16.9,185.4,Lucknow
+V0216,West Bengal,Van,Petrol,No,Maruti,Swift,2020,12897,241298,16.5,108.5,Lucknow
+V0217,Maharashtra,Bike,Electric,Yes,Royal Enfield,Classic 350,2021,12484,1389690,0.0,0.0,Chennai
+V0218,Uttarakhand,Auto,Diesel,No,Bajaj,Pulsar,2021,4805,2038811,16.2,152.2,Ahmedabad
+V0219,Madhya Pradesh,Van,Hybrid,No,Force Motors,Traveller,2012,6840,2100756,10.9,173.0,Kolkata
+V0220,Bihar,Car,Hybrid,No,Tata,Punch,2016,364,1194493,13.9,145.2,Jaipur
+V0221,Punjab,Car,Electric,Yes,Honda,City,2010,1497,321270,0.0,0.0,Ahmedabad
+V0222,Delhi,Auto,Electric,Yes,Piaggio,Ape,2017,3767,1356808,0.0,0.0,Delhi
+V0223,Andhra Pradesh,SUV,Hybrid,No,Mahindra,Bolero,2019,10374,530384,21.6,104.9,Delhi
+V0224,Tamil Nadu,SUV,Diesel,No,Mahindra,Bolero,2011,12387,889023,13.0,170.7,Mumbai
+V0225,Uttar Pradesh,Bus,Electric,Yes,Volvo,9600,2010,5014,828617,0.0,0.0,Mumbai
+V0226,Punjab,Bike,Hybrid,No,Hero,HF Deluxe,2021,13092,2161020,24.0,104.5,Bengaluru
+V0227,Assam,Car,Diesel,No,Honda,Amaze,2024,7029,2283766,14.6,188.0,Hyderabad
+V0228,Tamil Nadu,Bus,Diesel,No,Ashok Leyland,Dost,2013,5265,545668,10.1,182.9,Delhi
+V0229,Madhya Pradesh,Van,Hybrid,No,Maruti,Swift,2017,1112,705334,17.8,127.0,Delhi
+V0230,Uttar Pradesh,Truck,Hybrid,No,Mahindra,Jeeto,2021,13460,779997,17.2,142.8,Chennai
+V0231,Gujarat,Truck,Petrol,No,Tata,Punch,2021,2899,1002466,26.1,166.0,Ahmedabad
+V0232,Uttarakhand,Van,Diesel,No,Force Motors,Traveller,2023,908,1258834,17.3,178.6,Delhi
+V0233,Tamil Nadu,Van,Diesel,No,Tata,Punch,2014,14753,1924291,12.5,170.4,Chennai
+V0234,Telangana,Bus,Diesel,No,Volvo,9400,2016,6104,315708,21.5,194.0,Bengaluru
+V0235,Uttarakhand,Auto,Diesel,No,TVS,Jupiter,2017,9248,1748377,26.5,124.2,Delhi
+V0236,Uttarakhand,Bike,Petrol,No,Bajaj,Pulsar,2012,14510,2084641,24.4,116.8,Ahmedabad
+V0237,Uttarakhand,Car,Hybrid,No,Honda,Amaze,2024,9860,1207288,18.1,175.5,Chennai
+V0238,Delhi,Van,Hybrid,No,Force Motors,Traveller,2011,10278,2322031,22.5,140.9,Hyderabad
+V0239,Kerala,Car,Electric,Yes,Toyota,Fortuner,2010,7383,2146098,0.0,0.0,Kochi
+V0240,Chhattisgarh,Truck,Diesel,No,Tata,Tiago,2010,11160,158699,15.0,130.8,Ahmedabad
+V0241,Kerala,Bike,Petrol,No,Hero,Splendor,2015,8261,1202130,18.1,199.1,Kolkata
+V0242,Bihar,Car,Petrol,No,Hyundai,Creta,2019,654,1449464,14.0,135.8,Chennai
+V0243,Chhattisgarh,Bike,Diesel,No,Bajaj,Chetak,2019,11017,1771910,27.2,154.7,Hyderabad
+V0244,Assam,Bike,Hybrid,No,Bajaj,Chetak,2011,14937,2407417,18.2,165.3,Kochi
+V0245,West Bengal,Bus,Hybrid,No,Volvo,9600,2024,2858,473369,23.1,142.3,Chennai
+V0246,Rajasthan,SUV,Diesel,No,MG,Hector,2015,4857,2070639,27.8,166.1,Kolkata
+V0247,Kerala,SUV,Electric,Yes,Hyundai,i20,2014,1708,844969,0.0,0.0,Delhi
+V0248,Maharashtra,SUV,Petrol,No,Mahindra,Bolero,2023,1403,161979,16.0,121.8,Jaipur
+V0249,West Bengal,Auto,Electric,Yes,Bajaj,Chetak,2010,2760,1748401,0.0,0.0,Mumbai
+V0250,Maharashtra,Car,Diesel,No,Kia,Seltos,2013,403,452769,16.7,166.5,Lucknow
+V0251,Maharashtra,SUV,Electric,Yes,Tata,Punch,2024,9597,1475868,0.0,0.0,Kochi
+V0252,Madhya Pradesh,Bike,Diesel,No,Bajaj,Pulsar,2014,6278,368645,21.3,148.6,Mumbai
+V0253,Maharashtra,Auto,Petrol,No,Piaggio,Porter,2011,13047,599054,29.0,174.0,Kochi
+V0254,Telangana,SUV,Petrol,No,Mahindra,Bolero,2015,12110,1680065,29.0,171.5,Jaipur
+V0255,Jharkhand,Auto,Diesel,No,TVS,Jupiter,2018,14065,1985108,23.9,197.1,Hyderabad
+V0256,Haryana,Bus,Hybrid,No,Tata,Tiago,2021,4387,921251,29.3,104.5,Jaipur
+V0257,Maharashtra,Bus,Hybrid,No,Ashok Leyland,Dost,2021,325,383159,29.5,116.4,Ahmedabad
+V0258,Chhattisgarh,Van,Electric,Yes,Tata,Punch,2016,3114,1145215,0.0,0.0,Kolkata
+V0259,Punjab,Truck,Electric,Yes,Tata,Punch,2010,4236,1972237,0.0,0.0,Jaipur
+V0260,Chhattisgarh,Car,Diesel,No,Toyota,Innova,2014,5272,1303514,10.3,183.0,Jaipur
+V0261,Jharkhand,Truck,Diesel,No,Tata,Nexon,2019,6536,493638,17.3,164.1,Kolkata
+V0262,Punjab,SUV,Diesel,No,Hyundai,i20,2013,2589,1325092,23.2,174.1,Jaipur
+V0263,West Bengal,Truck,Diesel,No,Ashok Leyland,Captain,2022,7480,1417086,23.7,104.9,Chennai
+V0264,Madhya Pradesh,Car,Petrol,No,Toyota,Fortuner,2021,127,1477448,23.0,130.6,Kolkata
+V0265,Andhra Pradesh,Bus,Diesel,No,Tata,Nexon,2021,9113,1195238,24.7,166.3,Lucknow
+V0266,Kerala,Truck,Hybrid,No,Mahindra,Jeeto,2017,7301,1146546,19.3,151.1,Chennai
+V0267,Delhi,Auto,Hybrid,No,TVS,Jupiter,2020,1645,334126,29.8,105.6,Ahmedabad
+V0268,Madhya Pradesh,Bike,Diesel,No,Royal Enfield,Classic 350,2015,14392,2476025,10.5,170.9,Hyderabad
+V0269,Maharashtra,Van,Hybrid,No,Tata,Punch,2016,8849,2118058,22.9,159.2,Lucknow
+V0270,Punjab,Auto,Petrol,No,TVS,Jupiter,2014,1289,2308776,28.6,101.4,Kochi
+V0271,Uttarakhand,Auto,Hybrid,No,Piaggio,Ape,2012,9812,357071,16.7,156.5,Bengaluru
+V0272,Assam,Car,Electric,Yes,Hyundai,i20,2011,5775,129051,0.0,0.0,Mumbai
+V0273,Telangana,Bus,Petrol,No,Tata,Tiago,2020,14782,1434910,22.2,199.0,Ahmedabad
+V0274,Haryana,Bus,Petrol,No,Ashok Leyland,Dost,2013,5918,384925,28.8,184.7,Hyderabad
+V0275,Telangana,Bus,Electric,Yes,Volvo,9400,2021,10202,718538,0.0,0.0,Kochi
+V0276,Madhya Pradesh,SUV,Petrol,No,Hyundai,Venue,2016,1299,1419267,25.9,179.8,Kolkata
+V0277,Gujarat,Bike,Electric,Yes,Honda,City,2015,2194,1851578,0.0,0.0,Bengaluru
+V0278,Andhra Pradesh,Van,Hybrid,No,Force Motors,Gurkha,2022,14215,2019404,27.9,146.9,Kochi
+V0279,Rajasthan,Van,Diesel,No,Maruti,Baleno,2012,5593,767562,21.8,122.6,Delhi
+V0280,Uttar Pradesh,Van,Diesel,No,Tata,Tiago,2015,6699,224400,10.7,139.2,Hyderabad
+V0281,Bihar,SUV,Hybrid,No,Hyundai,Venue,2016,11445,666890,22.0,167.8,Kochi
+V0282,Odisha,Auto,Hybrid,No,Bajaj,Pulsar,2011,9839,587922,29.5,168.2,Mumbai
+V0283,Jharkhand,Auto,Hybrid,No,Piaggio,Porter,2024,6716,670429,22.4,171.7,Mumbai
+V0284,Punjab,Auto,Hybrid,No,Piaggio,Ape,2012,7403,1625265,27.1,104.3,Lucknow
+V0285,Uttar Pradesh,Bike,Hybrid,No,TVS,Apache,2017,8053,1227828,13.5,177.7,Ahmedabad
+V0286,Bihar,SUV,Hybrid,No,MG,Astor,2012,1901,571151,15.5,148.8,Delhi
+V0287,Uttar Pradesh,Van,Hybrid,No,Maruti,Ertiga,2012,179,1225266,23.7,124.0,Chennai
+V0288,West Bengal,Auto,Electric,Yes,TVS,Apache,2023,1967,894783,0.0,0.0,Delhi
+V0289,Odisha,Auto,Hybrid,No,TVS,Apache,2019,14006,1237337,15.6,128.1,Lucknow
+V0290,Maharashtra,SUV,Petrol,No,MG,Hector,2012,1076,2366489,19.4,107.3,Mumbai
+V0291,Karnataka,Bus,Electric,Yes,Volvo,9600,2016,272,2358639,0.0,0.0,Chennai
+V0292,Punjab,Auto,Hybrid,No,Piaggio,Porter,2017,13680,2191816,17.8,193.4,Jaipur
+V0293,Odisha,Van,Hybrid,No,Force Motors,Traveller,2024,9284,1494671,16.7,166.8,Mumbai
+V0294,Madhya Pradesh,Bus,Petrol,No,Tata,Punch,2023,3988,2272937,13.9,158.7,Chennai
+V0295,Chhattisgarh,Car,Petrol,No,Honda,City,2017,12460,297726,16.4,159.5,Delhi
+V0296,Bihar,Car,Petrol,No,Tata,Punch,2014,7888,975268,21.1,133.4,Ahmedabad
+V0297,Rajasthan,Bus,Electric,Yes,Tata,Tiago,2022,9621,2466842,0.0,0.0,Jaipur
+V0298,Uttar Pradesh,Bike,Petrol,No,Royal Enfield,Classic 350,2022,133,497390,20.7,171.8,Hyderabad
+V0299,Madhya Pradesh,Truck,Electric,Yes,Eicher,Pro 3015,2014,3704,1548154,0.0,0.0,Mumbai
+V0300,Kerala,Van,Diesel,No,Force Motors,Gurkha,2011,13874,2414518,27.6,157.5,Lucknow
+V0301,Gujarat,Car,Petrol,No,Toyota,Innova,2016,9238,1891570,16.0,106.0,Hyderabad
+V0302,West Bengal,Auto,Petrol,No,Piaggio,Porter,2010,10388,2451559,17.7,112.6,Jaipur
+V0303,Chhattisgarh,Truck,Petrol,No,Mahindra,Jeeto,2022,4100,1890978,23.6,192.5,Bengaluru
+V0304,Uttarakhand,Bus,Electric,Yes,Ashok Leyland,Captain,2011,13116,1100250,0.0,0.0,Mumbai
+V0305,Bihar,Van,Petrol,No,Maruti,Swift,2023,8574,735252,27.9,142.1,Mumbai
+V0306,Andhra Pradesh,SUV,Diesel,No,Hyundai,Venue,2017,10603,652868,27.8,180.7,Mumbai
+V0307,Delhi,Auto,Electric,Yes,Piaggio,Ape,2019,9162,2308560,0.0,0.0,Lucknow
+V0308,Jharkhand,Van,Hybrid,No,Force Motors,Gurkha,2016,8290,209492,19.3,134.0,Mumbai
+V0309,Uttar Pradesh,Van,Electric,Yes,Maruti,Baleno,2020,9446,1103999,0.0,0.0,Kolkata
+V0310,Punjab,Car,Petrol,No,Honda,City,2017,11779,1193764,16.8,195.3,Delhi
+V0311,Bihar,SUV,Diesel,No,Hyundai,i20,2022,13979,1351810,25.8,160.7,Jaipur
+V0312,Uttarakhand,SUV,Diesel,No,Hyundai,i20,2022,2408,977898,20.8,142.0,Bengaluru
+V0313,Rajasthan,Van,Hybrid,No,Maruti,Alto,2016,1779,1359268,23.7,197.8,Chennai
+V0314,Delhi,SUV,Electric,Yes,Mahindra,Jeeto,2017,1347,745202,0.0,0.0,Delhi
+V0315,Tamil Nadu,Bike,Diesel,No,Royal Enfield,Hunter 350,2022,1564,2465188,25.2,159.3,Hyderabad
+V0316,Odisha,Van,Petrol,No,Tata,Nexon,2020,3278,246992,12.2,169.7,Mumbai
+V0317,West Bengal,Bike,Petrol,No,Royal Enfield,Classic 350,2013,14520,1559917,18.3,142.0,Ahmedabad
+V0318,Madhya Pradesh,Truck,Electric,Yes,Ashok Leyland,Captain,2023,9983,1499422,0.0,0.0,Lucknow
+V0319,Uttarakhand,Bike,Hybrid,No,Royal Enfield,Hunter 350,2024,6288,2135852,20.3,162.5,Jaipur
+V0320,Karnataka,Van,Electric,Yes,Force Motors,Traveller,2013,12914,772360,0.0,0.0,Kolkata
+V0321,Chhattisgarh,Van,Diesel,No,Force Motors,Gurkha,2020,7592,1650887,29.8,152.2,Lucknow
+V0322,Rajasthan,Truck,Diesel,No,Eicher,Pro 3015,2022,1340,982586,19.6,113.1,Mumbai
+V0323,Maharashtra,Van,Petrol,No,Maruti,Baleno,2023,11701,2084727,16.0,152.8,Hyderabad
+V0324,Kerala,SUV,Electric,Yes,MG,Astor,2010,1421,439463,0.0,0.0,Chennai
+V0325,Kerala,Bus,Petrol,No,Tata,Nexon,2016,2008,425646,10.1,177.4,Chennai
+V0326,Gujarat,SUV,Diesel,No,Mahindra,Jeeto,2024,12070,1363401,28.5,120.8,Kochi
+V0327,Karnataka,Bus,Electric,Yes,Ashok Leyland,Captain,2020,9177,2207877,0.0,0.0,Chennai
+V0328,Uttar Pradesh,Truck,Diesel,No,Tata,Nexon,2012,1245,1665567,17.7,135.9,Jaipur
+V0329,Odisha,Auto,Petrol,No,TVS,Apache,2024,2700,2100187,23.7,135.5,Kolkata
+V0330,Madhya Pradesh,Truck,Petrol,No,Mahindra,Jeeto,2019,13197,460478,24.4,128.1,Hyderabad
+V0331,Madhya Pradesh,Truck,Petrol,No,Tata,Tiago,2016,6489,1355847,26.7,167.2,Mumbai
+V0332,Delhi,Car,Electric,Yes,Kia,Seltos,2012,3867,153019,0.0,0.0,Mumbai
+V0333,Punjab,Auto,Petrol,No,Piaggio,Ape,2013,14392,236690,10.1,178.5,Hyderabad
+V0334,Odisha,Car,Electric,Yes,Honda,City,2024,3256,2046886,0.0,0.0,Delhi
+V0335,Maharashtra,Car,Petrol,No,Toyota,Innova,2024,6219,189109,19.7,103.3,Ahmedabad
+V0336,Telangana,Bus,Petrol,No,Ashok Leyland,Dost,2012,1544,1829917,22.8,120.7,Jaipur
+V0337,Madhya Pradesh,Car,Electric,Yes,Toyota,Innova,2018,4282,1505306,0.0,0.0,Jaipur
+V0338,Gujarat,Auto,Petrol,No,Piaggio,Ape,2010,9559,1899679,27.2,131.1,Kochi
+V0339,Andhra Pradesh,Auto,Petrol,No,TVS,Apache,2011,13740,190278,10.6,175.7,Jaipur
+V0340,Rajasthan,Truck,Hybrid,No,Ashok Leyland,Captain,2021,11804,735852,28.3,132.4,Delhi
+V0341,Odisha,Truck,Petrol,No,Tata,Tiago,2020,10359,365564,15.1,178.1,Mumbai
+V0342,Karnataka,Auto,Hybrid,No,Piaggio,Porter,2020,1593,365898,10.3,149.0,Ahmedabad
+V0343,Assam,SUV,Diesel,No,MG,Hector,2024,13454,1749554,15.8,149.2,Lucknow
+V0344,Madhya Pradesh,SUV,Petrol,No,Hyundai,Creta,2020,7513,1265204,22.2,140.3,Kochi
+V0345,Andhra Pradesh,SUV,Diesel,No,MG,Hector,2014,2240,2061307,11.0,146.2,Kochi
+V0346,Rajasthan,Car,Diesel,No,Toyota,Innova,2024,4542,1654667,27.5,150.3,Lucknow
+V0347,Gujarat,Bike,Diesel,No,Royal Enfield,Hunter 350,2012,9585,1869498,27.9,184.9,Bengaluru
+V0348,Chhattisgarh,Auto,Petrol,No,Piaggio,Ape,2023,599,611333,26.2,164.4,Kochi
+V0349,West Bengal,Truck,Hybrid,No,Tata,Punch,2017,5723,248255,15.3,144.5,Mumbai
+V0350,Rajasthan,Bike,Electric,Yes,Hero,Splendor,2015,11999,1651817,0.0,0.0,Kochi
+V0351,Andhra Pradesh,Truck,Petrol,No,Mahindra,Jeeto,2024,11333,2241428,27.3,109.2,Lucknow
+V0352,Rajasthan,Car,Electric,Yes,Hyundai,Creta,2019,10486,2475685,0.0,0.0,Hyderabad
+V0353,Tamil Nadu,Bike,Petrol,No,TVS,Apache,2012,10407,1078429,10.3,119.7,Delhi
+V0354,Delhi,Auto,Diesel,No,Bajaj,Pulsar,2021,2327,2013904,29.3,133.5,Kolkata
+V0355,Maharashtra,Car,Hybrid,No,Maruti,Baleno,2023,4501,689373,19.9,157.9,Kochi
+V0356,Uttarakhand,Bus,Hybrid,No,Ashok Leyland,Captain,2014,6817,1523862,11.5,115.1,Chennai
+V0357,Maharashtra,Car,Diesel,No,Kia,Sonet,2010,8974,1649997,19.9,104.5,Delhi
+V0358,West Bengal,Car,Petrol,No,Toyota,Innova,2023,3386,2208279,29.4,143.4,Mumbai
+V0359,Jharkhand,Bus,Petrol,No,Tata,Tiago,2010,3426,313299,28.5,160.9,Kochi
+V0360,Telangana,Van,Hybrid,No,Maruti,Ertiga,2016,8946,2243889,24.6,120.0,Hyderabad
+V0361,Bihar,Van,Diesel,No,Maruti,Ertiga,2018,3399,456762,11.1,170.8,Delhi
+V0362,Tamil Nadu,Car,Electric,Yes,Toyota,Fortuner,2011,3295,2155518,0.0,0.0,Kolkata
+V0363,Delhi,Bike,Petrol,No,TVS,Jupiter,2017,7467,2059999,25.8,161.0,Hyderabad
+V0364,Odisha,Bus,Petrol,No,Ashok Leyland,Captain,2010,13217,1049560,19.5,167.3,Delhi
+V0365,Bihar,Van,Diesel,No,Tata,Tiago,2018,13495,2250939,18.9,160.0,Kochi
+V0366,Kerala,SUV,Petrol,No,Tata,Punch,2011,2474,992375,10.1,153.8,Kochi
+V0367,Delhi,Car,Electric,Yes,Hyundai,i20,2012,6544,1098245,0.0,0.0,Kochi
+V0368,Karnataka,Car,Electric,Yes,Maruti,Alto,2021,10085,838744,0.0,0.0,Delhi
+V0369,Tamil Nadu,Truck,Electric,Yes,Tata,Tiago,2020,12019,2372257,0.0,0.0,Hyderabad
+V0370,Kerala,Car,Diesel,No,Toyota,Fortuner,2012,6848,577286,22.3,126.7,Bengaluru
+V0371,Haryana,Car,Hybrid,No,Toyota,Fortuner,2014,14135,573807,11.8,159.5,Chennai
+V0372,Rajasthan,Bus,Hybrid,No,Volvo,9400,2015,2131,1063192,25.8,107.4,Kolkata
+V0373,Assam,Auto,Petrol,No,Bajaj,Pulsar,2023,4720,1422650,22.1,174.3,Ahmedabad
+V0374,Gujarat,Van,Diesel,No,Tata,Tiago,2018,3715,449990,10.2,172.0,Kochi
+V0375,Rajasthan,Auto,Hybrid,No,TVS,Jupiter,2024,14443,1515623,15.4,192.1,Kolkata
+V0376,Karnataka,Auto,Petrol,No,Piaggio,Ape,2024,6881,598351,20.2,183.6,Jaipur
+V0377,Punjab,Car,Hybrid,No,Toyota,Innova,2020,14204,2110638,25.8,189.7,Kochi
+V0378,Odisha,SUV,Diesel,No,Hyundai,Creta,2017,10383,1594176,10.6,116.2,Bengaluru
+V0379,Kerala,Bike,Electric,Yes,Bajaj,Pulsar,2017,2443,416570,0.0,0.0,Chennai
+V0380,Tamil Nadu,SUV,Diesel,No,Mahindra,Jeeto,2018,7710,2489481,17.1,153.1,Hyderabad
+V0381,Uttarakhand,Car,Electric,Yes,Hyundai,Creta,2016,4409,1345166,0.0,0.0,Lucknow
+V0382,Delhi,Bus,Electric,Yes,Tata,Punch,2014,11356,2247173,0.0,0.0,Ahmedabad
+V0383,Gujarat,Van,Diesel,No,Tata,Tiago,2014,8106,2495962,24.2,194.6,Lucknow
+V0384,Rajasthan,Bus,Hybrid,No,Tata,Nexon,2011,2456,1939091,29.6,185.8,Delhi
+V0385,Gujarat,Bus,Petrol,No,Volvo,9400,2019,1810,568651,25.9,190.3,Chennai
+V0386,Gujarat,Auto,Hybrid,No,TVS,Apache,2011,1835,1744095,28.3,120.2,Ahmedabad
+V0387,Uttar Pradesh,Car,Hybrid,No,Hyundai,i20,2010,9702,1013644,10.0,186.4,Mumbai
+V0388,Uttar Pradesh,SUV,Petrol,No,Tata,Tiago,2023,10554,1590353,18.3,159.9,Delhi
+V0389,Gujarat,Car,Petrol,No,Tata,Tiago,2021,761,2087227,10.2,103.5,Delhi
+V0390,Kerala,Car,Electric,Yes,Hyundai,Venue,2013,2502,1926876,0.0,0.0,Ahmedabad
+V0391,Odisha,Van,Diesel,No,Tata,Tiago,2012,3389,1006338,23.2,106.6,Jaipur
+V0392,Gujarat,Auto,Electric,Yes,Bajaj,Pulsar,2022,13773,2117213,0.0,0.0,Bengaluru
+V0393,Kerala,Van,Hybrid,No,Force Motors,Gurkha,2021,969,2422121,16.9,193.5,Bengaluru
+V0394,Maharashtra,Van,Electric,Yes,Maruti,Swift,2020,440,961130,0.0,0.0,Bengaluru
+V0395,Punjab,Auto,Petrol,No,Piaggio,Porter,2020,1555,1770518,29.1,108.0,Kochi
+V0396,Odisha,SUV,Hybrid,No,MG,Astor,2016,5537,2010506,19.6,162.3,Mumbai
+V0397,Maharashtra,SUV,Diesel,No,MG,Hector,2024,9686,2121655,29.2,167.0,Lucknow
+V0398,Maharashtra,Truck,Hybrid,No,Mahindra,Bolero,2017,3224,381179,14.3,107.2,Chennai
+V0399,Delhi,SUV,Petrol,No,Tata,Punch,2010,10604,1312762,24.2,166.4,Mumbai
+V0400,Odisha,Bike,Petrol,No,Royal Enfield,Hunter 350,2021,10356,1411517,20.0,176.1,Chennai
+V0401,Bihar,Bike,Petrol,No,Royal Enfield,Hunter 350,2018,2425,114235,23.8,138.1,Mumbai
+V0402,Uttarakhand,Truck,Hybrid,No,Ashok Leyland,Captain,2012,9627,751004,17.3,146.6,Lucknow
+V0403,Karnataka,Bike,Petrol,No,Royal Enfield,Hunter 350,2014,14237,1861981,26.1,168.7,Bengaluru
+V0404,Odisha,SUV,Diesel,No,MG,Astor,2017,11106,2222346,23.6,182.8,Hyderabad
+V0405,Chhattisgarh,Van,Hybrid,No,Tata,Nexon,2022,8678,1051741,19.5,179.4,Chennai
+V0406,Punjab,Truck,Diesel,No,Tata,Punch,2014,1088,1088672,24.8,134.4,Bengaluru
+V0407,Haryana,Auto,Hybrid,No,TVS,Jupiter,2016,9308,1321717,10.8,107.8,Lucknow
+V0408,Karnataka,Van,Electric,Yes,Maruti,Alto,2014,13871,595118,0.0,0.0,Kolkata
+V0409,Kerala,Auto,Petrol,No,Bajaj,Chetak,2015,1612,179926,29.3,148.3,Mumbai
+V0410,Madhya Pradesh,Van,Electric,Yes,Force Motors,Gurkha,2022,11379,202470,0.0,0.0,Bengaluru
+V0411,Delhi,Bike,Petrol,No,Royal Enfield,Classic 350,2010,6418,2163939,22.2,184.2,Ahmedabad
+V0412,Madhya Pradesh,Auto,Hybrid,No,TVS,Apache,2012,12665,2474714,12.9,194.2,Kochi
+V0413,Delhi,Bus,Electric,Yes,Tata,Nexon,2015,6671,754667,0.0,0.0,Jaipur
+V0414,Uttar Pradesh,Car,Hybrid,No,Hyundai,Creta,2014,5722,1893914,13.3,126.7,Hyderabad
+V0415,Maharashtra,Bike,Petrol,No,Royal Enfield,Hunter 350,2010,6712,560436,14.0,183.8,Chennai
+V0416,Uttarakhand,Car,Petrol,No,Maruti,Baleno,2017,13411,788234,28.4,169.8,Jaipur
+V0417,Haryana,Van,Diesel,No,Maruti,Swift,2023,6319,256500,18.5,106.5,Hyderabad
+V0418,Kerala,Bus,Electric,Yes,Tata,Nexon,2020,2751,1609879,0.0,0.0,Kochi
+V0419,Assam,Truck,Electric,Yes,Mahindra,Bolero,2021,9818,794062,0.0,0.0,Mumbai
+V0420,Tamil Nadu,Bike,Diesel,No,Bajaj,Chetak,2021,6313,1099837,10.4,133.7,Mumbai
+V0421,Uttar Pradesh,Bike,Hybrid,No,Royal Enfield,Hunter 350,2012,14967,1529644,11.2,121.6,Lucknow
+V0422,Gujarat,Auto,Diesel,No,TVS,Apache,2024,13682,251321,11.1,143.5,Hyderabad
+V0423,Bihar,Car,Hybrid,No,Hyundai,Venue,2014,10754,1950264,18.9,100.8,Hyderabad
+V0424,Rajasthan,Auto,Diesel,No,Bajaj,Chetak,2014,5719,806622,18.9,130.7,Ahmedabad
+V0425,Uttarakhand,SUV,Hybrid,No,MG,Hector,2023,1733,2224528,10.6,127.9,Chennai
+V0426,Andhra Pradesh,Bus,Hybrid,No,Tata,Nexon,2017,8632,554443,11.2,167.8,Hyderabad
+V0427,Chhattisgarh,Van,Petrol,No,Tata,Nexon,2024,3746,1292418,22.6,194.2,Delhi
+V0428,Maharashtra,Bike,Diesel,No,Bajaj,Chetak,2023,3430,635638,24.7,146.8,Jaipur
+V0429,Maharashtra,Auto,Diesel,No,Piaggio,Porter,2013,1721,620527,17.2,190.8,Lucknow
+V0430,Uttar Pradesh,Car,Petrol,No,Honda,City,2014,7257,2149876,20.9,133.3,Mumbai
+V0431,West Bengal,Bus,Petrol,No,Volvo,9400,2020,382,1795072,29.9,120.2,Kolkata
+V0432,Uttar Pradesh,Car,Diesel,No,Hyundai,i20,2015,1540,129448,21.7,101.1,Hyderabad
+V0433,Gujarat,Auto,Hybrid,No,Piaggio,Porter,2010,5622,1162029,13.2,147.8,Kolkata
+V0434,Assam,Car,Hybrid,No,Maruti,Alto,2010,2545,2240754,19.3,134.0,Lucknow
+V0435,Karnataka,SUV,Diesel,No,Hyundai,Creta,2018,2659,2326784,14.9,192.1,Delhi
+V0436,Gujarat,Car,Diesel,No,Hyundai,Venue,2020,6041,2180699,13.4,155.1,Ahmedabad
+V0437,Gujarat,Bus,Hybrid,No,Tata,Nexon,2023,13307,1511420,14.5,142.6,Chennai
+V0438,Chhattisgarh,Bus,Electric,Yes,Volvo,9400,2018,12975,1129899,0.0,0.0,Hyderabad
+V0439,Bihar,Van,Diesel,No,Force Motors,Gurkha,2012,9402,1297286,10.6,161.1,Kochi
+V0440,Kerala,Bus,Electric,Yes,Ashok Leyland,Captain,2018,8320,1075773,0.0,0.0,Bengaluru
+V0441,Odisha,Auto,Electric,Yes,Bajaj,Chetak,2023,2823,246695,0.0,0.0,Lucknow
+V0442,Tamil Nadu,Auto,Petrol,No,Bajaj,Pulsar,2013,5688,2280413,27.0,159.0,Chennai
+V0443,Andhra Pradesh,Van,Electric,Yes,Force Motors,Gurkha,2011,8660,1624663,0.0,0.0,Hyderabad
+V0444,Uttarakhand,Van,Electric,Yes,Maruti,Ertiga,2023,14240,2392372,0.0,0.0,Chennai
+V0445,Tamil Nadu,Truck,Diesel,No,Ashok Leyland,Captain,2016,600,1364270,14.0,168.0,Jaipur
+V0446,Telangana,Bike,Petrol,No,TVS,Apache,2016,9605,521898,11.0,156.7,Jaipur
+V0447,Gujarat,Bus,Electric,Yes,Volvo,9400,2013,2880,1695125,0.0,0.0,Kolkata
+V0448,Punjab,Car,Electric,Yes,Kia,Sonet,2016,13076,1815994,0.0,0.0,Jaipur
+V0449,Karnataka,Auto,Hybrid,No,Bajaj,Chetak,2024,6515,2129909,17.8,122.3,Kolkata
+V0450,Telangana,Bus,Hybrid,No,Tata,Punch,2024,4460,1855857,13.2,119.6,Ahmedabad
+V0451,Tamil Nadu,SUV,Hybrid,No,MG,Hector,2021,5719,1316508,28.0,166.0,Ahmedabad
+V0452,Bihar,Bike,Hybrid,No,Honda,City,2023,6220,1747946,12.5,110.8,Mumbai
+V0453,Jharkhand,Bike,Diesel,No,Honda,Amaze,2021,7422,689495,23.5,180.4,Jaipur
+V0454,Delhi,Auto,Electric,Yes,Bajaj,Pulsar,2012,8220,1535537,0.0,0.0,Chennai
+V0455,Kerala,Van,Electric,Yes,Tata,Punch,2017,4185,1266262,0.0,0.0,Kolkata
+V0456,Karnataka,Bike,Petrol,No,Royal Enfield,Hunter 350,2018,700,125022,24.7,101.6,Kochi
+V0457,Odisha,Car,Petrol,No,Hyundai,Venue,2017,6070,1363794,22.8,144.6,Mumbai
+V0458,Uttar Pradesh,Truck,Diesel,No,Ashok Leyland,Dost,2021,7096,1691552,19.9,147.1,Lucknow
+V0459,Uttar Pradesh,Auto,Hybrid,No,Piaggio,Porter,2011,1580,2268409,20.7,104.3,Hyderabad
+V0460,Kerala,Truck,Hybrid,No,Ashok Leyland,Dost,2016,4033,224771,14.4,173.6,Lucknow
+V0461,Rajasthan,Bus,Diesel,No,Volvo,9600,2024,11639,1476304,25.0,140.5,Mumbai
+V0462,West Bengal,Van,Petrol,No,Force Motors,Traveller,2024,14164,729758,29.9,134.2,Hyderabad
+V0463,Maharashtra,Car,Diesel,No,Kia,Seltos,2013,7887,2375780,16.2,121.2,Bengaluru
+V0464,Tamil Nadu,Bike,Electric,Yes,Royal Enfield,Hunter 350,2014,12946,788844,0.0,0.0,Jaipur
+V0465,Rajasthan,Truck,Electric,Yes,Tata,Nexon,2023,6517,897190,0.0,0.0,Hyderabad
+V0466,Gujarat,Bus,Electric,Yes,Ashok Leyland,Captain,2015,3700,2009404,0.0,0.0,Delhi
+V0467,Gujarat,Truck,Hybrid,No,Eicher,Pro 2049,2016,5307,1780244,13.5,125.0,Lucknow
+V0468,Delhi,Bike,Electric,Yes,TVS,Jupiter,2013,8350,1592610,0.0,0.0,Delhi
+V0469,Chhattisgarh,Bike,Diesel,No,TVS,Apache,2011,6982,421434,14.0,181.2,Hyderabad
+V0470,Uttar Pradesh,Bike,Hybrid,No,Bajaj,Pulsar,2019,2188,640764,19.2,113.1,Jaipur
+V0471,Kerala,Van,Hybrid,No,Maruti,Alto,2017,5532,944311,26.5,121.5,Lucknow
+V0472,Rajasthan,Auto,Diesel,No,Bajaj,Pulsar,2017,14486,2177698,16.5,111.9,Lucknow
+V0473,Delhi,Van,Hybrid,No,Maruti,Ertiga,2014,10653,381553,11.3,149.6,Bengaluru
+V0474,Tamil Nadu,Van,Petrol,No,Force Motors,Traveller,2012,7209,1575452,24.4,120.7,Chennai
+V0475,Madhya Pradesh,Auto,Petrol,No,Bajaj,Pulsar,2013,8695,440777,25.8,160.2,Delhi
+V0476,Madhya Pradesh,Truck,Diesel,No,Ashok Leyland,Dost,2018,8698,1299167,11.4,175.8,Kochi
+V0477,Uttar Pradesh,Truck,Electric,Yes,Eicher,Pro 3015,2015,11516,1783369,0.0,0.0,Chennai
+V0478,Punjab,Truck,Diesel,No,Ashok Leyland,Captain,2019,1123,784734,17.4,146.4,Chennai
+V0479,Punjab,Van,Electric,Yes,Tata,Punch,2023,6393,938481,0.0,0.0,Lucknow
+V0480,Jharkhand,Car,Hybrid,No,Tata,Punch,2010,13799,1143709,18.3,197.9,Bengaluru
+V0481,West Bengal,Car,Hybrid,No,Kia,Sonet,2023,703,2270985,16.9,112.0,Mumbai
+V0482,Karnataka,Bus,Hybrid,No,Volvo,9600,2014,8449,2422294,29.5,134.8,Ahmedabad
+V0483,Bihar,Truck,Electric,Yes,Tata,Nexon,2011,2964,1640529,0.0,0.0,Kochi
+V0484,Gujarat,Van,Hybrid,No,Force Motors,Gurkha,2012,9148,1098820,19.5,110.2,Bengaluru
+V0485,Tamil Nadu,Auto,Electric,Yes,Bajaj,Pulsar,2021,14440,1418923,0.0,0.0,Bengaluru
+V0486,Tamil Nadu,Auto,Diesel,No,Piaggio,Porter,2016,8153,2304670,12.6,188.0,Kochi
+V0487,Punjab,Auto,Petrol,No,TVS,Jupiter,2020,1724,1451179,13.2,173.6,Delhi
+V0488,Chhattisgarh,Bike,Hybrid,No,Royal Enfield,Hunter 350,2021,14180,1755961,15.5,170.6,Chennai
+V0489,Uttarakhand,Truck,Petrol,No,Eicher,Pro 3015,2011,5057,1150509,11.7,194.3,Hyderabad
+V0490,Kerala,Auto,Petrol,No,Piaggio,Ape,2024,9520,752880,20.8,110.8,Kochi
+V0491,West Bengal,Truck,Petrol,No,Ashok Leyland,Captain,2017,1297,2438041,25.6,160.5,Hyderabad
+V0492,Karnataka,SUV,Electric,Yes,Tata,Punch,2011,14960,2122355,0.0,0.0,Kolkata
+V0493,Haryana,Bike,Electric,Yes,Royal Enfield,Hunter 350,2015,12937,2379313,0.0,0.0,Delhi
+V0494,Gujarat,Car,Petrol,No,Toyota,Fortuner,2020,3209,1735788,21.2,177.3,Hyderabad
+V0495,Chhattisgarh,Truck,Hybrid,No,Ashok Leyland,Captain,2017,668,2219408,24.5,146.9,Kochi
+V0496,Assam,Truck,Petrol,No,Ashok Leyland,Dost,2021,2038,1639879,30.0,127.0,Delhi
+V0497,Gujarat,Bus,Hybrid,No,Volvo,9400,2021,12618,2337435,19.3,160.7,Mumbai
+V0498,Kerala,Car,Petrol,No,Hyundai,Venue,2017,3852,1265406,29.1,121.0,Chennai
+V0499,Uttar Pradesh,Truck,Electric,Yes,Ashok Leyland,Dost,2018,5581,918893,0.0,0.0,Chennai
+V0500,Telangana,Auto,Hybrid,No,TVS,Apache,2022,11869,2146264,26.0,183.6,Bengaluru
+V0501,Delhi,Bike,Diesel,No,Bajaj,Pulsar,2017,11639,669264,20.6,123.7,Delhi
+V0502,Karnataka,Car,Hybrid,No,Kia,Sonet,2020,14086,2024453,25.7,140.6,Kolkata
+V0503,Punjab,SUV,Petrol,No,MG,Hector,2018,12725,1166384,17.7,123.8,Jaipur
+V0504,Bihar,Bike,Diesel,No,Bajaj,Pulsar,2023,8005,1064130,13.5,199.3,Kochi
+V0505,Rajasthan,Auto,Petrol,No,Piaggio,Ape,2013,14170,2405163,17.4,158.9,Mumbai
+V0506,Kerala,SUV,Petrol,No,Mahindra,Bolero,2017,10351,1151791,16.1,176.0,Kolkata
+V0507,Madhya Pradesh,Van,Electric,Yes,Tata,Tiago,2022,2775,737621,0.0,0.0,Kochi
+V0508,Andhra Pradesh,Auto,Electric,Yes,Piaggio,Porter,2024,7447,755522,0.0,0.0,Delhi
+V0509,Haryana,Van,Diesel,No,Tata,Nexon,2022,5057,1711146,21.9,127.0,Mumbai
+V0510,Punjab,Auto,Hybrid,No,TVS,Jupiter,2020,14532,489987,23.8,104.7,Lucknow
+V0511,Jharkhand,SUV,Petrol,No,MG,Hector,2019,4084,1615221,29.3,125.0,Mumbai
+V0512,Punjab,Auto,Petrol,No,Bajaj,Pulsar,2022,1247,1864732,26.0,183.0,Kolkata
+V0513,Delhi,Van,Hybrid,No,Tata,Tiago,2022,12207,1352019,21.6,140.8,Lucknow
+V0514,West Bengal,Truck,Hybrid,No,Ashok Leyland,Dost,2017,6255,1296750,20.8,150.3,Kolkata
+V0515,Odisha,SUV,Petrol,No,MG,Hector,2013,1890,1979433,24.7,150.7,Kochi
+V0516,Bihar,Van,Diesel,No,Force Motors,Traveller,2010,7652,1945555,28.3,109.6,Mumbai
+V0517,Delhi,Van,Diesel,No,Maruti,Baleno,2019,5137,1907577,17.2,186.0,Kolkata
+V0518,Jharkhand,Truck,Petrol,No,Mahindra,Jeeto,2022,6419,1014010,10.5,108.4,Jaipur
+V0519,Rajasthan,Auto,Electric,Yes,TVS,Apache,2015,12506,1915211,0.0,0.0,Jaipur
+V0520,West Bengal,Bike,Electric,Yes,TVS,Jupiter,2022,2997,462454,0.0,0.0,Kochi
+V0521,Assam,Bike,Diesel,No,Royal Enfield,Hunter 350,2014,1801,1172690,15.5,155.3,Lucknow
+V0522,Chhattisgarh,Bike,Electric,Yes,Hero,HF Deluxe,2012,14228,1022354,0.0,0.0,Ahmedabad
+V0523,Haryana,SUV,Hybrid,No,Mahindra,Jeeto,2014,6473,2261160,18.3,188.7,Ahmedabad
+V0524,Chhattisgarh,Bike,Diesel,No,Royal Enfield,Classic 350,2015,8945,2334999,18.2,110.1,Hyderabad
+V0525,Uttarakhand,Bike,Diesel,No,Bajaj,Pulsar,2017,10934,1382944,15.8,132.3,Kochi
+V0526,Haryana,Bike,Diesel,No,Royal Enfield,Hunter 350,2019,8716,1836565,24.2,183.9,Lucknow
+V0527,Maharashtra,Truck,Petrol,No,Tata,Nexon,2012,11366,1096734,23.3,142.1,Mumbai
+V0528,Assam,Van,Diesel,No,Maruti,Swift,2015,12193,2166343,16.5,140.1,Delhi
+V0529,Punjab,Bike,Petrol,No,Hero,Splendor,2021,4392,1045483,17.7,144.4,Jaipur
+V0530,Punjab,Van,Petrol,No,Force Motors,Gurkha,2020,1472,469822,24.0,145.9,Ahmedabad
+V0531,Gujarat,Car,Hybrid,No,Honda,Amaze,2021,6793,700810,17.3,152.2,Bengaluru
+V0532,Telangana,Auto,Petrol,No,TVS,Jupiter,2020,14050,2134960,24.1,165.9,Lucknow
+V0533,Delhi,SUV,Electric,Yes,MG,Astor,2022,1493,2278327,0.0,0.0,Mumbai
+V0534,Kerala,Bus,Electric,Yes,Tata,Punch,2021,7206,2090298,0.0,0.0,Lucknow
+V0535,Rajasthan,Van,Hybrid,No,Tata,Tiago,2017,13028,2013945,22.8,140.6,Ahmedabad
+V0536,Delhi,Bike,Electric,Yes,Honda,City,2012,9691,2197822,0.0,0.0,Ahmedabad
+V0537,Haryana,Bike,Petrol,No,TVS,Apache,2013,1895,2319337,12.1,189.1,Ahmedabad
+V0538,Kerala,Car,Petrol,No,Tata,Tiago,2018,4177,209887,10.7,140.2,Bengaluru
+V0539,Rajasthan,Van,Diesel,No,Tata,Tiago,2013,568,1407961,15.6,167.2,Kochi
+V0540,Bihar,Van,Diesel,No,Tata,Tiago,2012,2365,845100,10.1,186.6,Ahmedabad
+V0541,Assam,Auto,Petrol,No,Bajaj,Pulsar,2021,13180,1111359,22.4,124.9,Ahmedabad
+V0542,Jharkhand,Car,Electric,Yes,Toyota,Fortuner,2011,10942,972427,0.0,0.0,Mumbai
+V0543,West Bengal,Bus,Hybrid,No,Ashok Leyland,Dost,2024,9953,1552031,21.6,175.0,Mumbai
+V0544,Gujarat,Truck,Hybrid,No,Ashok Leyland,Dost,2017,9037,1031995,21.3,134.0,Kochi
+V0545,Tamil Nadu,SUV,Diesel,No,Tata,Nexon,2014,467,1711788,20.9,190.1,Kochi
+V0546,Chhattisgarh,Truck,Diesel,No,Ashok Leyland,Captain,2017,1986,2498027,22.8,115.2,Lucknow
+V0547,Rajasthan,SUV,Hybrid,No,MG,Hector,2016,7269,1768867,19.6,163.1,Hyderabad
+V0548,West Bengal,Bus,Diesel,No,Tata,Tiago,2015,6853,2297140,10.2,144.3,Chennai
+V0549,Kerala,Bike,Hybrid,No,Honda,Amaze,2021,11862,254233,17.5,106.3,Hyderabad
+V0550,Punjab,Truck,Electric,Yes,Eicher,Pro 3015,2019,5550,121068,0.0,0.0,Delhi
+V0551,Madhya Pradesh,SUV,Diesel,No,Hyundai,i20,2015,12204,1530437,15.6,195.5,Kolkata
+V0552,Karnataka,Van,Hybrid,No,Maruti,Alto,2021,11875,737675,26.4,136.3,Ahmedabad
+V0553,Chhattisgarh,SUV,Petrol,No,Mahindra,Jeeto,2024,2005,364303,14.3,187.0,Delhi
+V0554,Chhattisgarh,Bus,Diesel,No,Tata,Nexon,2012,11993,1016260,23.6,105.2,Jaipur
+V0555,Rajasthan,Bike,Petrol,No,Hero,HF Deluxe,2020,3321,548679,28.4,195.1,Hyderabad
+V0556,Jharkhand,Car,Electric,Yes,Honda,Amaze,2014,1933,2366146,0.0,0.0,Delhi
+V0557,Kerala,Auto,Hybrid,No,Piaggio,Ape,2018,1087,852562,29.9,125.2,Mumbai
+V0558,Haryana,Bike,Petrol,No,Royal Enfield,Classic 350,2023,1526,107568,23.4,193.9,Mumbai
+V0559,Uttar Pradesh,Car,Diesel,No,Honda,Amaze,2010,14591,435545,23.6,169.9,Chennai
+V0560,Assam,Bus,Diesel,No,Ashok Leyland,Dost,2023,4265,231386,20.0,155.4,Chennai
+V0561,Tamil Nadu,Bus,Petrol,No,Tata,Tiago,2012,12654,1298104,25.8,140.9,Jaipur
+V0562,Uttar Pradesh,Truck,Electric,Yes,Mahindra,Jeeto,2022,7798,1278198,0.0,0.0,Kolkata
+V0563,Chhattisgarh,SUV,Diesel,No,Hyundai,i20,2012,14676,708098,26.5,143.4,Kolkata
+V0564,Andhra Pradesh,Bus,Petrol,No,Ashok Leyland,Captain,2012,2429,650995,16.2,196.6,Bengaluru
+V0565,Assam,Car,Petrol,No,Honda,Amaze,2024,1286,1460175,18.2,192.3,Bengaluru
+V0566,Haryana,Car,Petrol,No,Maruti,Swift,2024,14579,1492460,12.6,198.3,Bengaluru
+V0567,Karnataka,SUV,Electric,Yes,MG,Astor,2011,8252,489207,0.0,0.0,Delhi
+V0568,West Bengal,Bike,Hybrid,No,Royal Enfield,Classic 350,2024,14430,612189,27.5,140.0,Bengaluru
+V0569,Maharashtra,Bike,Diesel,No,Bajaj,Chetak,2023,11002,1839140,18.3,112.8,Jaipur
+V0570,Maharashtra,Bus,Diesel,No,Volvo,9600,2021,4216,1586065,18.7,108.3,Chennai
+V0571,Karnataka,Auto,Electric,Yes,Bajaj,Pulsar,2019,13220,655128,0.0,0.0,Bengaluru
+V0572,Uttar Pradesh,Auto,Hybrid,No,Piaggio,Porter,2018,2999,343042,17.1,108.9,Kochi
+V0573,Haryana,Bus,Petrol,No,Tata,Tiago,2017,12879,1911024,11.0,185.4,Delhi
+V0574,Kerala,Car,Diesel,No,Honda,Amaze,2011,499,406260,13.8,125.6,Kolkata
+V0575,Andhra Pradesh,Auto,Electric,Yes,Piaggio,Porter,2011,9791,1119999,0.0,0.0,Bengaluru
+V0576,Delhi,Bike,Petrol,No,Honda,Amaze,2016,3825,1469057,16.4,116.5,Delhi
+V0577,Karnataka,SUV,Hybrid,No,Tata,Punch,2021,3266,2205820,20.4,136.0,Kolkata
+V0578,Rajasthan,Bike,Hybrid,No,Honda,Amaze,2019,9555,2057891,26.8,138.7,Chennai
+V0579,Odisha,Auto,Hybrid,No,TVS,Apache,2013,12520,2389242,16.9,195.1,Lucknow
+V0580,Jharkhand,Auto,Petrol,No,Bajaj,Pulsar,2023,9013,1816088,28.0,136.6,Ahmedabad
+V0581,Uttar Pradesh,Truck,Diesel,No,Ashok Leyland,Captain,2018,3935,1588857,13.6,190.6,Kochi
+V0582,Telangana,Car,Petrol,No,Kia,Seltos,2011,9032,278190,28.3,178.5,Bengaluru
+V0583,Jharkhand,Bus,Diesel,No,Ashok Leyland,Dost,2023,6592,646013,10.6,190.3,Delhi
+V0584,Bihar,Van,Electric,Yes,Tata,Nexon,2016,5193,1537745,0.0,0.0,Bengaluru
+V0585,Telangana,Bus,Hybrid,No,Tata,Punch,2020,13973,454513,22.2,157.7,Kochi
+V0586,Chhattisgarh,Truck,Electric,Yes,Eicher,Pro 3015,2010,7769,836937,0.0,0.0,Hyderabad
+V0587,Odisha,SUV,Hybrid,No,Hyundai,Creta,2010,8871,270009,23.5,160.9,Jaipur
+V0588,Andhra Pradesh,Bus,Hybrid,No,Tata,Nexon,2012,2584,199809,26.9,102.5,Hyderabad
+V0589,Chhattisgarh,Bus,Diesel,No,Ashok Leyland,Captain,2010,8524,1750437,10.6,195.6,Jaipur
+V0590,Assam,Auto,Petrol,No,Bajaj,Pulsar,2024,4764,2353307,29.9,155.0,Kochi
+V0591,West Bengal,Bus,Diesel,No,Volvo,9400,2018,130,504960,27.4,159.2,Lucknow
+V0592,Andhra Pradesh,Auto,Diesel,No,TVS,Jupiter,2021,686,1111631,17.2,165.7,Jaipur
+V0593,Gujarat,Van,Petrol,No,Force Motors,Traveller,2022,8807,1982126,21.3,112.6,Kochi
+V0594,Kerala,Car,Hybrid,No,Kia,Seltos,2022,5750,1057357,16.7,155.3,Chennai
+V0595,Maharashtra,Car,Hybrid,No,Toyota,Fortuner,2022,14573,251880,10.3,184.1,Jaipur
+V0596,Punjab,Auto,Electric,Yes,TVS,Apache,2018,8828,578133,0.0,0.0,Jaipur
+V0597,Assam,Car,Hybrid,No,Tata,Tiago,2012,12837,843666,21.1,162.9,Kochi
+V0598,Bihar,Bike,Hybrid,No,Bajaj,Chetak,2014,2799,928037,20.2,178.4,Jaipur
+V0599,Andhra Pradesh,Van,Diesel,No,Force Motors,Gurkha,2017,227,2433498,19.6,191.3,Ahmedabad
+V0600,Odisha,Auto,Petrol,No,Piaggio,Ape,2023,7610,2068797,19.8,128.8,Chennai
+V0601,Uttarakhand,Bus,Electric,Yes,Ashok Leyland,Dost,2014,9891,1101015,0.0,0.0,Hyderabad
+V0602,Chhattisgarh,Car,Hybrid,No,Maruti,Baleno,2014,1426,2127684,11.8,143.9,Lucknow
+V0603,Jharkhand,SUV,Electric,Yes,MG,Astor,2018,13200,799252,0.0,0.0,Kolkata
+V0604,Telangana,Truck,Diesel,No,Ashok Leyland,Captain,2014,7736,322047,24.9,149.9,Chennai
+V0605,Punjab,Van,Diesel,No,Force Motors,Gurkha,2012,944,1261917,12.5,153.4,Mumbai
+V0606,Chhattisgarh,Truck,Diesel,No,Mahindra,Bolero,2017,11978,1892221,27.5,114.4,Delhi
+V0607,Kerala,SUV,Diesel,No,Mahindra,Jeeto,2023,14428,772320,14.7,162.2,Ahmedabad
+V0608,Madhya Pradesh,Car,Diesel,No,Tata,Nexon,2024,1085,2391999,15.5,146.1,Delhi
+V0609,Madhya Pradesh,Auto,Petrol,No,Piaggio,Porter,2018,8237,357861,16.4,112.1,Lucknow
+V0610,Odisha,SUV,Petrol,No,MG,Astor,2011,7411,933279,25.9,106.5,Delhi
+V0611,Karnataka,Bike,Petrol,No,Bajaj,Pulsar,2019,7826,700085,18.0,127.4,Hyderabad
+V0612,Haryana,Bus,Petrol,No,Tata,Tiago,2010,4178,1062317,25.1,164.8,Hyderabad
+V0613,West Bengal,SUV,Hybrid,No,Tata,Tiago,2023,2043,1593169,15.2,114.0,Hyderabad
+V0614,West Bengal,SUV,Hybrid,No,Mahindra,Bolero,2021,13952,1940017,14.3,148.4,Kochi
+V0615,Chhattisgarh,Auto,Electric,Yes,TVS,Apache,2021,12765,2133541,0.0,0.0,Jaipur
+V0616,Tamil Nadu,Truck,Electric,Yes,Mahindra,Bolero,2020,11857,2463424,0.0,0.0,Delhi
+V0617,Haryana,Truck,Hybrid,No,Eicher,Pro 2049,2018,11181,1305776,18.8,163.3,Chennai
+V0618,Jharkhand,SUV,Diesel,No,MG,Hector,2011,6243,276723,15.7,117.0,Chennai
+V0619,Kerala,Bike,Electric,Yes,Honda,Amaze,2010,5204,1901812,0.0,0.0,Jaipur
+V0620,Karnataka,Auto,Diesel,No,TVS,Jupiter,2015,4952,2032221,21.3,141.4,Bengaluru
+V0621,Delhi,Auto,Electric,Yes,Piaggio,Porter,2017,2247,1663193,0.0,0.0,Ahmedabad
+V0622,Assam,Truck,Diesel,No,Eicher,Pro 2049,2019,6295,1219961,21.7,167.7,Kochi
+V0623,Delhi,Van,Electric,Yes,Tata,Tiago,2015,8426,359288,0.0,0.0,Kochi
+V0624,West Bengal,Car,Petrol,No,Honda,Amaze,2013,5283,1358986,22.8,174.2,Bengaluru
+V0625,Uttar Pradesh,Bike,Electric,Yes,Hero,HF Deluxe,2018,9428,675567,0.0,0.0,Mumbai
+V0626,Maharashtra,SUV,Hybrid,No,Hyundai,i20,2014,2562,467589,26.5,159.4,Chennai
+V0627,Chhattisgarh,Bike,Petrol,No,Honda,City,2022,11540,1577765,13.4,107.5,Bengaluru
+V0628,Chhattisgarh,Auto,Petrol,No,TVS,Jupiter,2020,12497,1991736,16.5,104.6,Delhi
+V0629,Delhi,Bus,Diesel,No,Ashok Leyland,Captain,2023,4863,1958040,26.0,138.8,Kochi
+V0630,Kerala,Van,Petrol,No,Maruti,Alto,2015,822,653787,21.6,194.1,Mumbai
+V0631,Andhra Pradesh,SUV,Hybrid,No,Mahindra,Bolero,2022,5185,448254,13.2,123.7,Kochi
+V0632,Gujarat,Truck,Diesel,No,Ashok Leyland,Captain,2013,11533,1166899,23.3,142.1,Kolkata
+V0633,Assam,Van,Hybrid,No,Force Motors,Gurkha,2022,199,790218,18.5,163.6,Bengaluru
+V0634,Odisha,Van,Diesel,No,Force Motors,Gurkha,2024,7418,186211,27.9,134.3,Ahmedabad
+V0635,Assam,Van,Petrol,No,Tata,Punch,2015,9556,736335,14.2,120.5,Lucknow
+V0636,Rajasthan,SUV,Petrol,No,Tata,Nexon,2024,4520,1985963,10.6,183.8,Jaipur
+V0637,Bihar,Truck,Petrol,No,Eicher,Pro 2049,2014,10772,1676000,21.8,155.9,Mumbai
+V0638,Jharkhand,SUV,Diesel,No,MG,Astor,2022,13965,1442763,13.9,155.0,Chennai
+V0639,Madhya Pradesh,Van,Hybrid,No,Tata,Punch,2013,1895,849744,19.3,102.4,Chennai
+V0640,Kerala,SUV,Electric,Yes,Tata,Nexon,2022,8322,1824167,0.0,0.0,Chennai
+V0641,Madhya Pradesh,SUV,Electric,Yes,Tata,Nexon,2010,3339,1584008,0.0,0.0,Kochi
+V0642,Maharashtra,Truck,Diesel,No,Tata,Tiago,2018,11815,2206298,15.9,189.4,Kochi
+V0643,Jharkhand,Truck,Hybrid,No,Eicher,Pro 3015,2011,10125,848179,18.9,186.1,Lucknow
+V0644,Maharashtra,Car,Electric,Yes,Toyota,Fortuner,2015,6600,1835498,0.0,0.0,Lucknow
+V0645,Tamil Nadu,Bus,Electric,Yes,Volvo,9600,2013,2026,683380,0.0,0.0,Chennai
+V0646,Tamil Nadu,Bike,Electric,Yes,TVS,Jupiter,2021,4914,1693140,0.0,0.0,Ahmedabad
+V0647,Madhya Pradesh,Bus,Diesel,No,Volvo,9600,2022,6455,1583261,26.9,116.4,Kochi
+V0648,Delhi,Bus,Hybrid,No,Ashok Leyland,Captain,2011,3072,1618462,25.3,165.3,Lucknow
+V0649,Assam,Truck,Electric,Yes,Ashok Leyland,Dost,2018,7235,1795895,0.0,0.0,Hyderabad
+V0650,Telangana,Bus,Petrol,No,Volvo,9400,2016,13978,2158400,11.1,129.9,Jaipur
+V0651,Karnataka,Auto,Petrol,No,Piaggio,Porter,2021,12404,1467546,15.8,161.1,Chennai
+V0652,Uttarakhand,Bike,Diesel,No,Honda,City,2017,8096,2164849,27.6,117.6,Hyderabad
+V0653,Kerala,Van,Hybrid,No,Force Motors,Gurkha,2024,6911,670196,24.5,131.5,Bengaluru
+V0654,Haryana,Van,Hybrid,No,Tata,Punch,2018,3138,2069091,26.2,107.2,Chennai
+V0655,Telangana,Car,Petrol,No,Maruti,Baleno,2015,14632,2408079,22.1,175.3,Lucknow
+V0656,Uttar Pradesh,Car,Hybrid,No,Tata,Tiago,2013,5602,2316317,21.5,192.5,Delhi
+V0657,Maharashtra,Van,Petrol,No,Force Motors,Gurkha,2012,581,512434,21.8,100.5,Mumbai
+V0658,Telangana,SUV,Electric,Yes,Tata,Punch,2013,5719,742315,0.0,0.0,Jaipur
+V0659,West Bengal,Auto,Hybrid,No,Bajaj,Pulsar,2023,13803,2351118,24.3,188.6,Hyderabad
+V0660,Uttarakhand,Van,Petrol,No,Maruti,Ertiga,2017,8781,2463238,20.0,145.8,Lucknow
+V0661,Andhra Pradesh,SUV,Petrol,No,Mahindra,Jeeto,2017,4304,384260,25.8,153.3,Lucknow
+V0662,Jharkhand,Bike,Diesel,No,Hero,HF Deluxe,2016,7283,1832936,11.9,127.2,Jaipur
+V0663,Jharkhand,Auto,Hybrid,No,Bajaj,Chetak,2015,13820,810291,28.2,177.4,Ahmedabad
+V0664,Assam,Car,Petrol,No,Hyundai,Venue,2023,1921,1799764,16.5,100.7,Chennai
+V0665,Punjab,Bike,Petrol,No,Bajaj,Chetak,2022,13488,1965933,15.2,176.5,Kochi
+V0666,Bihar,Bike,Electric,Yes,TVS,Apache,2020,14331,294544,0.0,0.0,Chennai
+V0667,Haryana,Truck,Diesel,No,Tata,Punch,2018,10404,1771543,20.1,157.1,Lucknow
+V0668,Gujarat,Bus,Petrol,No,Tata,Punch,2010,6119,2212003,23.8,181.2,Bengaluru
+V0669,Madhya Pradesh,Truck,Diesel,No,Eicher,Pro 2049,2014,6201,2415603,17.1,134.1,Bengaluru
+V0670,Andhra Pradesh,Car,Petrol,No,Hyundai,Venue,2022,2359,85487,20.0,154.7,Chennai
+V0671,Jharkhand,SUV,Petrol,No,Mahindra,Bolero,2012,1762,2194281,25.8,189.0,Hyderabad
+V0672,Karnataka,Bus,Electric,Yes,Ashok Leyland,Captain,2014,11709,1836074,0.0,0.0,Bengaluru
+V0673,Maharashtra,Auto,Diesel,No,Bajaj,Pulsar,2013,11098,557628,15.3,116.7,Ahmedabad
+V0674,Andhra Pradesh,SUV,Hybrid,No,Hyundai,Venue,2012,13995,1719044,10.8,106.5,Bengaluru
+V0675,Gujarat,Bus,Diesel,No,Ashok Leyland,Dost,2017,6647,443835,27.4,169.7,Delhi
+V0676,Bihar,Van,Hybrid,No,Maruti,Alto,2019,10350,2152783,13.3,156.5,Chennai
+V0677,Uttarakhand,Van,Electric,Yes,Force Motors,Traveller,2014,13409,553560,0.0,0.0,Kochi
+V0678,Uttarakhand,SUV,Petrol,No,Mahindra,Bolero,2018,3409,1910979,28.8,108.1,Lucknow
+V0679,Madhya Pradesh,Truck,Electric,Yes,Tata,Punch,2021,8189,2042641,0.0,0.0,Lucknow
+V0680,Karnataka,Van,Diesel,No,Tata,Nexon,2010,14867,1031185,27.0,136.7,Hyderabad
+V0681,Punjab,Bike,Electric,Yes,TVS,Jupiter,2017,9051,1513254,0.0,0.0,Chennai
+V0682,Uttarakhand,Van,Petrol,No,Maruti,Ertiga,2020,2622,2164944,13.5,180.3,Hyderabad
+V0683,Punjab,Van,Diesel,No,Maruti,Baleno,2016,12693,1303798,21.5,132.4,Bengaluru
+V0684,Tamil Nadu,Auto,Diesel,No,Bajaj,Chetak,2018,8671,325038,20.9,155.7,Chennai
+V0685,Maharashtra,Bike,Petrol,No,TVS,Apache,2019,3733,1259167,10.5,179.5,Delhi
+V0686,Tamil Nadu,Car,Petrol,No,Tata,Tiago,2011,13767,344280,21.9,175.3,Chennai
+V0687,Maharashtra,Bike,Petrol,No,Royal Enfield,Hunter 350,2013,11504,2144198,13.0,114.9,Hyderabad
+V0688,Tamil Nadu,Van,Electric,Yes,Force Motors,Traveller,2023,9125,1700441,0.0,0.0,Ahmedabad
+V0689,Chhattisgarh,Bike,Hybrid,No,Hero,HF Deluxe,2023,2536,785808,18.5,189.3,Jaipur
+V0690,West Bengal,Bike,Electric,Yes,TVS,Jupiter,2014,3799,372778,0.0,0.0,Jaipur
+V0691,Jharkhand,Van,Diesel,No,Tata,Tiago,2024,1699,748022,12.1,189.1,Kochi
+V0692,Maharashtra,Van,Hybrid,No,Tata,Punch,2014,7797,1400618,13.7,113.8,Ahmedabad
+V0693,Uttar Pradesh,SUV,Diesel,No,Mahindra,Jeeto,2015,3662,2499845,28.4,127.2,Kochi
+V0694,Chhattisgarh,Truck,Electric,Yes,Ashok Leyland,Dost,2024,14305,2175473,0.0,0.0,Chennai
+V0695,Andhra Pradesh,Bike,Electric,Yes,TVS,Jupiter,2016,14996,1989964,0.0,0.0,Ahmedabad
+V0696,Haryana,Car,Hybrid,No,Honda,City,2024,14535,1309889,15.0,145.2,Kochi
+V0697,Karnataka,Truck,Petrol,No,Mahindra,Jeeto,2023,7232,304722,10.4,102.8,Jaipur
+V0698,Andhra Pradesh,Car,Diesel,No,Maruti,Ertiga,2013,6426,111601,13.3,154.7,Bengaluru
+V0699,Uttarakhand,Bus,Electric,Yes,Volvo,9600,2019,8316,409508,0.0,0.0,Kochi
+V0700,Haryana,Auto,Diesel,No,TVS,Jupiter,2011,13649,978089,23.7,142.0,Chennai
+V0701,Delhi,Auto,Petrol,No,Piaggio,Porter,2022,1879,2180643,13.6,116.1,Lucknow
+V0702,Uttar Pradesh,Van,Electric,Yes,Force Motors,Traveller,2018,483,1483303,0.0,0.0,Chennai
+V0703,Haryana,Bus,Hybrid,No,Volvo,9400,2021,8792,2202565,13.6,197.4,Ahmedabad
+V0704,Madhya Pradesh,Bus,Diesel,No,Ashok Leyland,Dost,2018,2201,1084981,27.3,114.6,Kochi
+V0705,Chhattisgarh,Car,Electric,Yes,Honda,Amaze,2015,14622,2254027,0.0,0.0,Lucknow
+V0706,Uttarakhand,Bike,Petrol,No,Hero,Splendor,2020,3638,2137079,24.9,147.4,Mumbai
+V0707,Madhya Pradesh,Bus,Electric,Yes,Volvo,9400,2014,4003,1982339,0.0,0.0,Mumbai
+V0708,Assam,Car,Petrol,No,Tata,Nexon,2014,4727,1024549,14.5,140.4,Hyderabad
+V0709,Assam,SUV,Petrol,No,Mahindra,Jeeto,2011,5231,159321,24.7,142.1,Bengaluru
+V0710,Odisha,Truck,Petrol,No,Mahindra,Jeeto,2021,5926,313254,15.0,186.1,Jaipur
+V0711,Maharashtra,Bus,Petrol,No,Tata,Tiago,2020,5668,1631827,17.6,131.6,Lucknow
+V0712,Rajasthan,Auto,Hybrid,No,Bajaj,Chetak,2012,4831,678823,21.8,163.9,Kochi
+V0713,Telangana,Truck,Petrol,No,Tata,Punch,2011,11632,560772,16.7,141.3,Chennai
+V0714,Odisha,Bus,Electric,Yes,Volvo,9600,2023,10430,2206775,0.0,0.0,Ahmedabad
+V0715,Assam,Bus,Electric,Yes,Volvo,9400,2011,13222,1325087,0.0,0.0,Kolkata
+V0716,Punjab,Van,Petrol,No,Maruti,Swift,2018,8795,952341,26.7,172.3,Hyderabad
+V0717,Telangana,Van,Hybrid,No,Tata,Nexon,2013,9038,541779,11.0,190.1,Jaipur
+V0718,Haryana,Auto,Petrol,No,Piaggio,Ape,2019,2074,2061042,25.0,194.3,Ahmedabad
+V0719,Telangana,Truck,Petrol,No,Ashok Leyland,Captain,2016,10677,1818033,14.8,172.9,Bengaluru
+V0720,Uttar Pradesh,Bike,Hybrid,No,Hero,HF Deluxe,2023,13465,944141,28.4,176.1,Mumbai
+V0721,Punjab,Truck,Petrol,No,Mahindra,Jeeto,2010,13935,1437004,28.9,107.8,Jaipur
+V0722,Punjab,Auto,Petrol,No,Piaggio,Porter,2011,7541,2278377,15.8,129.7,Chennai
+V0723,Rajasthan,SUV,Diesel,No,Tata,Punch,2021,6970,2139270,26.2,148.3,Kochi
+V0724,Rajasthan,Truck,Diesel,No,Tata,Tiago,2017,2437,1928204,14.2,178.1,Ahmedabad
+V0725,West Bengal,Bus,Electric,Yes,Ashok Leyland,Captain,2015,7859,2322777,0.0,0.0,Jaipur
+V0726,Bihar,Van,Diesel,No,Force Motors,Gurkha,2010,6978,1684129,10.8,139.5,Bengaluru
+V0727,Bihar,Truck,Electric,Yes,Tata,Tiago,2013,11269,1496765,0.0,0.0,Hyderabad
+V0728,Jharkhand,Car,Diesel,No,Tata,Tiago,2015,3199,444079,26.6,194.8,Jaipur
+V0729,Assam,Truck,Petrol,No,Eicher,Pro 2049,2018,14964,1577547,27.6,137.2,Ahmedabad
+V0730,Jharkhand,SUV,Electric,Yes,Hyundai,Venue,2023,6698,1143669,0.0,0.0,Jaipur
+V0731,Tamil Nadu,SUV,Diesel,No,Mahindra,Bolero,2018,10338,324076,20.1,181.8,Bengaluru
+V0732,Jharkhand,Truck,Electric,Yes,Tata,Tiago,2019,6284,1381395,0.0,0.0,Ahmedabad
+V0733,Uttarakhand,Auto,Hybrid,No,Bajaj,Pulsar,2017,13964,2090932,21.6,152.6,Kochi
+V0734,Bihar,Auto,Petrol,No,Piaggio,Porter,2016,2655,2297455,15.5,147.5,Delhi
+V0735,Bihar,SUV,Diesel,No,Tata,Tiago,2015,676,434326,10.2,128.8,Kolkata
+V0736,Karnataka,Truck,Diesel,No,Tata,Punch,2010,1642,1220142,22.8,175.2,Kochi
+V0737,Uttar Pradesh,Truck,Diesel,No,Eicher,Pro 3015,2011,4200,323662,21.1,125.9,Jaipur
+V0738,Haryana,Car,Diesel,No,Hyundai,i20,2018,9251,1397854,11.5,116.0,Ahmedabad
+V0739,Delhi,SUV,Electric,Yes,Hyundai,Venue,2010,14027,1872201,0.0,0.0,Hyderabad
+V0740,Uttarakhand,Auto,Hybrid,No,Piaggio,Ape,2011,8477,988659,20.6,180.4,Jaipur
+V0741,Delhi,SUV,Petrol,No,Mahindra,Jeeto,2012,9547,125935,14.6,150.7,Lucknow
+V0742,Gujarat,SUV,Hybrid,No,Mahindra,Bolero,2020,13378,1832065,23.4,190.3,Ahmedabad
+V0743,Uttar Pradesh,SUV,Hybrid,No,Tata,Nexon,2021,13022,246050,14.2,131.5,Mumbai
+V0744,Haryana,Van,Hybrid,No,Force Motors,Traveller,2019,12367,1397703,20.6,183.0,Delhi
+V0745,Rajasthan,SUV,Electric,Yes,Hyundai,Venue,2018,7826,1075029,0.0,0.0,Hyderabad
+V0746,Tamil Nadu,Bike,Diesel,No,TVS,Apache,2018,331,113216,11.9,196.0,Lucknow
+V0747,Tamil Nadu,Car,Hybrid,No,Hyundai,Venue,2014,3917,2420236,21.0,185.9,Bengaluru
+V0748,Haryana,Car,Hybrid,No,Toyota,Innova,2017,14595,703887,16.5,125.7,Jaipur
+V0749,Kerala,Auto,Petrol,No,Bajaj,Chetak,2022,14335,989673,17.3,114.4,Kolkata
+V0750,Uttarakhand,SUV,Diesel,No,MG,Hector,2015,11811,138404,17.9,158.5,Mumbai
+V0751,Chhattisgarh,Van,Hybrid,No,Force Motors,Traveller,2023,3924,1109344,21.4,106.8,Mumbai
+V0752,Rajasthan,Car,Diesel,No,Maruti,Swift,2024,14164,2259343,14.6,186.7,Hyderabad
+V0753,West Bengal,Bike,Petrol,No,Royal Enfield,Hunter 350,2021,358,837826,14.9,144.7,Ahmedabad
+V0754,Madhya Pradesh,Auto,Hybrid,No,TVS,Apache,2014,13599,1437935,14.2,187.1,Mumbai
+V0755,West Bengal,Bike,Hybrid,No,TVS,Apache,2016,13502,1491081,21.1,143.7,Mumbai
+V0756,West Bengal,Bus,Diesel,No,Volvo,9600,2017,9565,2435866,15.1,132.1,Hyderabad
+V0757,Karnataka,Bike,Diesel,No,Honda,Amaze,2020,11567,1794132,15.7,146.8,Chennai
+V0758,West Bengal,SUV,Diesel,No,Hyundai,Creta,2017,7681,608301,15.4,178.6,Delhi
+V0759,Madhya Pradesh,Van,Petrol,No,Tata,Punch,2011,3702,149132,25.4,165.6,Ahmedabad
+V0760,West Bengal,Van,Petrol,No,Force Motors,Gurkha,2019,377,2044255,11.8,191.6,Jaipur
+V0761,Haryana,Auto,Petrol,No,TVS,Jupiter,2018,629,932031,25.9,159.6,Ahmedabad
+V0762,Chhattisgarh,Bus,Diesel,No,Ashok Leyland,Dost,2023,8797,436450,24.6,163.3,Chennai
+V0763,Odisha,Bus,Electric,Yes,Tata,Tiago,2014,5026,1964053,0.0,0.0,Hyderabad
+V0764,Odisha,Bike,Electric,Yes,TVS,Apache,2012,9486,482313,0.0,0.0,Ahmedabad
+V0765,Tamil Nadu,Truck,Electric,Yes,Ashok Leyland,Dost,2014,4111,758056,0.0,0.0,Jaipur
+V0766,Tamil Nadu,Van,Diesel,No,Force Motors,Traveller,2010,12670,985744,19.5,129.8,Jaipur
+V0767,Maharashtra,Truck,Electric,Yes,Mahindra,Bolero,2013,8184,1436559,0.0,0.0,Hyderabad
+V0768,Delhi,Auto,Electric,Yes,TVS,Jupiter,2016,4378,116479,0.0,0.0,Ahmedabad
+V0769,Rajasthan,Van,Electric,Yes,Force Motors,Traveller,2011,1935,2466148,0.0,0.0,Mumbai
+V0770,Andhra Pradesh,Auto,Hybrid,No,TVS,Apache,2020,10654,106152,15.6,197.4,Kolkata
+V0771,Telangana,Van,Petrol,No,Force Motors,Gurkha,2019,12529,2457228,29.2,174.4,Bengaluru
+V0772,Telangana,Auto,Petrol,No,TVS,Apache,2011,10093,380738,12.7,116.2,Delhi
+V0773,Gujarat,Car,Diesel,No,Tata,Nexon,2017,4836,475759,28.5,153.1,Lucknow
+V0774,Andhra Pradesh,SUV,Petrol,No,Tata,Tiago,2015,12207,906038,16.4,134.3,Ahmedabad
+V0775,Uttarakhand,Car,Hybrid,No,Hyundai,Creta,2013,10454,893937,14.5,192.4,Mumbai
+V0776,Odisha,Bike,Electric,Yes,Royal Enfield,Hunter 350,2019,1211,791535,0.0,0.0,Ahmedabad
+V0777,Odisha,Truck,Petrol,No,Ashok Leyland,Captain,2016,12394,2388715,23.8,126.6,Kolkata
+V0778,Bihar,Bike,Hybrid,No,Bajaj,Chetak,2020,14275,135788,14.3,126.3,Delhi
+V0779,Karnataka,Car,Petrol,No,Hyundai,i20,2023,6595,1726190,29.4,197.4,Hyderabad
+V0780,Punjab,Auto,Electric,Yes,TVS,Jupiter,2018,7853,2235715,0.0,0.0,Jaipur
+V0781,Uttarakhand,Van,Diesel,No,Force Motors,Traveller,2023,415,285189,18.0,190.9,Hyderabad
+V0782,Uttar Pradesh,Car,Diesel,No,Kia,Seltos,2016,9834,2347784,23.2,104.1,Kolkata
+V0783,Jharkhand,Bus,Diesel,No,Ashok Leyland,Captain,2020,9869,1306936,11.3,170.3,Mumbai
+V0784,Delhi,Van,Hybrid,No,Maruti,Ertiga,2024,12399,1833509,28.7,100.7,Bengaluru
+V0785,Kerala,SUV,Diesel,No,Mahindra,Jeeto,2012,10667,289693,24.7,156.3,Delhi
+V0786,Madhya Pradesh,Bus,Electric,Yes,Ashok Leyland,Dost,2015,8871,444671,0.0,0.0,Kolkata
+V0787,Bihar,Truck,Diesel,No,Ashok Leyland,Dost,2017,8305,2228957,25.5,141.2,Jaipur
+V0788,Delhi,SUV,Diesel,No,Tata,Nexon,2012,3617,1756161,15.9,129.3,Ahmedabad
+V0789,Maharashtra,Truck,Petrol,No,Tata,Nexon,2011,6119,2492953,21.1,117.0,Kochi
+V0790,Jharkhand,Bike,Petrol,No,Honda,City,2017,8564,1419339,25.1,112.9,Jaipur
+V0791,Uttarakhand,Van,Electric,Yes,Force Motors,Traveller,2022,462,2484819,0.0,0.0,Kolkata
+V0792,Haryana,Auto,Hybrid,No,TVS,Jupiter,2020,262,1777528,22.3,169.2,Mumbai
+V0793,Kerala,Van,Electric,Yes,Maruti,Swift,2017,10309,1073593,0.0,0.0,Jaipur
+V0794,Madhya Pradesh,SUV,Electric,Yes,Mahindra,Jeeto,2011,2168,1382904,0.0,0.0,Mumbai
+V0795,Uttarakhand,SUV,Petrol,No,Hyundai,Creta,2022,3642,1738384,19.0,108.9,Mumbai
+V0796,Chhattisgarh,SUV,Diesel,No,Tata,Tiago,2020,433,683993,12.2,164.8,Delhi
+V0797,Assam,Van,Hybrid,No,Maruti,Ertiga,2014,992,302048,29.0,105.7,Jaipur
+V0798,Kerala,SUV,Electric,Yes,MG,Astor,2021,5645,1641426,0.0,0.0,Delhi
+V0799,Rajasthan,Van,Electric,Yes,Force Motors,Gurkha,2017,3093,1084242,0.0,0.0,Delhi
+V0800,Delhi,Auto,Hybrid,No,Bajaj,Chetak,2011,9240,1316187,26.9,182.5,Kochi
+V0801,Maharashtra,Truck,Electric,Yes,Tata,Nexon,2011,9568,1347244,0.0,0.0,Mumbai
+V0802,Rajasthan,Car,Diesel,No,Hyundai,Creta,2020,728,1269905,25.1,185.7,Chennai
+V0803,Haryana,Van,Petrol,No,Force Motors,Traveller,2019,7311,345645,23.6,128.3,Kochi
+V0804,Odisha,Truck,Petrol,No,Mahindra,Bolero,2019,9093,715871,22.4,146.6,Kolkata
+V0805,Gujarat,Bus,Diesel,No,Tata,Punch,2015,5553,1641615,10.5,161.4,Hyderabad
+V0806,Kerala,Bike,Electric,Yes,Bajaj,Chetak,2024,14855,2483134,0.0,0.0,Delhi
+V0807,Tamil Nadu,Bus,Hybrid,No,Ashok Leyland,Captain,2018,3660,2364884,21.6,194.4,Bengaluru
+V0808,Rajasthan,Auto,Hybrid,No,TVS,Apache,2018,9411,266958,21.8,133.9,Hyderabad
+V0809,Uttar Pradesh,SUV,Hybrid,No,MG,Astor,2015,11362,879013,11.7,198.2,Bengaluru
+V0810,Punjab,Car,Diesel,No,Toyota,Fortuner,2022,14105,1661132,25.7,177.9,Chennai
+V0811,Chhattisgarh,Truck,Electric,Yes,Ashok Leyland,Captain,2011,2371,901699,0.0,0.0,Hyderabad
+V0812,Maharashtra,Van,Electric,Yes,Tata,Punch,2012,8037,1123648,0.0,0.0,Ahmedabad
+V0813,Uttarakhand,Bike,Petrol,No,Honda,Amaze,2012,14992,844427,25.8,171.4,Kochi
+V0814,Assam,SUV,Diesel,No,Mahindra,Jeeto,2017,7267,1544793,23.1,177.8,Bengaluru
+V0815,Delhi,Truck,Electric,Yes,Ashok Leyland,Dost,2011,5117,1640163,0.0,0.0,Chennai
+V0816,Kerala,SUV,Petrol,No,MG,Astor,2024,9518,1567209,17.4,135.4,Ahmedabad
+V0817,Odisha,Auto,Hybrid,No,Piaggio,Ape,2012,1112,971028,18.1,111.7,Hyderabad
+V0818,Haryana,Truck,Petrol,No,Mahindra,Bolero,2018,9979,2235650,18.9,154.2,Lucknow
+V0819,Chhattisgarh,Truck,Hybrid,No,Tata,Tiago,2017,10165,2291102,23.7,183.5,Ahmedabad
+V0820,Andhra Pradesh,Car,Hybrid,No,Hyundai,Creta,2013,8286,857575,17.1,102.8,Chennai
+V0821,West Bengal,Auto,Electric,Yes,Bajaj,Chetak,2010,5902,1456388,0.0,0.0,Ahmedabad
+V0822,Jharkhand,SUV,Hybrid,No,Mahindra,Jeeto,2012,11139,356665,27.9,152.6,Lucknow
+V0823,Chhattisgarh,Bus,Electric,Yes,Volvo,9600,2021,11830,2437499,0.0,0.0,Delhi
+V0824,Madhya Pradesh,Bus,Petrol,No,Ashok Leyland,Dost,2010,315,1336192,16.7,197.9,Mumbai
+V0825,Madhya Pradesh,Bike,Electric,Yes,Royal Enfield,Hunter 350,2015,14365,1960434,0.0,0.0,Kochi
+V0826,Karnataka,Van,Electric,Yes,Tata,Tiago,2011,8476,1001682,0.0,0.0,Kochi
+V0827,Tamil Nadu,Auto,Electric,Yes,Bajaj,Chetak,2011,11090,1782476,0.0,0.0,Chennai
+V0828,Uttarakhand,Car,Electric,Yes,Hyundai,Creta,2023,14612,2411370,0.0,0.0,Kochi
+V0829,Odisha,Bike,Electric,Yes,Bajaj,Chetak,2020,4794,2490351,0.0,0.0,Bengaluru
+V0830,Haryana,Car,Electric,Yes,Kia,Seltos,2015,835,492019,0.0,0.0,Kochi
+V0831,Uttar Pradesh,Truck,Petrol,No,Eicher,Pro 2049,2019,4341,988439,16.1,119.6,Delhi
+V0832,Bihar,Van,Petrol,No,Maruti,Alto,2021,4808,370657,11.4,149.4,Lucknow
+V0833,Gujarat,SUV,Electric,Yes,Tata,Nexon,2010,3520,368325,0.0,0.0,Hyderabad
+V0834,Uttarakhand,SUV,Diesel,No,Tata,Nexon,2016,4860,1306681,19.2,188.3,Lucknow
+V0835,Gujarat,Van,Petrol,No,Force Motors,Traveller,2023,3975,1193817,29.5,168.0,Mumbai
+V0836,Rajasthan,Truck,Petrol,No,Tata,Punch,2015,13458,2319042,11.4,123.7,Mumbai
+V0837,Chhattisgarh,Bus,Petrol,No,Volvo,9400,2020,12001,1452678,24.1,168.2,Chennai
+V0838,Odisha,Truck,Diesel,No,Eicher,Pro 2049,2012,10789,1860013,28.5,112.3,Delhi
+V0839,Maharashtra,Bike,Petrol,No,Hero,HF Deluxe,2019,682,288639,18.0,155.1,Lucknow
+V0840,Gujarat,Car,Petrol,No,Honda,City,2022,7737,115264,11.5,175.5,Mumbai
+V0841,Bihar,Car,Diesel,No,Honda,City,2012,10769,1364080,21.9,121.1,Kochi
+V0842,Bihar,SUV,Electric,Yes,MG,Astor,2019,4802,217731,0.0,0.0,Lucknow
+V0843,Telangana,Bike,Hybrid,No,Honda,Amaze,2021,6744,570999,18.0,164.3,Hyderabad
+V0844,Odisha,Bike,Diesel,No,Honda,Amaze,2010,4736,2086658,22.5,197.0,Hyderabad
+V0845,Andhra Pradesh,Van,Diesel,No,Force Motors,Traveller,2024,13100,191629,16.5,156.1,Hyderabad
+V0846,West Bengal,Truck,Diesel,No,Mahindra,Jeeto,2011,483,1890543,19.1,114.9,Lucknow
+V0847,Madhya Pradesh,Van,Electric,Yes,Tata,Tiago,2011,11741,1299369,0.0,0.0,Hyderabad
+V0848,Rajasthan,Car,Diesel,No,Kia,Seltos,2021,291,1622091,14.7,191.5,Hyderabad
+V0849,Delhi,SUV,Petrol,No,Hyundai,Venue,2021,14123,1847553,11.5,167.5,Kolkata
+V0850,Haryana,Bus,Electric,Yes,Tata,Nexon,2018,5351,238406,0.0,0.0,Mumbai
+V0851,Gujarat,Bike,Diesel,No,TVS,Apache,2016,9684,620629,23.0,186.8,Hyderabad
+V0852,Odisha,SUV,Petrol,No,Mahindra,Bolero,2021,3683,1475644,11.3,129.1,Chennai
+V0853,Gujarat,Van,Petrol,No,Maruti,Alto,2013,13312,519064,23.1,154.1,Delhi
+V0854,Uttar Pradesh,Van,Hybrid,No,Maruti,Baleno,2018,3526,2483407,27.8,104.4,Kolkata
+V0855,Chhattisgarh,Bike,Hybrid,No,Bajaj,Pulsar,2020,6846,80234,24.9,145.7,Bengaluru
+V0856,Telangana,Truck,Diesel,No,Eicher,Pro 3015,2017,7174,789388,19.8,144.9,Delhi
+V0857,Karnataka,SUV,Petrol,No,Hyundai,Creta,2012,5509,127116,17.0,122.6,Bengaluru
+V0858,Bihar,Van,Hybrid,No,Maruti,Alto,2019,2268,720143,13.0,138.6,Mumbai
+V0859,Tamil Nadu,Auto,Diesel,No,TVS,Apache,2019,6670,2319030,19.7,120.8,Bengaluru
+V0860,Uttar Pradesh,Bus,Diesel,No,Tata,Nexon,2021,2536,1564127,14.6,188.4,Mumbai
+V0861,Rajasthan,Van,Petrol,No,Tata,Tiago,2010,10365,461313,26.8,144.5,Jaipur
+V0862,Maharashtra,Car,Petrol,No,Tata,Punch,2011,12843,1145943,11.8,196.7,Hyderabad
+V0863,Haryana,Van,Diesel,No,Maruti,Alto,2019,2125,710698,14.7,124.6,Delhi
+V0864,Delhi,Bike,Electric,Yes,Honda,Amaze,2015,3836,120525,0.0,0.0,Bengaluru
+V0865,Andhra Pradesh,Bus,Petrol,No,Ashok Leyland,Dost,2012,13817,1047618,12.3,139.3,Ahmedabad
+V0866,Chhattisgarh,Car,Hybrid,No,Kia,Sonet,2015,971,2347188,24.5,157.7,Chennai
+V0867,Haryana,SUV,Electric,Yes,Tata,Tiago,2013,12383,325624,0.0,0.0,Bengaluru
+V0868,Chhattisgarh,Car,Diesel,No,Kia,Sonet,2010,12796,1629073,18.8,111.9,Jaipur
+V0869,Haryana,Bike,Petrol,No,Honda,Amaze,2020,11574,561196,17.3,165.7,Hyderabad
+V0870,Haryana,Bike,Electric,Yes,Honda,Amaze,2013,12900,474009,0.0,0.0,Hyderabad
+V0871,Haryana,Car,Diesel,No,Hyundai,Venue,2018,10451,2189085,23.5,114.2,Kolkata
+V0872,West Bengal,Bike,Petrol,No,Hero,Splendor,2016,8671,1052930,18.2,136.9,Ahmedabad
+V0873,West Bengal,Car,Electric,Yes,Tata,Tiago,2016,5101,1463730,0.0,0.0,Mumbai
+V0874,Rajasthan,Bike,Diesel,No,Honda,Amaze,2022,11180,377654,24.1,157.4,Kochi
+V0875,Bihar,Truck,Petrol,No,Ashok Leyland,Captain,2022,7658,1748384,14.1,108.4,Kochi
+V0876,Odisha,SUV,Petrol,No,Tata,Punch,2024,8769,1731921,26.1,110.9,Kochi
+V0877,Madhya Pradesh,Car,Electric,Yes,Tata,Punch,2015,14129,1182902,0.0,0.0,Lucknow
+V0878,Punjab,Truck,Diesel,No,Ashok Leyland,Dost,2016,6635,418526,25.5,123.3,Hyderabad
+V0879,Maharashtra,Bus,Electric,Yes,Tata,Nexon,2020,7642,512544,0.0,0.0,Mumbai
+V0880,Andhra Pradesh,Truck,Electric,Yes,Tata,Punch,2015,13954,1181431,0.0,0.0,Kolkata
+V0881,Chhattisgarh,Bus,Petrol,No,Tata,Nexon,2011,352,644400,11.4,128.4,Delhi
+V0882,Punjab,Bus,Diesel,No,Tata,Nexon,2024,2257,2064247,25.1,198.9,Chennai
+V0883,Telangana,Bus,Diesel,No,Tata,Tiago,2021,12569,1625223,24.6,138.5,Jaipur
+V0884,Karnataka,Bus,Diesel,No,Tata,Tiago,2021,5146,1410707,24.2,135.4,Mumbai
+V0885,Kerala,Van,Electric,Yes,Maruti,Swift,2021,406,2412872,0.0,0.0,Chennai
+V0886,Gujarat,Truck,Diesel,No,Mahindra,Bolero,2013,12871,1042641,21.3,153.0,Jaipur
+V0887,Odisha,Bus,Hybrid,No,Ashok Leyland,Dost,2020,13762,2485144,27.2,150.9,Bengaluru
+V0888,Uttar Pradesh,Auto,Electric,Yes,TVS,Jupiter,2013,198,2365376,0.0,0.0,Kochi
+V0889,Rajasthan,Bus,Electric,Yes,Tata,Nexon,2013,6229,1609193,0.0,0.0,Bengaluru
+V0890,Karnataka,Bus,Diesel,No,Ashok Leyland,Captain,2018,1038,1134243,29.0,135.1,Kolkata
+V0891,Assam,Truck,Hybrid,No,Ashok Leyland,Dost,2015,10457,1046480,25.1,155.2,Delhi
+V0892,West Bengal,Auto,Petrol,No,Bajaj,Chetak,2010,1661,2117001,22.0,113.1,Bengaluru
+V0893,Uttar Pradesh,Bus,Electric,Yes,Ashok Leyland,Captain,2023,14494,1186074,0.0,0.0,Chennai
+V0894,Telangana,Car,Petrol,No,Honda,City,2022,308,1814138,15.4,100.3,Jaipur
+V0895,West Bengal,Bike,Petrol,No,Honda,Amaze,2018,7444,1928104,25.4,159.8,Jaipur
+V0896,Andhra Pradesh,Auto,Hybrid,No,Piaggio,Ape,2014,12159,2044936,22.8,128.8,Jaipur
+V0897,Odisha,Van,Electric,Yes,Tata,Nexon,2015,3908,1824640,0.0,0.0,Bengaluru
+V0898,Telangana,Car,Hybrid,No,Maruti,Ertiga,2014,7382,2316953,12.3,189.1,Hyderabad
+V0899,West Bengal,Truck,Electric,Yes,Tata,Nexon,2023,2813,1842356,0.0,0.0,Lucknow
+V0900,Assam,SUV,Petrol,No,Hyundai,Venue,2016,1685,367733,20.2,116.3,Delhi
+V0901,Delhi,SUV,Hybrid,No,Tata,Tiago,2018,5559,312184,16.1,104.7,Ahmedabad
+V0902,Delhi,Truck,Electric,Yes,Eicher,Pro 2049,2021,1374,508160,0.0,0.0,Chennai
+V0903,Andhra Pradesh,Car,Diesel,No,Kia,Seltos,2020,5500,80915,19.5,175.2,Jaipur
+V0904,Chhattisgarh,Auto,Hybrid,No,Bajaj,Pulsar,2018,450,1488141,15.6,174.7,Bengaluru
+V0905,Punjab,SUV,Hybrid,No,Tata,Tiago,2023,8428,2371514,19.9,139.5,Delhi
+V0906,Bihar,Bus,Diesel,No,Ashok Leyland,Dost,2010,9448,309273,10.4,172.1,Kolkata
+V0907,Haryana,Bike,Hybrid,No,Bajaj,Pulsar,2017,14894,1629504,28.6,158.1,Kochi
+V0908,Andhra Pradesh,Van,Electric,Yes,Tata,Nexon,2020,7917,1464398,0.0,0.0,Hyderabad
+V0909,Kerala,Bike,Petrol,No,Honda,Amaze,2022,6344,1137620,23.7,119.5,Hyderabad
+V0910,West Bengal,Car,Electric,Yes,Hyundai,Creta,2018,7169,2145135,0.0,0.0,Mumbai
+V0911,Chhattisgarh,Car,Diesel,No,Maruti,Ertiga,2018,14024,1868629,16.7,115.5,Hyderabad
+V0912,Haryana,Car,Hybrid,No,Kia,Sonet,2023,9330,2071985,19.7,162.6,Mumbai
+V0913,Tamil Nadu,SUV,Electric,Yes,Mahindra,Jeeto,2019,7702,410269,0.0,0.0,Delhi
+V0914,Uttarakhand,Van,Electric,Yes,Force Motors,Traveller,2020,3530,662481,0.0,0.0,Kochi
+V0915,West Bengal,Car,Petrol,No,Maruti,Swift,2013,1412,225970,14.5,145.5,Jaipur
+V0916,West Bengal,Bike,Petrol,No,Royal Enfield,Hunter 350,2015,7400,278667,21.3,154.2,Lucknow
+V0917,Andhra Pradesh,Truck,Diesel,No,Tata,Tiago,2023,1172,1704979,23.5,147.7,Mumbai
+V0918,Kerala,SUV,Diesel,No,Tata,Punch,2023,12192,1352577,21.8,114.3,Kolkata
+V0919,Gujarat,SUV,Hybrid,No,MG,Hector,2010,2701,1478456,17.0,176.9,Ahmedabad
+V0920,Punjab,Van,Diesel,No,Maruti,Baleno,2011,6540,1052081,12.7,165.4,Ahmedabad
+V0921,Kerala,SUV,Diesel,No,Hyundai,Venue,2021,13989,1747281,27.9,183.4,Jaipur
+V0922,Kerala,SUV,Electric,Yes,Mahindra,Jeeto,2019,12360,1291164,0.0,0.0,Kochi
+V0923,Rajasthan,Bus,Petrol,No,Tata,Tiago,2019,13876,2269858,19.3,108.4,Mumbai
+V0924,Odisha,SUV,Petrol,No,Mahindra,Bolero,2020,2718,550302,11.3,171.1,Lucknow
+V0925,Madhya Pradesh,Auto,Petrol,No,Bajaj,Pulsar,2013,7370,2025141,18.1,125.2,Ahmedabad
+V0926,Andhra Pradesh,Car,Petrol,No,Kia,Seltos,2012,2182,1873486,16.9,172.0,Bengaluru
+V0927,Rajasthan,Car,Hybrid,No,Maruti,Alto,2016,694,1840995,23.0,186.1,Kolkata
+V0928,Maharashtra,SUV,Hybrid,No,MG,Astor,2019,13351,2216502,20.3,194.4,Mumbai
+V0929,Telangana,Van,Electric,Yes,Maruti,Alto,2024,9152,1629587,0.0,0.0,Delhi
+V0930,Delhi,Auto,Petrol,No,TVS,Jupiter,2020,2787,86989,25.7,132.0,Lucknow
+V0931,Gujarat,Bike,Hybrid,No,Royal Enfield,Classic 350,2021,12186,628733,29.5,160.4,Mumbai
+V0932,Chhattisgarh,Van,Hybrid,No,Tata,Nexon,2017,9757,957752,19.3,114.9,Hyderabad
+V0933,Uttarakhand,Van,Petrol,No,Tata,Nexon,2010,11775,2390938,27.8,116.0,Chennai
+V0934,Telangana,Car,Diesel,No,Kia,Seltos,2021,796,670056,27.7,164.0,Ahmedabad
+V0935,Chhattisgarh,Bike,Petrol,No,Hero,Splendor,2012,8272,301530,15.5,131.8,Jaipur
+V0936,Rajasthan,Bus,Diesel,No,Ashok Leyland,Dost,2018,7521,1531809,22.2,156.2,Kolkata
+V0937,Haryana,Bus,Petrol,No,Ashok Leyland,Captain,2010,3361,1277220,14.5,132.1,Mumbai
+V0938,Andhra Pradesh,Auto,Diesel,No,Bajaj,Pulsar,2010,14663,2375962,26.1,186.2,Delhi
+V0939,Uttarakhand,Bus,Electric,Yes,Ashok Leyland,Captain,2016,10378,1666808,0.0,0.0,Mumbai
+V0940,Delhi,SUV,Petrol,No,Hyundai,Creta,2014,2719,762344,21.5,170.8,Kolkata
+V0941,Jharkhand,Auto,Hybrid,No,Piaggio,Ape,2011,4234,2300357,16.3,127.9,Bengaluru
+V0942,Andhra Pradesh,Truck,Petrol,No,Eicher,Pro 2049,2023,2373,1421451,27.3,134.8,Ahmedabad
+V0943,Jharkhand,Truck,Petrol,No,Eicher,Pro 3015,2015,7688,720324,27.9,145.9,Ahmedabad
+V0944,Jharkhand,Car,Diesel,No,Toyota,Innova,2020,10627,421737,24.8,165.9,Chennai
+V0945,Assam,Truck,Electric,Yes,Eicher,Pro 2049,2015,1936,1517620,0.0,0.0,Delhi
+V0946,Chhattisgarh,Truck,Petrol,No,Tata,Nexon,2018,1021,1231720,20.9,131.0,Bengaluru
+V0947,Odisha,Auto,Hybrid,No,TVS,Jupiter,2016,5980,856000,20.8,141.8,Hyderabad
+V0948,Karnataka,SUV,Hybrid,No,Mahindra,Jeeto,2022,5655,86306,18.2,164.3,Delhi
+V0949,Madhya Pradesh,Auto,Electric,Yes,Bajaj,Chetak,2018,107,1154645,0.0,0.0,Bengaluru
+V0950,Assam,Van,Petrol,No,Tata,Nexon,2012,2975,1300457,21.2,120.6,Chennai
+V0951,Uttarakhand,Bike,Hybrid,No,Bajaj,Pulsar,2013,11350,2193319,27.4,104.3,Lucknow
+V0952,Gujarat,Car,Diesel,No,Toyota,Innova,2022,4652,1578386,11.9,132.1,Ahmedabad
+V0953,Tamil Nadu,SUV,Electric,Yes,Mahindra,Bolero,2023,6296,1665397,0.0,0.0,Delhi
+V0954,Tamil Nadu,Bus,Petrol,No,Ashok Leyland,Captain,2017,869,586817,20.0,148.9,Kolkata
+V0955,Karnataka,Bus,Electric,Yes,Volvo,9600,2010,7385,1494816,0.0,0.0,Ahmedabad
+V0956,Haryana,Bus,Diesel,No,Ashok Leyland,Captain,2019,12974,598955,26.1,108.7,Hyderabad
+V0957,Tamil Nadu,Bus,Hybrid,No,Tata,Tiago,2015,11823,511965,12.4,107.2,Ahmedabad
+V0958,Bihar,SUV,Electric,Yes,Mahindra,Jeeto,2013,1043,1200616,0.0,0.0,Bengaluru
+V0959,West Bengal,SUV,Petrol,No,Tata,Nexon,2015,1500,1604122,19.6,196.5,Bengaluru
+V0960,Karnataka,Truck,Hybrid,No,Eicher,Pro 2049,2020,2849,641295,10.5,199.2,Lucknow
+V0961,Tamil Nadu,Bike,Electric,Yes,Royal Enfield,Hunter 350,2022,12342,522473,0.0,0.0,Bengaluru
+V0962,Assam,Bike,Electric,Yes,Hero,HF Deluxe,2011,13316,1474181,0.0,0.0,Jaipur
+V0963,Punjab,Car,Electric,Yes,Toyota,Fortuner,2014,12598,1838743,0.0,0.0,Kochi
+V0964,Jharkhand,Bike,Hybrid,No,Royal Enfield,Hunter 350,2011,2283,536041,19.7,186.0,Delhi
+V0965,Assam,Truck,Petrol,No,Tata,Punch,2013,9234,1368910,13.0,130.7,Bengaluru
+V0966,Telangana,Truck,Diesel,No,Tata,Nexon,2010,9619,545002,28.2,140.7,Kochi
+V0967,Jharkhand,Van,Hybrid,No,Tata,Tiago,2015,821,2097182,29.3,157.0,Jaipur
+V0968,Delhi,Bus,Diesel,No,Ashok Leyland,Dost,2018,11198,2019622,24.3,135.7,Ahmedabad
+V0969,Tamil Nadu,Bus,Electric,Yes,Volvo,9600,2011,2700,321239,0.0,0.0,Hyderabad
+V0970,Odisha,Bus,Diesel,No,Ashok Leyland,Captain,2016,11447,1356508,23.9,142.3,Lucknow
+V0971,Bihar,Truck,Diesel,No,Mahindra,Jeeto,2019,10123,484833,23.1,156.6,Kolkata
+V0972,Odisha,Auto,Hybrid,No,TVS,Apache,2014,2698,1582253,11.9,107.3,Kochi
+V0973,Tamil Nadu,Truck,Petrol,No,Mahindra,Jeeto,2023,13097,598874,26.3,141.9,Lucknow
+V0974,Uttar Pradesh,Bus,Electric,Yes,Tata,Nexon,2021,9250,799795,0.0,0.0,Chennai
+V0975,Kerala,Car,Petrol,No,Honda,City,2021,930,1188006,12.5,143.8,Jaipur
+V0976,Karnataka,Car,Hybrid,No,Maruti,Swift,2024,4644,1459217,11.6,110.9,Lucknow
+V0977,Odisha,SUV,Petrol,No,Hyundai,i20,2013,14630,168393,28.1,175.6,Bengaluru
+V0978,Delhi,Car,Hybrid,No,Kia,Sonet,2014,9173,689884,10.2,143.4,Kochi
+V0979,West Bengal,Auto,Petrol,No,TVS,Jupiter,2022,3631,314798,17.3,106.6,Ahmedabad
+V0980,Haryana,Bike,Electric,Yes,Royal Enfield,Classic 350,2021,3013,1836078,0.0,0.0,Lucknow
+V0981,Uttar Pradesh,Auto,Diesel,No,TVS,Apache,2019,3198,2174425,10.4,166.7,Mumbai
+V0982,Uttar Pradesh,Auto,Petrol,No,Piaggio,Porter,2011,14660,910181,19.6,191.6,Jaipur
+V0983,Odisha,Van,Hybrid,No,Tata,Nexon,2011,9039,1410076,10.1,173.2,Jaipur
+V0984,West Bengal,Truck,Hybrid,No,Mahindra,Jeeto,2024,10293,755507,19.1,141.7,Mumbai
+V0985,Madhya Pradesh,Auto,Electric,Yes,Piaggio,Porter,2024,7620,1320202,0.0,0.0,Delhi
+V0986,Assam,SUV,Diesel,No,Mahindra,Bolero,2014,2863,890568,23.6,193.6,Delhi
+V0987,Maharashtra,Van,Petrol,No,Tata,Tiago,2024,1061,731911,14.0,114.6,Kochi
+V0988,Maharashtra,Auto,Petrol,No,Piaggio,Ape,2011,9594,684202,22.7,122.5,Kochi
+V0989,Andhra Pradesh,Car,Diesel,No,Honda,City,2014,9576,1684008,26.4,128.0,Kolkata
+V0990,Kerala,Van,Hybrid,No,Tata,Tiago,2024,6973,1066589,26.8,152.0,Lucknow
+V0991,Jharkhand,Car,Electric,Yes,Hyundai,Venue,2012,10771,2079146,0.0,0.0,Kochi
+V0992,Assam,Auto,Hybrid,No,TVS,Jupiter,2015,544,1776997,20.6,198.3,Kolkata
+V0993,Delhi,Bus,Petrol,No,Ashok Leyland,Captain,2017,4762,690163,10.1,154.8,Bengaluru
+V0994,Karnataka,Car,Diesel,No,Toyota,Innova,2022,4858,1282109,16.7,194.6,Kolkata
+V0995,Bihar,Bus,Electric,Yes,Ashok Leyland,Dost,2023,1559,840829,0.0,0.0,Delhi
+V0996,Kerala,Auto,Petrol,No,Piaggio,Ape,2012,2226,1342994,17.1,160.5,Jaipur
+V0997,Delhi,Car,Electric,Yes,Kia,Seltos,2015,9766,2326590,0.0,0.0,Hyderabad
+V0998,Bihar,Bike,Electric,Yes,Royal Enfield,Hunter 350,2020,455,1524467,0.0,0.0,Delhi
+V0999,Tamil Nadu,Car,Electric,Yes,Hyundai,Venue,2021,12335,769730,0.0,0.0,Delhi
+V1000,Gujarat,Auto,Diesel,No,Bajaj,Pulsar,2022,295,1529257,22.8,125.3,Hyderabad
+V1001,Uttarakhand,Truck,Diesel,No,Tata,Punch,2015,12408,2445711,17.3,103.1,Hyderabad
+V1002,Rajasthan,Bus,Hybrid,No,Tata,Punch,2010,6515,1707915,14.2,135.9,Kolkata
+V1003,Maharashtra,SUV,Hybrid,No,Hyundai,i20,2010,12621,1958531,29.8,102.2,Hyderabad
+V1004,Maharashtra,Auto,Diesel,No,Piaggio,Porter,2012,7416,891877,11.4,177.2,Jaipur
+V1005,Jharkhand,Auto,Hybrid,No,Bajaj,Chetak,2024,7704,153962,17.9,157.2,Jaipur
+V1006,Telangana,Van,Petrol,No,Tata,Punch,2018,3532,1108522,14.7,124.5,Ahmedabad
+V1007,Chhattisgarh,Bus,Electric,Yes,Tata,Punch,2020,5981,2206078,0.0,0.0,Mumbai
+V1008,Uttar Pradesh,Car,Petrol,No,Toyota,Fortuner,2015,2613,2397932,16.2,189.9,Kolkata
+V1009,Uttar Pradesh,Car,Diesel,No,Maruti,Baleno,2016,7396,1875465,18.2,132.2,Kolkata
+V1010,Gujarat,Truck,Petrol,No,Ashok Leyland,Dost,2020,12717,1129715,11.8,178.0,Ahmedabad
+V1011,Uttar Pradesh,SUV,Petrol,No,MG,Hector,2014,6126,1157495,20.6,173.2,Delhi
+V1012,Jharkhand,Bike,Hybrid,No,Bajaj,Pulsar,2010,3481,372459,19.7,177.5,Chennai
+V1013,Gujarat,Van,Diesel,No,Maruti,Alto,2018,8929,1334781,28.2,126.5,Mumbai
+V1014,Karnataka,Car,Electric,Yes,Maruti,Baleno,2014,3783,1195112,0.0,0.0,Bengaluru
+V1015,Karnataka,Truck,Electric,Yes,Mahindra,Jeeto,2017,3767,2269386,0.0,0.0,Bengaluru
+V1016,Rajasthan,Car,Diesel,No,Kia,Sonet,2012,13201,815207,20.7,175.4,Lucknow
+V1017,Madhya Pradesh,Truck,Electric,Yes,Tata,Nexon,2024,11987,208554,0.0,0.0,Delhi
+V1018,Jharkhand,Auto,Electric,Yes,Bajaj,Pulsar,2020,577,452556,0.0,0.0,Bengaluru
+V1019,Assam,Bus,Electric,Yes,Ashok Leyland,Dost,2017,2672,449727,0.0,0.0,Mumbai
+V1020,Chhattisgarh,Van,Hybrid,No,Force Motors,Gurkha,2024,6280,173622,24.5,199.0,Lucknow
+V1021,Maharashtra,Truck,Petrol,No,Tata,Tiago,2018,4355,220950,29.1,140.4,Chennai
+V1022,Assam,Car,Hybrid,No,Hyundai,Venue,2010,6017,2182248,14.4,198.9,Hyderabad
+V1023,Telangana,Auto,Petrol,No,Bajaj,Chetak,2011,13207,1181651,23.8,141.3,Jaipur
+V1024,Bihar,Truck,Electric,Yes,Ashok Leyland,Dost,2014,2696,1677883,0.0,0.0,Hyderabad
+V1025,Andhra Pradesh,Van,Electric,Yes,Maruti,Alto,2021,2051,2033937,0.0,0.0,Chennai
+V1026,Bihar,SUV,Hybrid,No,Tata,Punch,2022,2336,323091,10.6,119.2,Hyderabad
+V1027,Gujarat,Van,Diesel,No,Tata,Punch,2024,7731,524825,17.9,177.4,Hyderabad
+V1028,Uttarakhand,Bike,Petrol,No,Bajaj,Chetak,2013,7871,755584,10.8,170.0,Hyderabad
+V1029,Bihar,Van,Petrol,No,Tata,Punch,2019,12940,2240922,13.4,196.0,Ahmedabad
+V1030,Bihar,Auto,Diesel,No,Bajaj,Chetak,2012,10050,1054926,13.1,133.4,Kolkata
+V1031,Tamil Nadu,Bus,Hybrid,No,Tata,Tiago,2024,7804,1945599,25.9,107.1,Lucknow
+V1032,Assam,SUV,Electric,Yes,MG,Astor,2023,11751,1469775,0.0,0.0,Kolkata
+V1033,Uttar Pradesh,Bike,Electric,Yes,Honda,Amaze,2021,14526,2285390,0.0,0.0,Bengaluru
+V1034,Madhya Pradesh,Van,Petrol,No,Maruti,Ertiga,2020,11178,1040463,22.2,195.1,Hyderabad
+V1035,Haryana,Bike,Electric,Yes,Bajaj,Chetak,2010,7243,604707,0.0,0.0,Delhi
+V1036,Telangana,Truck,Electric,Yes,Eicher,Pro 2049,2011,6011,2081490,0.0,0.0,Lucknow
+V1037,Odisha,Bus,Diesel,No,Tata,Nexon,2015,1117,1867439,11.0,164.3,Mumbai
+V1038,Punjab,Car,Electric,Yes,Honda,Amaze,2022,13963,1757873,0.0,0.0,Hyderabad
+V1039,Tamil Nadu,Van,Hybrid,No,Force Motors,Traveller,2017,5679,1487012,16.4,136.4,Lucknow
+V1040,Punjab,Van,Diesel,No,Force Motors,Gurkha,2021,4647,1295018,21.4,156.2,Delhi
+V1041,Assam,Auto,Diesel,No,Piaggio,Porter,2012,8606,2455683,18.9,118.6,Delhi
+V1042,Madhya Pradesh,Car,Petrol,No,Tata,Punch,2014,1825,1439513,29.5,159.1,Delhi
+V1043,Tamil Nadu,Bus,Petrol,No,Tata,Nexon,2016,10364,1599603,23.0,196.7,Ahmedabad
+V1044,Andhra Pradesh,SUV,Petrol,No,Tata,Punch,2024,3341,973940,28.4,107.0,Kolkata
+V1045,West Bengal,Car,Electric,Yes,Honda,City,2022,2772,459977,0.0,0.0,Kolkata
+V1046,Maharashtra,Auto,Petrol,No,TVS,Apache,2011,12343,1604057,23.7,169.4,Lucknow
+V1047,Madhya Pradesh,SUV,Hybrid,No,Tata,Nexon,2020,9172,1777039,16.8,102.8,Bengaluru
+V1048,Rajasthan,Truck,Electric,Yes,Ashok Leyland,Dost,2020,8586,2008951,0.0,0.0,Ahmedabad
+V1049,Bihar,Van,Diesel,No,Force Motors,Gurkha,2015,3355,1237497,28.8,128.5,Chennai
+V1050,Assam,Bike,Electric,Yes,Honda,City,2019,8582,2124278,0.0,0.0,Lucknow
+V1051,Haryana,Van,Hybrid,No,Force Motors,Traveller,2022,12395,1880065,19.6,168.1,Chennai
+V1052,West Bengal,Truck,Electric,Yes,Tata,Nexon,2024,8974,819306,0.0,0.0,Ahmedabad
+V1053,Telangana,Auto,Electric,Yes,Bajaj,Chetak,2019,2160,1322993,0.0,0.0,Jaipur
+V1054,Delhi,SUV,Petrol,No,Tata,Tiago,2024,14809,1528921,14.9,192.2,Bengaluru
+V1055,West Bengal,Car,Hybrid,No,Maruti,Baleno,2016,11219,2451740,20.9,194.5,Delhi
+V1056,Rajasthan,Auto,Diesel,No,TVS,Jupiter,2016,13615,469642,15.9,176.7,Chennai
+V1057,Gujarat,Truck,Petrol,No,Tata,Punch,2023,236,1336033,27.0,105.9,Jaipur
+V1058,Punjab,Truck,Diesel,No,Eicher,Pro 3015,2015,13672,80557,13.8,178.0,Hyderabad
+V1059,Tamil Nadu,Truck,Petrol,No,Mahindra,Bolero,2010,6705,1786984,16.0,125.4,Bengaluru
+V1060,Madhya Pradesh,Bus,Electric,Yes,Tata,Punch,2017,7021,1091309,0.0,0.0,Ahmedabad
+V1061,Delhi,Auto,Hybrid,No,Bajaj,Chetak,2016,832,2331822,13.1,138.4,Delhi
+V1062,Punjab,Car,Diesel,No,Kia,Seltos,2023,8959,669934,28.6,181.7,Mumbai
+V1063,Odisha,Car,Diesel,No,Honda,City,2022,12295,1387944,27.9,127.6,Hyderabad
+V1064,Assam,Truck,Hybrid,No,Eicher,Pro 3015,2024,3089,339056,20.6,133.9,Ahmedabad
+V1065,Assam,Van,Diesel,No,Tata,Nexon,2015,3135,1901601,23.5,155.0,Delhi
+V1066,Bihar,SUV,Diesel,No,Tata,Punch,2016,12689,356498,21.0,134.1,Chennai
+V1067,Telangana,Auto,Diesel,No,TVS,Apache,2017,14335,1668805,20.3,152.7,Kolkata
+V1068,Assam,Car,Electric,Yes,Honda,Amaze,2012,2847,992267,0.0,0.0,Hyderabad
+V1069,Madhya Pradesh,Auto,Electric,Yes,TVS,Jupiter,2013,7395,440921,0.0,0.0,Delhi
+V1070,Uttar Pradesh,SUV,Electric,Yes,Hyundai,Venue,2019,11882,815666,0.0,0.0,Hyderabad
+V1071,Maharashtra,Bike,Petrol,No,Royal Enfield,Hunter 350,2017,13453,2259301,23.3,115.4,Mumbai
+V1072,Uttarakhand,Bus,Diesel,No,Volvo,9400,2014,9644,1286713,12.8,124.1,Jaipur
+V1073,Madhya Pradesh,Auto,Petrol,No,TVS,Jupiter,2021,3002,2313074,28.1,123.4,Ahmedabad
+V1074,Rajasthan,SUV,Hybrid,No,MG,Astor,2023,11162,1149061,14.3,123.8,Jaipur
+V1075,Uttarakhand,Truck,Electric,Yes,Tata,Tiago,2015,2458,721042,0.0,0.0,Jaipur
+V1076,Assam,Van,Petrol,No,Maruti,Alto,2015,2851,1887688,13.9,110.6,Delhi
+V1077,Uttarakhand,Car,Diesel,No,Maruti,Swift,2020,6922,2308301,27.5,120.2,Hyderabad
+V1078,West Bengal,Auto,Electric,Yes,Bajaj,Pulsar,2024,10897,1000550,0.0,0.0,Lucknow
+V1079,Tamil Nadu,Truck,Electric,Yes,Eicher,Pro 2049,2012,7394,545380,0.0,0.0,Hyderabad
+V1080,Delhi,Truck,Electric,Yes,Eicher,Pro 3015,2015,8589,719161,0.0,0.0,Lucknow
+V1081,Kerala,SUV,Petrol,No,Hyundai,Venue,2020,6908,2488637,15.2,140.7,Bengaluru
+V1082,Punjab,Car,Petrol,No,Hyundai,Venue,2021,12753,1722694,18.3,113.5,Kolkata
+V1083,Telangana,Truck,Hybrid,No,Ashok Leyland,Dost,2012,381,962278,14.1,162.3,Kolkata
+V1084,Haryana,Bike,Electric,Yes,Royal Enfield,Classic 350,2016,11072,622648,0.0,0.0,Kolkata
+V1085,Andhra Pradesh,SUV,Electric,Yes,Tata,Tiago,2012,11251,719895,0.0,0.0,Jaipur
+V1086,Assam,Car,Hybrid,No,Kia,Sonet,2022,762,677293,28.5,127.6,Kolkata
+V1087,Andhra Pradesh,Car,Hybrid,No,Hyundai,Venue,2022,2444,971654,13.7,183.3,Jaipur
+V1088,Bihar,Auto,Diesel,No,Piaggio,Ape,2016,12684,980578,13.7,132.0,Jaipur
+V1089,Andhra Pradesh,Truck,Electric,Yes,Tata,Nexon,2019,8800,2215825,0.0,0.0,Ahmedabad
+V1090,Haryana,SUV,Hybrid,No,MG,Astor,2017,6921,2299288,20.4,153.7,Bengaluru
+V1091,Gujarat,Auto,Diesel,No,Bajaj,Chetak,2019,9641,2338740,24.9,142.8,Jaipur
+V1092,Delhi,Bike,Diesel,No,Royal Enfield,Classic 350,2014,787,1140085,26.4,173.3,Kochi
+V1093,Andhra Pradesh,SUV,Diesel,No,Hyundai,Creta,2016,9103,1091920,23.0,130.0,Bengaluru
+V1094,Telangana,SUV,Electric,Yes,Tata,Punch,2016,10988,2425683,0.0,0.0,Hyderabad
+V1095,Uttar Pradesh,Van,Diesel,No,Tata,Nexon,2013,2869,836233,20.9,162.9,Jaipur
+V1096,Haryana,SUV,Diesel,No,Hyundai,i20,2010,10900,718276,27.5,184.9,Jaipur
+V1097,Kerala,Auto,Diesel,No,Piaggio,Porter,2014,13308,2150752,21.0,150.2,Chennai
+V1098,Tamil Nadu,Car,Hybrid,No,Kia,Sonet,2021,12642,2265299,20.2,198.0,Kochi
+V1099,Odisha,Bike,Electric,Yes,Bajaj,Pulsar,2022,4606,427270,0.0,0.0,Kochi
+V1100,Punjab,Truck,Diesel,No,Ashok Leyland,Dost,2013,5057,882808,15.5,141.1,Ahmedabad
+V1101,Gujarat,Bike,Hybrid,No,TVS,Apache,2024,11298,2101529,18.2,120.2,Chennai
+V1102,Rajasthan,Bus,Hybrid,No,Tata,Nexon,2023,5513,155570,11.9,143.9,Jaipur
+V1103,Karnataka,Bus,Electric,Yes,Volvo,9400,2019,3383,2453996,0.0,0.0,Kochi
+V1104,Gujarat,Auto,Petrol,No,Bajaj,Chetak,2013,7778,2353787,12.3,174.2,Chennai
+V1105,Bihar,SUV,Electric,Yes,Tata,Nexon,2010,5232,2443642,0.0,0.0,Bengaluru
+V1106,Tamil Nadu,Auto,Electric,Yes,Piaggio,Ape,2023,5617,2127854,0.0,0.0,Ahmedabad
+V1107,Maharashtra,Bus,Diesel,No,Ashok Leyland,Captain,2019,14460,1042070,27.1,139.0,Lucknow
+V1108,Odisha,Van,Diesel,No,Force Motors,Gurkha,2024,1374,1449420,15.9,194.6,Chennai
+V1109,Rajasthan,Auto,Diesel,No,TVS,Jupiter,2016,7429,1114466,19.1,189.7,Mumbai
+V1110,Jharkhand,Car,Hybrid,No,Maruti,Swift,2015,3709,2104009,17.8,178.0,Hyderabad
+V1111,Rajasthan,Car,Diesel,No,Maruti,Swift,2017,4980,647406,21.8,126.0,Lucknow
+V1112,Punjab,SUV,Electric,Yes,Mahindra,Jeeto,2019,12101,2262046,0.0,0.0,Bengaluru
+V1113,Uttar Pradesh,Van,Electric,Yes,Tata,Tiago,2017,2302,2228615,0.0,0.0,Kochi
+V1114,Haryana,Truck,Petrol,No,Eicher,Pro 3015,2017,5553,1676909,28.7,195.4,Kochi
+V1115,Uttarakhand,Truck,Petrol,No,Mahindra,Bolero,2024,10610,2307764,25.9,108.2,Hyderabad
+V1116,Uttar Pradesh,Truck,Hybrid,No,Ashok Leyland,Dost,2019,12860,1576679,28.9,132.5,Lucknow
+V1117,Chhattisgarh,Bus,Electric,Yes,Tata,Punch,2015,11393,1999695,0.0,0.0,Delhi
+V1118,Punjab,Bus,Electric,Yes,Ashok Leyland,Captain,2020,5335,1750910,0.0,0.0,Bengaluru
+V1119,Telangana,Bike,Diesel,No,Honda,City,2021,4608,2234534,14.9,146.3,Bengaluru
+V1120,Bihar,Car,Hybrid,No,Honda,City,2022,10913,1848517,30.0,140.8,Lucknow
+V1121,Chhattisgarh,Truck,Diesel,No,Eicher,Pro 2049,2022,10451,1018372,26.2,169.8,Lucknow
+V1122,Bihar,Bike,Diesel,No,TVS,Apache,2010,3745,81737,10.2,157.9,Kolkata
+V1123,Uttar Pradesh,Auto,Electric,Yes,Bajaj,Pulsar,2010,11705,424562,0.0,0.0,Lucknow
+V1124,Kerala,Auto,Petrol,No,Piaggio,Ape,2022,3860,2202156,11.6,168.2,Kochi
+V1125,Gujarat,Van,Electric,Yes,Tata,Tiago,2020,14251,1400524,0.0,0.0,Hyderabad
+V1126,Chhattisgarh,Auto,Petrol,No,Piaggio,Ape,2016,14330,1167238,19.5,118.9,Ahmedabad
+V1127,Assam,Van,Electric,Yes,Force Motors,Gurkha,2018,10012,2060493,0.0,0.0,Lucknow
+V1128,Karnataka,SUV,Petrol,No,Mahindra,Bolero,2010,9106,1673042,19.0,148.8,Kolkata
+V1129,Uttarakhand,Bike,Electric,Yes,TVS,Apache,2024,3087,507322,0.0,0.0,Kolkata
+V1130,Bihar,Truck,Diesel,No,Mahindra,Jeeto,2021,11713,1311287,14.8,152.4,Delhi
+V1131,Rajasthan,Car,Hybrid,No,Honda,Amaze,2012,3736,1012046,22.6,101.4,Bengaluru
+V1132,Madhya Pradesh,Bus,Diesel,No,Volvo,9600,2012,5279,1447798,13.9,190.0,Bengaluru
+V1133,Assam,Bike,Electric,Yes,Hero,HF Deluxe,2018,1258,2359839,0.0,0.0,Lucknow
+V1134,Assam,Van,Electric,Yes,Tata,Nexon,2018,7348,1166801,0.0,0.0,Hyderabad
+V1135,Bihar,Auto,Diesel,No,Bajaj,Pulsar,2010,5728,2009909,16.4,153.7,Chennai
+V1136,Tamil Nadu,Van,Electric,Yes,Maruti,Ertiga,2020,7862,377682,0.0,0.0,Lucknow
+V1137,Bihar,Auto,Hybrid,No,TVS,Jupiter,2019,5546,871745,12.0,170.0,Kochi
+V1138,Uttarakhand,Car,Hybrid,No,Honda,Amaze,2016,5143,382661,25.8,169.6,Chennai
+V1139,Kerala,SUV,Petrol,No,Mahindra,Jeeto,2019,14196,1273213,26.9,146.0,Bengaluru
+V1140,Punjab,Auto,Diesel,No,TVS,Jupiter,2019,4854,710647,21.5,185.3,Delhi
+V1141,Karnataka,Van,Electric,Yes,Tata,Tiago,2010,2740,1208701,0.0,0.0,Bengaluru
+V1142,Gujarat,Auto,Hybrid,No,Piaggio,Porter,2010,11083,664153,17.1,109.7,Jaipur
+V1143,Uttarakhand,Truck,Petrol,No,Mahindra,Jeeto,2015,11690,1761423,22.5,163.6,Chennai
+V1144,Assam,SUV,Electric,Yes,MG,Hector,2017,4964,1085096,0.0,0.0,Bengaluru
+V1145,Tamil Nadu,SUV,Petrol,No,Mahindra,Jeeto,2014,10427,583596,14.1,162.9,Mumbai
+V1146,Uttar Pradesh,Bus,Hybrid,No,Volvo,9400,2024,4850,201501,21.8,195.8,Jaipur
+V1147,Punjab,Truck,Diesel,No,Eicher,Pro 3015,2018,10031,2436852,25.6,172.5,Kochi
+V1148,Uttarakhand,Bike,Electric,Yes,Royal Enfield,Hunter 350,2010,10536,1758062,0.0,0.0,Hyderabad
+V1149,Karnataka,Car,Hybrid,No,Hyundai,i20,2021,4320,651918,29.0,116.1,Delhi
+V1150,Uttarakhand,Van,Petrol,No,Tata,Punch,2019,9164,2478766,25.7,132.5,Hyderabad
+V1151,Gujarat,Auto,Diesel,No,Piaggio,Porter,2018,13063,2306052,25.3,106.1,Kochi
+V1152,Maharashtra,SUV,Electric,Yes,Hyundai,i20,2014,5084,2481839,0.0,0.0,Kochi
+V1153,Assam,Truck,Petrol,No,Eicher,Pro 3015,2017,7150,2007126,18.1,193.3,Bengaluru
+V1154,Karnataka,Truck,Petrol,No,Ashok Leyland,Captain,2014,9481,1353129,12.5,147.1,Lucknow
+V1155,Chhattisgarh,Auto,Petrol,No,Bajaj,Chetak,2022,12012,814930,16.2,152.2,Jaipur
+V1156,Gujarat,Bus,Petrol,No,Tata,Nexon,2023,13180,2166042,25.5,130.9,Mumbai
+V1157,Rajasthan,Bike,Diesel,No,TVS,Jupiter,2012,5505,911830,13.3,153.3,Ahmedabad
+V1158,Tamil Nadu,Auto,Electric,Yes,Piaggio,Porter,2015,2240,678323,0.0,0.0,Lucknow
+V1159,Maharashtra,SUV,Diesel,No,Mahindra,Jeeto,2016,3446,2323588,16.6,105.2,Kochi
+V1160,Odisha,SUV,Diesel,No,Tata,Punch,2011,5525,1540431,19.5,178.7,Bengaluru
+V1161,Telangana,Car,Electric,Yes,Maruti,Baleno,2018,4652,674811,0.0,0.0,Kochi
+V1162,Gujarat,SUV,Diesel,No,Hyundai,i20,2015,11138,1533178,16.2,163.2,Bengaluru
+V1163,Uttarakhand,Bus,Diesel,No,Volvo,9600,2017,197,1268684,13.2,155.1,Lucknow
+V1164,Madhya Pradesh,SUV,Electric,Yes,Mahindra,Bolero,2021,961,1028339,0.0,0.0,Bengaluru
+V1165,Rajasthan,Bus,Petrol,No,Volvo,9600,2017,5556,1242490,21.8,114.2,Kolkata
+V1166,Gujarat,Auto,Hybrid,No,TVS,Apache,2023,9797,2183730,13.0,144.0,Chennai
+V1167,Haryana,Car,Electric,Yes,Maruti,Swift,2016,6515,1798948,0.0,0.0,Bengaluru
+V1168,Uttar Pradesh,Bike,Petrol,No,Hero,HF Deluxe,2010,2334,1348889,21.6,174.0,Chennai
+V1169,Assam,SUV,Electric,Yes,Hyundai,i20,2019,9374,394595,0.0,0.0,Bengaluru
+V1170,Kerala,Truck,Petrol,No,Mahindra,Jeeto,2024,13565,551830,22.7,178.0,Bengaluru
+V1171,Maharashtra,Bike,Hybrid,No,Bajaj,Pulsar,2022,2304,2316822,27.8,133.8,Kochi
+V1172,Karnataka,Bus,Diesel,No,Volvo,9400,2024,3306,1751085,17.7,135.1,Delhi
+V1173,Delhi,Van,Hybrid,No,Tata,Punch,2010,6050,165609,17.6,148.4,Lucknow
+V1174,Haryana,Truck,Hybrid,No,Ashok Leyland,Captain,2016,2560,1144300,15.6,143.7,Chennai
+V1175,Delhi,Bus,Electric,Yes,Tata,Tiago,2020,959,1909773,0.0,0.0,Chennai
+V1176,Punjab,Bus,Petrol,No,Ashok Leyland,Dost,2011,6122,1550021,26.6,120.4,Chennai
+V1177,Bihar,Bus,Electric,Yes,Volvo,9600,2010,4565,2359470,0.0,0.0,Hyderabad
+V1178,Tamil Nadu,Truck,Electric,Yes,Ashok Leyland,Captain,2022,7677,2098792,0.0,0.0,Chennai
+V1179,Maharashtra,Truck,Electric,Yes,Eicher,Pro 3015,2023,6114,1513741,0.0,0.0,Bengaluru
+V1180,Kerala,Bus,Hybrid,No,Tata,Tiago,2016,11264,1021519,24.2,175.3,Kochi
+V1181,Odisha,Car,Diesel,No,Toyota,Fortuner,2013,6063,1364746,25.1,157.0,Delhi
+V1182,Chhattisgarh,Car,Electric,Yes,Hyundai,i20,2023,4853,598266,0.0,0.0,Kolkata
+V1183,Rajasthan,SUV,Petrol,No,Hyundai,Venue,2010,13197,421007,12.6,185.4,Mumbai
+V1184,Kerala,Bike,Electric,Yes,Bajaj,Chetak,2017,11449,111991,0.0,0.0,Jaipur
+V1185,Bihar,Car,Diesel,No,Kia,Seltos,2017,10237,1047930,28.1,150.0,Kochi
+V1186,Uttar Pradesh,Bike,Electric,Yes,Royal Enfield,Hunter 350,2010,3013,724894,0.0,0.0,Bengaluru
+V1187,Haryana,Bike,Petrol,No,Hero,HF Deluxe,2016,5786,1411121,15.2,106.9,Delhi
+V1188,Tamil Nadu,Van,Diesel,No,Tata,Nexon,2016,14957,166547,15.5,116.5,Kochi
+V1189,Madhya Pradesh,Auto,Diesel,No,Piaggio,Porter,2023,2535,410697,20.2,154.3,Kochi
+V1190,Chhattisgarh,Car,Electric,Yes,Kia,Sonet,2012,3815,1651787,0.0,0.0,Bengaluru
+V1191,Chhattisgarh,Truck,Petrol,No,Eicher,Pro 3015,2012,2523,1429024,13.9,117.2,Jaipur
+V1192,Karnataka,Bus,Hybrid,No,Volvo,9600,2014,11261,570122,12.3,129.5,Chennai
+V1193,Bihar,SUV,Diesel,No,Hyundai,i20,2017,3897,258203,20.3,180.3,Bengaluru
+V1194,Karnataka,Bus,Hybrid,No,Tata,Nexon,2021,9804,377327,20.1,135.0,Chennai
+V1195,West Bengal,Bus,Electric,Yes,Tata,Tiago,2013,8883,763631,0.0,0.0,Lucknow
+V1196,Bihar,Truck,Electric,Yes,Tata,Punch,2015,13694,1555371,0.0,0.0,Bengaluru
+V1197,Jharkhand,Car,Hybrid,No,Kia,Seltos,2010,13283,1867801,18.0,173.7,Hyderabad
+V1198,West Bengal,Van,Petrol,No,Force Motors,Gurkha,2018,7519,1820646,19.6,137.6,Mumbai
+V1199,Chhattisgarh,Auto,Diesel,No,TVS,Jupiter,2017,4157,875184,11.2,101.4,Kochi
+V1200,Madhya Pradesh,Bus,Electric,Yes,Volvo,9400,2019,14367,2135801,0.0,0.0,Lucknow
+V1201,Telangana,Van,Petrol,No,Tata,Punch,2016,12615,2167734,13.9,165.2,Kolkata
+V1202,Gujarat,SUV,Petrol,No,MG,Astor,2018,906,2313780,20.7,188.0,Jaipur
+V1203,Odisha,Truck,Electric,Yes,Mahindra,Bolero,2016,9668,2341934,0.0,0.0,Hyderabad
+V1204,Gujarat,Truck,Petrol,No,Mahindra,Jeeto,2010,3942,1617872,26.6,195.8,Kolkata
+V1205,Assam,Van,Diesel,No,Force Motors,Gurkha,2023,3526,1823296,20.3,182.5,Lucknow
+V1206,Punjab,SUV,Electric,Yes,Tata,Nexon,2017,9560,1216490,0.0,0.0,Lucknow
+V1207,Assam,Auto,Petrol,No,Piaggio,Ape,2019,9069,1214258,18.1,102.0,Delhi
+V1208,Karnataka,Bike,Electric,Yes,TVS,Jupiter,2019,3546,129649,0.0,0.0,Chennai
+V1209,Rajasthan,Van,Petrol,No,Tata,Tiago,2023,13232,1034368,15.4,161.6,Mumbai
+V1210,Rajasthan,Van,Petrol,No,Force Motors,Traveller,2010,9438,1824380,12.0,103.3,Hyderabad
+V1211,Gujarat,Bike,Electric,Yes,Royal Enfield,Hunter 350,2024,1283,1095914,0.0,0.0,Delhi
+V1212,Delhi,Bus,Electric,Yes,Ashok Leyland,Dost,2023,5108,785780,0.0,0.0,Delhi
+V1213,Delhi,Truck,Electric,Yes,Mahindra,Bolero,2014,14662,1133902,0.0,0.0,Delhi
+V1214,Punjab,Van,Hybrid,No,Tata,Punch,2020,9386,1027190,15.9,106.2,Hyderabad
+V1215,Bihar,Auto,Petrol,No,Piaggio,Porter,2012,10195,2078596,19.6,193.6,Kochi
+V1216,Madhya Pradesh,Bike,Electric,Yes,Hero,HF Deluxe,2012,6045,2283889,0.0,0.0,Lucknow
+V1217,Assam,Van,Hybrid,No,Force Motors,Traveller,2017,5115,860286,22.8,140.6,Jaipur
+V1218,West Bengal,Bike,Hybrid,No,TVS,Apache,2015,2840,728421,20.8,133.3,Mumbai
+V1219,Rajasthan,SUV,Diesel,No,MG,Hector,2023,6152,927347,19.2,182.3,Kochi
+V1220,Odisha,Van,Diesel,No,Force Motors,Gurkha,2023,6328,185273,24.9,105.4,Mumbai
+V1221,West Bengal,Auto,Hybrid,No,Bajaj,Pulsar,2012,179,122933,12.3,126.2,Hyderabad
+V1222,Kerala,Van,Diesel,No,Tata,Nexon,2011,6829,1954396,18.7,159.8,Bengaluru
+V1223,Karnataka,Bus,Hybrid,No,Ashok Leyland,Captain,2023,5869,1489566,10.5,144.1,Jaipur
+V1224,Uttar Pradesh,Truck,Petrol,No,Ashok Leyland,Dost,2015,11793,2481958,12.4,192.0,Chennai
+V1225,Punjab,Auto,Hybrid,No,TVS,Apache,2019,10251,713253,13.6,119.8,Ahmedabad
+V1226,Karnataka,SUV,Electric,Yes,MG,Hector,2017,11857,1997667,0.0,0.0,Chennai
+V1227,Telangana,Bus,Hybrid,No,Volvo,9400,2019,12547,1765454,17.0,132.1,Delhi
+V1228,Kerala,Car,Petrol,No,Hyundai,Creta,2024,10731,183777,10.5,166.5,Bengaluru
+V1229,Haryana,SUV,Electric,Yes,MG,Hector,2021,8877,1290067,0.0,0.0,Lucknow
+V1230,Bihar,Bus,Electric,Yes,Ashok Leyland,Captain,2011,12724,137099,0.0,0.0,Bengaluru
+V1231,Uttar Pradesh,Bus,Diesel,No,Ashok Leyland,Captain,2010,4910,2248269,26.4,179.3,Kochi
+V1232,Madhya Pradesh,Van,Petrol,No,Tata,Nexon,2024,5035,2184663,29.7,100.4,Kochi
+V1233,Maharashtra,Truck,Hybrid,No,Tata,Tiago,2016,5458,1656808,22.8,148.9,Kolkata
+V1234,Kerala,Auto,Electric,Yes,TVS,Jupiter,2024,947,611796,0.0,0.0,Delhi
+V1235,Andhra Pradesh,Truck,Petrol,No,Mahindra,Bolero,2024,13988,677564,10.3,189.1,Mumbai
+V1236,Telangana,Bus,Hybrid,No,Ashok Leyland,Captain,2011,2458,2412330,27.8,199.6,Kolkata
+V1237,Kerala,SUV,Diesel,No,MG,Hector,2023,3461,647088,17.8,125.9,Hyderabad
+V1238,Jharkhand,Truck,Electric,Yes,Mahindra,Bolero,2024,12501,1784102,0.0,0.0,Mumbai
+V1239,Delhi,Van,Hybrid,No,Tata,Punch,2022,9976,527486,18.4,197.1,Hyderabad
+V1240,Madhya Pradesh,Truck,Diesel,No,Eicher,Pro 3015,2011,8183,2116100,21.5,103.4,Mumbai
+V1241,Odisha,Van,Electric,Yes,Tata,Nexon,2012,9989,2286167,0.0,0.0,Hyderabad
+V1242,Maharashtra,Bike,Hybrid,No,Hero,HF Deluxe,2020,4334,933807,26.3,188.3,Ahmedabad
+V1243,Odisha,Auto,Hybrid,No,Bajaj,Chetak,2016,5426,2140578,13.7,179.2,Mumbai
+V1244,Tamil Nadu,Truck,Diesel,No,Ashok Leyland,Captain,2014,10296,2397039,24.3,102.0,Bengaluru
+V1245,Delhi,Car,Petrol,No,Tata,Tiago,2022,4181,1638685,13.5,128.5,Kochi
+V1246,Assam,Car,Diesel,No,Tata,Nexon,2014,13562,2023774,23.6,131.1,Delhi
+V1247,Uttarakhand,Bike,Electric,Yes,Hero,HF Deluxe,2023,6962,1682332,0.0,0.0,Mumbai
+V1248,West Bengal,Bike,Diesel,No,Royal Enfield,Classic 350,2012,13096,398809,24.7,163.2,Lucknow
+V1249,Uttar Pradesh,SUV,Diesel,No,MG,Hector,2020,10864,1364223,28.2,109.5,Mumbai
+V1250,Tamil Nadu,Bike,Diesel,No,Bajaj,Pulsar,2019,11961,126538,23.9,197.2,Kochi
+V1251,Gujarat,Bike,Petrol,No,Honda,City,2020,673,422519,18.3,114.2,Jaipur
+V1252,Haryana,SUV,Petrol,No,MG,Hector,2014,4605,1603751,25.5,140.9,Lucknow
+V1253,West Bengal,Van,Hybrid,No,Tata,Nexon,2015,12129,1682929,18.3,186.1,Bengaluru
+V1254,Delhi,Bike,Hybrid,No,Bajaj,Pulsar,2014,1028,285870,26.7,196.9,Jaipur
+V1255,Tamil Nadu,Bus,Hybrid,No,Volvo,9400,2014,5875,2460013,26.7,184.5,Mumbai
+V1256,Maharashtra,Bus,Diesel,No,Ashok Leyland,Captain,2023,11928,1600816,21.4,130.2,Kolkata
+V1257,Gujarat,Bus,Petrol,No,Ashok Leyland,Dost,2011,1073,1193013,22.6,103.3,Lucknow
+V1258,Telangana,Bus,Diesel,No,Tata,Punch,2017,14147,1618110,25.8,123.4,Jaipur
+V1259,Bihar,Van,Diesel,No,Maruti,Swift,2022,7815,1232583,11.1,176.3,Chennai
+V1260,Assam,Auto,Diesel,No,Bajaj,Chetak,2020,13279,586933,26.2,199.0,Hyderabad
+V1261,Assam,Bike,Hybrid,No,Royal Enfield,Hunter 350,2022,5752,247743,14.1,180.3,Delhi
+V1262,Telangana,Bus,Petrol,No,Ashok Leyland,Captain,2019,3579,1049152,19.2,160.7,Bengaluru
+V1263,Uttarakhand,Van,Petrol,No,Force Motors,Traveller,2018,4984,2207425,25.7,187.7,Kochi
+V1264,Telangana,Car,Diesel,No,Toyota,Innova,2017,13373,1505764,22.1,137.4,Chennai
+V1265,Telangana,Bike,Hybrid,No,Honda,Amaze,2021,13179,189219,11.9,163.9,Chennai
+V1266,Assam,Bus,Hybrid,No,Tata,Tiago,2019,1385,1621830,10.7,120.6,Mumbai
+V1267,Bihar,Truck,Diesel,No,Eicher,Pro 2049,2016,4772,2285472,20.1,133.2,Jaipur
+V1268,Uttar Pradesh,Van,Hybrid,No,Force Motors,Gurkha,2021,4971,1388993,29.0,142.6,Hyderabad
+V1269,Madhya Pradesh,Truck,Petrol,No,Mahindra,Jeeto,2015,9383,2222628,24.9,156.6,Lucknow
+V1270,Telangana,Truck,Petrol,No,Ashok Leyland,Dost,2015,3602,610412,26.1,155.0,Jaipur
+V1271,Chhattisgarh,SUV,Electric,Yes,MG,Astor,2022,4894,656573,0.0,0.0,Jaipur
+V1272,Haryana,Bus,Hybrid,No,Tata,Nexon,2012,9959,1795489,11.1,119.7,Jaipur
+V1273,Kerala,Bus,Diesel,No,Ashok Leyland,Captain,2017,9882,547280,26.4,116.5,Bengaluru
+V1274,Maharashtra,Truck,Electric,Yes,Mahindra,Jeeto,2013,13887,1820639,0.0,0.0,Bengaluru
+V1275,Uttarakhand,Bus,Diesel,No,Tata,Punch,2015,10433,558305,21.7,121.7,Hyderabad
+V1276,Madhya Pradesh,SUV,Electric,Yes,MG,Astor,2011,2209,1001532,0.0,0.0,Chennai
+V1277,Karnataka,Bus,Electric,Yes,Volvo,9400,2024,12023,2143903,0.0,0.0,Kochi
+V1278,Tamil Nadu,Car,Electric,Yes,Kia,Sonet,2020,12808,2491884,0.0,0.0,Jaipur
+V1279,Odisha,SUV,Petrol,No,MG,Hector,2023,2738,440245,16.8,126.1,Bengaluru
+V1280,Uttarakhand,Car,Electric,Yes,Maruti,Baleno,2020,920,1216666,0.0,0.0,Ahmedabad
+V1281,Kerala,Auto,Electric,Yes,Piaggio,Porter,2014,8384,2141287,0.0,0.0,Ahmedabad
+V1282,Assam,Bike,Hybrid,No,Bajaj,Pulsar,2018,837,2452713,15.1,166.7,Ahmedabad
+V1283,Haryana,SUV,Petrol,No,Mahindra,Bolero,2020,6151,1523300,28.9,120.8,Kochi
+V1284,Gujarat,Auto,Diesel,No,TVS,Jupiter,2021,10564,452949,10.0,114.0,Hyderabad
+V1285,Bihar,Truck,Diesel,No,Eicher,Pro 3015,2013,5739,771265,14.5,138.6,Kochi
+V1286,Madhya Pradesh,Bus,Hybrid,No,Ashok Leyland,Dost,2013,10655,2354046,16.1,189.8,Bengaluru
+V1287,Kerala,Truck,Diesel,No,Eicher,Pro 3015,2023,4887,1065134,23.3,109.5,Chennai
+V1288,Uttar Pradesh,Auto,Diesel,No,Bajaj,Pulsar,2017,13662,2453953,13.8,156.6,Kolkata
+V1289,Chhattisgarh,Van,Diesel,No,Tata,Tiago,2020,11457,462468,26.4,160.2,Mumbai
+V1290,Telangana,Bus,Hybrid,No,Tata,Punch,2015,6780,226694,11.7,153.9,Mumbai
+V1291,Kerala,Auto,Diesel,No,Piaggio,Ape,2015,8868,661493,18.8,188.0,Hyderabad
+V1292,Bihar,Truck,Diesel,No,Eicher,Pro 2049,2010,4479,249675,27.9,171.4,Kolkata
+V1293,Maharashtra,Auto,Hybrid,No,TVS,Apache,2011,10799,810294,25.0,150.8,Bengaluru
+V1294,Madhya Pradesh,Auto,Petrol,No,Bajaj,Pulsar,2021,2871,2146871,24.9,147.0,Jaipur
+V1295,Jharkhand,Truck,Diesel,No,Mahindra,Bolero,2015,486,1976269,15.5,121.8,Jaipur
+V1296,Uttarakhand,Car,Diesel,No,Honda,Amaze,2012,5237,1271493,12.6,116.0,Kolkata
+V1297,Jharkhand,Van,Hybrid,No,Tata,Punch,2021,3103,2315342,15.5,152.9,Chennai
+V1298,Kerala,Car,Electric,Yes,Honda,Amaze,2021,2639,1101945,0.0,0.0,Jaipur
+V1299,Assam,Auto,Diesel,No,Bajaj,Chetak,2012,3980,1115838,12.5,171.4,Hyderabad
+V1300,Uttar Pradesh,Truck,Electric,Yes,Ashok Leyland,Dost,2016,6123,740157,0.0,0.0,Kochi
+V1301,Karnataka,Auto,Electric,Yes,Piaggio,Ape,2012,6521,2088703,0.0,0.0,Bengaluru
+V1302,Assam,Truck,Hybrid,No,Tata,Punch,2016,13780,2432946,16.1,128.0,Kolkata
+V1303,Jharkhand,Bus,Electric,Yes,Volvo,9600,2013,5645,922662,0.0,0.0,Jaipur
+V1304,Rajasthan,Car,Hybrid,No,Honda,Amaze,2024,8212,698516,17.6,138.1,Chennai
+V1305,Madhya Pradesh,Bike,Hybrid,No,Royal Enfield,Classic 350,2019,1446,1305773,15.6,110.6,Chennai
+V1306,West Bengal,Bus,Diesel,No,Ashok Leyland,Captain,2015,3089,369489,11.9,167.1,Bengaluru
+V1307,Karnataka,Truck,Electric,Yes,Eicher,Pro 3015,2010,3170,2370834,0.0,0.0,Delhi
+V1308,Maharashtra,Truck,Petrol,No,Mahindra,Jeeto,2015,1982,1638975,12.1,164.5,Bengaluru
+V1309,Telangana,SUV,Hybrid,No,Mahindra,Bolero,2013,3381,1857640,25.4,152.3,Chennai
+V1310,Telangana,Bike,Petrol,No,Hero,Splendor,2018,13128,651169,20.5,114.5,Delhi
+V1311,Telangana,Bike,Hybrid,No,Hero,Splendor,2010,3046,508712,20.8,111.0,Ahmedabad
+V1312,West Bengal,Bike,Petrol,No,Royal Enfield,Hunter 350,2013,13839,1646537,13.4,185.0,Chennai
+V1313,Telangana,Car,Electric,Yes,Honda,City,2016,5112,239412,0.0,0.0,Chennai
+V1314,Punjab,SUV,Diesel,No,Hyundai,i20,2019,10777,1425914,27.6,129.2,Mumbai
+V1315,Tamil Nadu,Truck,Diesel,No,Tata,Punch,2013,2146,825748,16.1,175.1,Hyderabad
+V1316,Rajasthan,Car,Diesel,No,Kia,Seltos,2022,6193,1669875,27.0,162.0,Kolkata
+V1317,Madhya Pradesh,Truck,Electric,Yes,Tata,Nexon,2012,7472,2455265,0.0,0.0,Mumbai
+V1318,Gujarat,Auto,Electric,Yes,Piaggio,Porter,2018,6889,1973361,0.0,0.0,Hyderabad
+V1319,Haryana,Bike,Hybrid,No,Honda,Amaze,2011,1095,1864354,23.6,113.4,Kochi
+V1320,Uttar Pradesh,Bike,Hybrid,No,Bajaj,Pulsar,2010,6799,876390,23.0,187.0,Ahmedabad
+V1321,Jharkhand,Bus,Hybrid,No,Tata,Nexon,2012,4978,240053,16.6,133.4,Jaipur
+V1322,Tamil Nadu,Car,Hybrid,No,Toyota,Fortuner,2023,263,911130,29.8,145.8,Mumbai
+V1323,Jharkhand,Car,Diesel,No,Toyota,Innova,2020,7701,1637861,22.2,178.4,Ahmedabad
+V1324,Uttarakhand,Bus,Petrol,No,Ashok Leyland,Captain,2010,6149,1109008,29.6,113.8,Delhi
+V1325,Punjab,Bike,Electric,Yes,Hero,Splendor,2016,10293,2077362,0.0,0.0,Kochi
+V1326,Delhi,Van,Diesel,No,Tata,Punch,2023,5666,373465,18.3,126.8,Mumbai
+V1327,Uttarakhand,Car,Hybrid,No,Toyota,Fortuner,2018,6404,1220580,17.1,169.0,Mumbai
+V1328,Jharkhand,Car,Hybrid,No,Maruti,Swift,2010,8190,1409722,12.9,111.3,Kolkata
+V1329,Rajasthan,Auto,Electric,Yes,TVS,Jupiter,2014,10549,855994,0.0,0.0,Hyderabad
+V1330,Jharkhand,Bus,Hybrid,No,Volvo,9400,2020,5319,374531,14.0,139.3,Ahmedabad
+V1331,Uttar Pradesh,Auto,Electric,Yes,Bajaj,Pulsar,2022,435,697728,0.0,0.0,Lucknow
+V1332,Bihar,Bike,Diesel,No,TVS,Jupiter,2024,9779,411346,23.6,108.2,Kolkata
+V1333,Gujarat,Bus,Petrol,No,Volvo,9600,2024,1174,716564,11.7,199.1,Bengaluru
+V1334,Delhi,Bus,Hybrid,No,Ashok Leyland,Captain,2018,10440,434455,26.8,155.3,Delhi
+V1335,Karnataka,Car,Hybrid,No,Honda,Amaze,2019,3607,2151801,16.6,107.2,Ahmedabad
+V1336,Telangana,Car,Diesel,No,Honda,Amaze,2017,8767,1231645,22.9,114.5,Lucknow
+V1337,Punjab,Car,Diesel,No,Tata,Tiago,2012,14808,175178,13.3,149.9,Kolkata
+V1338,Assam,SUV,Diesel,No,Tata,Punch,2019,2178,219456,14.0,186.3,Jaipur
+V1339,Maharashtra,Auto,Hybrid,No,Bajaj,Pulsar,2018,11270,1061055,29.0,192.4,Kolkata
+V1340,Madhya Pradesh,Auto,Electric,Yes,Piaggio,Porter,2020,12269,638983,0.0,0.0,Bengaluru
+V1341,Chhattisgarh,SUV,Petrol,No,Mahindra,Jeeto,2023,4613,2450986,18.5,110.4,Jaipur
+V1342,Gujarat,Auto,Electric,Yes,TVS,Jupiter,2012,10790,1309885,0.0,0.0,Lucknow
+V1343,Assam,Car,Petrol,No,Toyota,Innova,2010,10234,2448825,25.2,198.8,Kolkata
+V1344,Gujarat,Bike,Hybrid,No,TVS,Jupiter,2012,5604,649685,21.2,131.2,Chennai
+V1345,Punjab,Van,Petrol,No,Maruti,Alto,2012,3942,1694299,12.8,135.6,Mumbai
+V1346,Haryana,Auto,Diesel,No,TVS,Jupiter,2022,3206,2295297,14.4,119.9,Bengaluru
+V1347,Haryana,Car,Petrol,No,Maruti,Baleno,2023,14298,1695786,23.1,177.3,Hyderabad
+V1348,Uttarakhand,SUV,Hybrid,No,Tata,Punch,2023,7371,569585,29.8,172.1,Mumbai
+V1349,Uttarakhand,Van,Petrol,No,Maruti,Ertiga,2015,14107,1363948,28.5,176.5,Hyderabad
+V1350,Kerala,Bus,Electric,Yes,Volvo,9400,2020,14635,1145267,0.0,0.0,Chennai
+V1351,Gujarat,Auto,Petrol,No,Piaggio,Ape,2010,488,529820,13.3,172.5,Ahmedabad
+V1352,Kerala,Auto,Petrol,No,Bajaj,Chetak,2017,1551,481315,27.6,108.7,Bengaluru
+V1353,Jharkhand,Bike,Diesel,No,TVS,Jupiter,2024,9573,171796,14.3,182.2,Hyderabad
+V1354,Telangana,SUV,Electric,Yes,Hyundai,Venue,2022,6618,1855483,0.0,0.0,Mumbai
+V1355,Rajasthan,Truck,Diesel,No,Ashok Leyland,Dost,2020,10700,1175852,16.2,173.2,Bengaluru
+V1356,Telangana,SUV,Electric,Yes,Hyundai,i20,2023,7265,1973794,0.0,0.0,Kolkata
+V1357,Bihar,Auto,Electric,Yes,Piaggio,Ape,2010,11201,1707258,0.0,0.0,Ahmedabad
+V1358,Rajasthan,Bike,Petrol,No,Royal Enfield,Classic 350,2017,5633,1307612,28.6,119.2,Lucknow
+V1359,Rajasthan,Bike,Hybrid,No,Bajaj,Pulsar,2024,14444,1277203,21.5,113.6,Mumbai
+V1360,Bihar,SUV,Petrol,No,Tata,Tiago,2020,772,1711180,27.5,125.4,Ahmedabad
+V1361,Tamil Nadu,Auto,Electric,Yes,Bajaj,Pulsar,2015,7066,2307522,0.0,0.0,Delhi
+V1362,Telangana,Car,Diesel,No,Kia,Sonet,2022,11771,1841727,27.5,126.8,Lucknow
+V1363,Bihar,Car,Electric,Yes,Kia,Sonet,2017,10189,1843988,0.0,0.0,Hyderabad
+V1364,Odisha,SUV,Electric,Yes,Hyundai,Venue,2014,180,1856175,0.0,0.0,Ahmedabad
+V1365,Tamil Nadu,Van,Diesel,No,Tata,Tiago,2022,5402,2066058,13.3,160.4,Mumbai
+V1366,Jharkhand,SUV,Diesel,No,Tata,Nexon,2015,10112,2262438,12.4,177.8,Kolkata
+V1367,Delhi,Bus,Petrol,No,Volvo,9400,2012,14706,1816976,13.2,158.8,Lucknow
+V1368,Odisha,SUV,Electric,Yes,Hyundai,Creta,2018,6870,558158,0.0,0.0,Lucknow
+V1369,Odisha,Car,Hybrid,No,Toyota,Innova,2024,10193,2262976,24.3,189.5,Jaipur
+V1370,Rajasthan,Car,Hybrid,No,Kia,Sonet,2010,8030,2087607,27.0,179.6,Ahmedabad
+V1371,Uttarakhand,Truck,Hybrid,No,Ashok Leyland,Dost,2022,14266,427227,25.3,124.0,Lucknow
+V1372,Karnataka,Bike,Diesel,No,Honda,Amaze,2017,13554,1325706,17.7,157.8,Ahmedabad
+V1373,Assam,Bike,Diesel,No,Hero,HF Deluxe,2021,620,1987215,17.4,174.4,Bengaluru
+V1374,Uttarakhand,Truck,Electric,Yes,Eicher,Pro 3015,2017,1218,1582553,0.0,0.0,Bengaluru
+V1375,Gujarat,Van,Hybrid,No,Maruti,Alto,2022,10907,746196,28.0,175.5,Kochi
+V1376,Delhi,Van,Diesel,No,Maruti,Ertiga,2021,7162,2032790,11.0,122.4,Kolkata
+V1377,Delhi,Bus,Diesel,No,Ashok Leyland,Dost,2021,1550,186998,12.4,159.0,Hyderabad
+V1378,Delhi,Bike,Diesel,No,TVS,Apache,2013,7275,690962,14.8,193.8,Lucknow
+V1379,Maharashtra,SUV,Electric,Yes,Hyundai,Venue,2014,5641,242796,0.0,0.0,Jaipur
+V1380,Kerala,Auto,Electric,Yes,TVS,Jupiter,2017,5361,1576861,0.0,0.0,Delhi
+V1381,Tamil Nadu,Truck,Electric,Yes,Eicher,Pro 3015,2021,4842,2118261,0.0,0.0,Delhi
+V1382,Kerala,Bus,Hybrid,No,Ashok Leyland,Captain,2015,3884,754585,26.1,183.4,Kochi
+V1383,Karnataka,Bike,Hybrid,No,TVS,Apache,2016,498,2484350,20.6,103.1,Chennai
+V1384,Gujarat,Van,Petrol,No,Tata,Nexon,2012,12181,1872307,11.1,116.4,Kochi
+V1385,Chhattisgarh,SUV,Hybrid,No,Mahindra,Jeeto,2016,11636,2365107,25.9,160.8,Mumbai
+V1386,West Bengal,Auto,Electric,Yes,TVS,Jupiter,2023,7849,829708,0.0,0.0,Chennai
+V1387,Bihar,Bus,Petrol,No,Tata,Punch,2023,11651,329058,25.5,172.0,Ahmedabad
+V1388,Jharkhand,Auto,Diesel,No,TVS,Jupiter,2016,4934,897655,28.4,112.9,Kochi
+V1389,Odisha,SUV,Diesel,No,Tata,Punch,2011,14898,1599342,26.3,103.1,Ahmedabad
+V1390,West Bengal,SUV,Hybrid,No,Mahindra,Bolero,2023,9021,146808,20.8,115.1,Bengaluru
+V1391,Bihar,Van,Diesel,No,Maruti,Baleno,2024,2710,1322952,11.3,109.2,Kochi
+V1392,Uttarakhand,Auto,Hybrid,No,TVS,Jupiter,2024,13005,649453,17.4,152.7,Delhi
+V1393,Telangana,Bike,Diesel,No,Royal Enfield,Hunter 350,2016,2647,337916,27.4,185.7,Jaipur
+V1394,Haryana,Van,Hybrid,No,Tata,Nexon,2018,11431,1934861,14.9,196.6,Kochi
+V1395,Odisha,SUV,Petrol,No,Tata,Tiago,2020,2905,1809109,25.1,160.8,Bengaluru
+V1396,Uttarakhand,Bike,Petrol,No,TVS,Jupiter,2024,2995,1668831,24.7,101.9,Ahmedabad
+V1397,Haryana,Truck,Electric,Yes,Ashok Leyland,Dost,2015,12338,2300096,0.0,0.0,Jaipur
+V1398,Rajasthan,Bike,Diesel,No,Bajaj,Chetak,2022,5751,1449062,28.5,158.7,Bengaluru
+V1399,Andhra Pradesh,SUV,Electric,Yes,Hyundai,Venue,2018,843,1903174,0.0,0.0,Lucknow
+V1400,Madhya Pradesh,Auto,Hybrid,No,Bajaj,Pulsar,2018,8883,83384,17.5,155.6,Jaipur
+V1401,Telangana,Car,Petrol,No,Honda,Amaze,2015,5557,1188757,24.4,126.3,Jaipur
+V1402,Haryana,Van,Hybrid,No,Force Motors,Gurkha,2019,12378,2124292,25.0,199.7,Delhi
+V1403,Punjab,Bus,Diesel,No,Tata,Tiago,2011,1944,1480322,14.9,199.5,Lucknow
+V1404,Andhra Pradesh,Auto,Diesel,No,Piaggio,Porter,2013,2226,2483680,29.8,126.5,Kolkata
+V1405,Karnataka,Car,Diesel,No,Kia,Sonet,2013,6947,1832632,14.4,121.4,Lucknow
+V1406,Rajasthan,Van,Hybrid,No,Tata,Tiago,2011,8009,1775740,26.3,174.8,Bengaluru
+V1407,Chhattisgarh,Truck,Petrol,No,Ashok Leyland,Dost,2017,13793,2434304,15.6,129.7,Kolkata
+V1408,Kerala,SUV,Electric,Yes,MG,Astor,2015,1788,524439,0.0,0.0,Kolkata
+V1409,Andhra Pradesh,Car,Electric,Yes,Tata,Punch,2016,14572,1761232,0.0,0.0,Mumbai
+V1410,Rajasthan,Van,Diesel,No,Maruti,Alto,2021,2942,1113324,23.0,190.2,Chennai
+V1411,Chhattisgarh,Bus,Petrol,No,Volvo,9600,2023,2290,2306028,15.1,117.0,Delhi
+V1412,Punjab,SUV,Hybrid,No,MG,Hector,2017,3532,1790039,13.0,184.5,Mumbai
+V1413,Delhi,Truck,Diesel,No,Mahindra,Jeeto,2024,11127,255707,19.4,131.8,Ahmedabad
+V1414,Gujarat,SUV,Diesel,No,Hyundai,Creta,2019,1923,1056991,16.8,134.4,Hyderabad
+V1415,Haryana,Truck,Electric,Yes,Mahindra,Jeeto,2016,10135,2044407,0.0,0.0,Hyderabad
+V1416,Gujarat,Bike,Hybrid,No,Honda,City,2021,2667,591035,26.3,151.5,Chennai
+V1417,Gujarat,SUV,Diesel,No,Tata,Nexon,2014,3280,1726196,20.7,138.8,Ahmedabad
+V1418,Punjab,Bike,Diesel,No,Honda,City,2021,11753,1417908,19.7,187.9,Ahmedabad
+V1419,Uttar Pradesh,Auto,Electric,Yes,Bajaj,Pulsar,2012,11735,448728,0.0,0.0,Delhi
+V1420,Haryana,Bus,Hybrid,No,Tata,Punch,2020,1983,333538,10.8,109.4,Ahmedabad
+V1421,Andhra Pradesh,Auto,Petrol,No,Piaggio,Porter,2020,13960,1978028,15.8,117.3,Delhi
+V1422,Delhi,Car,Diesel,No,Honda,Amaze,2011,10606,1803301,15.7,192.2,Mumbai
+V1423,Bihar,Car,Petrol,No,Kia,Sonet,2018,3849,1048563,17.7,147.0,Lucknow
+V1424,Bihar,Bike,Petrol,No,TVS,Apache,2018,6513,2277591,28.2,150.3,Delhi
+V1425,Bihar,Auto,Electric,Yes,Piaggio,Ape,2016,676,500630,0.0,0.0,Hyderabad
+V1426,Bihar,Bus,Electric,Yes,Tata,Nexon,2018,7402,2295374,0.0,0.0,Bengaluru
+V1427,West Bengal,SUV,Diesel,No,Mahindra,Bolero,2011,4985,1901606,14.6,187.9,Kolkata
+V1428,Haryana,Bike,Diesel,No,Bajaj,Pulsar,2021,3142,690292,24.5,176.0,Hyderabad
+V1429,Kerala,Bike,Petrol,No,Bajaj,Pulsar,2021,1153,995682,25.3,192.5,Hyderabad
+V1430,Haryana,Bike,Diesel,No,Honda,City,2010,7153,535163,26.8,171.7,Lucknow
+V1431,Jharkhand,Car,Diesel,No,Hyundai,i20,2022,8119,1065671,22.7,153.7,Mumbai
+V1432,West Bengal,Auto,Petrol,No,Bajaj,Chetak,2010,13208,2267854,28.8,168.7,Mumbai
+V1433,Gujarat,Car,Electric,Yes,Kia,Sonet,2020,10388,881062,0.0,0.0,Lucknow
+V1434,Punjab,SUV,Diesel,No,MG,Astor,2017,12899,1866122,21.5,181.2,Mumbai
+V1435,Maharashtra,Car,Electric,Yes,Kia,Sonet,2021,7600,1483053,0.0,0.0,Ahmedabad
+V1436,Maharashtra,Car,Electric,Yes,Hyundai,i20,2023,5229,1700470,0.0,0.0,Jaipur
+V1437,Bihar,Bike,Diesel,No,Bajaj,Chetak,2024,7618,1302511,28.3,107.7,Mumbai
+V1438,Gujarat,Bike,Diesel,No,Hero,Splendor,2012,10175,519943,16.8,177.6,Lucknow
+V1439,Madhya Pradesh,Auto,Diesel,No,TVS,Apache,2010,11189,1935044,15.7,199.3,Lucknow
+V1440,Bihar,Bus,Electric,Yes,Ashok Leyland,Captain,2018,12639,1701220,0.0,0.0,Hyderabad
+V1441,Maharashtra,Bus,Diesel,No,Tata,Punch,2018,8813,571323,26.8,180.9,Mumbai
+V1442,Telangana,Auto,Hybrid,No,Piaggio,Porter,2019,11745,1961639,26.1,100.5,Delhi
+V1443,Odisha,Auto,Diesel,No,Piaggio,Porter,2010,6006,1019759,23.0,106.8,Delhi
+V1444,West Bengal,Car,Diesel,No,Honda,Amaze,2015,12687,2440919,28.0,158.1,Bengaluru
+V1445,Punjab,Bus,Diesel,No,Tata,Nexon,2018,13834,858880,14.7,110.4,Ahmedabad
+V1446,Telangana,Auto,Diesel,No,Piaggio,Porter,2019,4887,1671238,18.3,104.9,Kochi
+V1447,Andhra Pradesh,Van,Petrol,No,Force Motors,Traveller,2019,11012,1438289,17.4,196.8,Kolkata
+V1448,Tamil Nadu,Car,Hybrid,No,Tata,Punch,2015,7188,1780155,27.6,189.6,Hyderabad
+V1449,Madhya Pradesh,Car,Electric,Yes,Maruti,Alto,2013,14941,1027025,0.0,0.0,Kochi
+V1450,West Bengal,Auto,Hybrid,No,TVS,Jupiter,2015,9700,2392390,17.1,146.0,Bengaluru
+V1451,Uttar Pradesh,Car,Diesel,No,Kia,Sonet,2010,6281,1946016,25.1,199.3,Lucknow
+V1452,Kerala,Bike,Diesel,No,Honda,Amaze,2018,1417,1801198,25.3,173.8,Ahmedabad
+V1453,Uttar Pradesh,Bike,Petrol,No,Honda,City,2013,11328,2052430,27.5,190.6,Jaipur
+V1454,Madhya Pradesh,SUV,Diesel,No,Hyundai,Venue,2023,14388,1649812,18.1,173.9,Jaipur
+V1455,Jharkhand,Car,Hybrid,No,Maruti,Baleno,2011,7058,2196310,25.5,165.8,Bengaluru
+V1456,Andhra Pradesh,Van,Diesel,No,Maruti,Alto,2018,8704,2007236,10.5,166.7,Kolkata
+V1457,Andhra Pradesh,Car,Hybrid,No,Kia,Seltos,2016,12202,1527661,18.9,108.9,Delhi
+V1458,Andhra Pradesh,Truck,Electric,Yes,Mahindra,Jeeto,2011,5391,2248651,0.0,0.0,Delhi
+V1459,Haryana,Car,Petrol,No,Tata,Punch,2013,11093,1291598,17.7,146.0,Kolkata
+V1460,Odisha,Bike,Petrol,No,Honda,Amaze,2019,12816,269189,20.3,139.4,Ahmedabad
+V1461,Jharkhand,Bus,Hybrid,No,Volvo,9400,2022,7676,1176101,23.4,184.1,Delhi
+V1462,Uttarakhand,Truck,Electric,Yes,Tata,Tiago,2010,2218,404418,0.0,0.0,Delhi
+V1463,Odisha,Van,Electric,Yes,Tata,Tiago,2023,7384,1869575,0.0,0.0,Ahmedabad
+V1464,Jharkhand,SUV,Diesel,No,MG,Astor,2017,4464,1125568,13.0,119.1,Jaipur
+V1465,Bihar,Truck,Electric,Yes,Eicher,Pro 3015,2018,3030,655039,0.0,0.0,Bengaluru
+V1466,Uttar Pradesh,Bike,Hybrid,No,Bajaj,Chetak,2024,14197,1340906,23.4,197.4,Hyderabad
+V1467,Andhra Pradesh,Bike,Petrol,No,Honda,Amaze,2012,4343,1806028,21.2,173.4,Delhi
+V1468,Chhattisgarh,Bus,Hybrid,No,Tata,Tiago,2022,2866,1135484,16.3,155.1,Bengaluru
+V1469,Andhra Pradesh,Car,Electric,Yes,Maruti,Baleno,2013,3731,1161635,0.0,0.0,Chennai
+V1470,West Bengal,Bus,Electric,Yes,Ashok Leyland,Dost,2024,14663,169248,0.0,0.0,Chennai
+V1471,Rajasthan,Bus,Diesel,No,Ashok Leyland,Captain,2012,1227,2430208,16.0,108.1,Mumbai
+V1472,West Bengal,Car,Diesel,No,Hyundai,Venue,2011,5019,653116,15.3,154.0,Kochi
+V1473,Telangana,Bus,Diesel,No,Ashok Leyland,Captain,2014,7943,279588,14.1,198.6,Jaipur
+V1474,Karnataka,Van,Electric,Yes,Maruti,Swift,2016,1888,1898104,0.0,0.0,Kolkata
+V1475,Uttar Pradesh,Bus,Petrol,No,Ashok Leyland,Dost,2013,9110,817554,13.0,181.8,Hyderabad
+V1476,Uttarakhand,Car,Diesel,No,Toyota,Fortuner,2021,8277,2251720,21.5,164.9,Delhi
+V1477,Uttar Pradesh,Car,Hybrid,No,Tata,Tiago,2023,13268,2172668,14.1,138.5,Delhi
+V1478,West Bengal,Van,Hybrid,No,Maruti,Alto,2014,13695,2353334,14.2,103.0,Bengaluru
+V1479,Kerala,Van,Electric,Yes,Maruti,Alto,2023,1023,1391386,0.0,0.0,Ahmedabad
+V1480,Bihar,Bike,Electric,Yes,Honda,City,2024,3284,697318,0.0,0.0,Jaipur
+V1481,Rajasthan,Van,Petrol,No,Maruti,Swift,2022,8822,2107266,20.9,199.5,Kochi
+V1482,Gujarat,Car,Diesel,No,Toyota,Innova,2023,2022,121195,22.1,113.5,Chennai
+V1483,Karnataka,Car,Electric,Yes,Maruti,Alto,2021,385,1030696,0.0,0.0,Kochi
+V1484,Rajasthan,Van,Electric,Yes,Force Motors,Gurkha,2012,1437,1775682,0.0,0.0,Bengaluru
+V1485,Punjab,Bus,Hybrid,No,Ashok Leyland,Captain,2016,13240,504051,11.1,156.0,Ahmedabad
+V1486,Uttarakhand,SUV,Hybrid,No,MG,Astor,2020,14537,2283318,29.0,167.6,Mumbai
+V1487,Haryana,Auto,Petrol,No,Bajaj,Chetak,2019,14274,545873,24.0,173.2,Mumbai
+V1488,Uttarakhand,Truck,Petrol,No,Tata,Punch,2015,4726,261220,24.2,141.5,Kochi
+V1489,Punjab,Bus,Diesel,No,Volvo,9400,2017,6020,2099894,11.1,102.7,Hyderabad
+V1490,West Bengal,Van,Electric,Yes,Tata,Punch,2023,5911,1426617,0.0,0.0,Kochi
+V1491,Tamil Nadu,Car,Diesel,No,Kia,Sonet,2011,14666,286618,19.5,153.0,Delhi
+V1492,Haryana,Car,Petrol,No,Kia,Seltos,2024,8727,1096805,21.2,145.7,Bengaluru
+V1493,Jharkhand,Bus,Diesel,No,Tata,Nexon,2023,11144,2046849,28.7,130.2,Bengaluru
+V1494,Kerala,Bus,Electric,Yes,Tata,Punch,2015,1168,2482459,0.0,0.0,Jaipur
+V1495,Haryana,Bus,Hybrid,No,Volvo,9600,2015,2906,1423968,17.1,135.1,Delhi
+V1496,Karnataka,SUV,Petrol,No,MG,Hector,2013,9812,2401953,10.6,167.3,Delhi
+V1497,Haryana,Bus,Electric,Yes,Tata,Nexon,2020,14307,935618,0.0,0.0,Ahmedabad
+V1498,Uttarakhand,Auto,Hybrid,No,TVS,Jupiter,2018,4040,980157,23.5,142.1,Bengaluru
+V1499,Chhattisgarh,Bus,Hybrid,No,Tata,Tiago,2023,1322,2323537,28.4,124.2,Kolkata
+V1500,Odisha,Truck,Electric,Yes,Tata,Punch,2016,9494,748113,0.0,0.0,Mumbai
+V1501,West Bengal,Van,Petrol,No,Force Motors,Gurkha,2023,11230,2067482,26.5,113.2,Ahmedabad
+V1502,Telangana,Truck,Petrol,No,Eicher,Pro 2049,2013,6250,1190808,20.8,161.9,Delhi
+V1503,Rajasthan,Auto,Electric,Yes,Bajaj,Chetak,2018,12353,936186,0.0,0.0,Bengaluru
+V1504,Uttarakhand,Van,Petrol,No,Maruti,Alto,2021,14876,1306580,17.2,199.1,Delhi
+V1505,Kerala,SUV,Hybrid,No,MG,Hector,2017,3030,257599,16.4,172.5,Delhi
+V1506,Chhattisgarh,Auto,Petrol,No,TVS,Jupiter,2013,8598,2269966,13.3,143.0,Hyderabad
+V1507,Uttarakhand,SUV,Diesel,No,Mahindra,Bolero,2018,6409,590625,28.2,191.4,Hyderabad
+V1508,Gujarat,Van,Electric,Yes,Maruti,Baleno,2022,11286,588308,0.0,0.0,Lucknow
+V1509,Bihar,Car,Hybrid,No,Maruti,Ertiga,2024,14428,2369692,26.9,143.0,Chennai
+V1510,Delhi,Bike,Hybrid,No,Honda,Amaze,2019,11086,237911,26.8,157.5,Kolkata
+V1511,Tamil Nadu,Auto,Petrol,No,Bajaj,Pulsar,2018,2130,1407501,22.3,105.8,Mumbai
+V1512,Odisha,Bike,Electric,Yes,Hero,HF Deluxe,2022,11165,250370,0.0,0.0,Chennai
+V1513,West Bengal,Auto,Diesel,No,Bajaj,Chetak,2015,3834,150209,27.6,168.7,Kochi
+V1514,Punjab,Auto,Petrol,No,Piaggio,Porter,2014,8736,1802809,12.3,114.5,Delhi
+V1515,Delhi,Auto,Petrol,No,Bajaj,Pulsar,2011,12586,1979712,21.9,176.5,Delhi
+V1516,Jharkhand,Van,Petrol,No,Force Motors,Traveller,2016,10467,2123466,25.6,179.3,Delhi
+V1517,Assam,Truck,Diesel,No,Tata,Nexon,2013,10844,1964894,13.5,142.8,Ahmedabad
+V1518,Chhattisgarh,Auto,Petrol,No,Bajaj,Pulsar,2017,12653,133626,11.1,152.8,Jaipur
+V1519,Madhya Pradesh,Bus,Petrol,No,Tata,Tiago,2012,4986,1351390,29.6,178.6,Lucknow
+V1520,West Bengal,Auto,Electric,Yes,Bajaj,Pulsar,2024,1051,2352257,0.0,0.0,Kochi
+V1521,Haryana,Bike,Electric,Yes,Hero,Splendor,2011,8149,1297191,0.0,0.0,Ahmedabad
+V1522,Chhattisgarh,Auto,Diesel,No,TVS,Jupiter,2022,5848,1331562,19.8,117.0,Lucknow
+V1523,Odisha,Bike,Electric,Yes,Royal Enfield,Classic 350,2021,4124,454795,0.0,0.0,Chennai
+V1524,Karnataka,Bus,Petrol,No,Tata,Tiago,2021,10160,1577623,14.3,199.6,Jaipur
+V1525,Odisha,SUV,Electric,Yes,Hyundai,Creta,2021,8923,668022,0.0,0.0,Hyderabad
+V1526,Haryana,Bike,Hybrid,No,Bajaj,Chetak,2010,9760,216972,15.6,137.2,Lucknow
+V1527,Madhya Pradesh,Auto,Petrol,No,Piaggio,Ape,2010,2608,1770621,24.7,120.6,Kolkata
+V1528,Punjab,Van,Hybrid,No,Maruti,Alto,2010,3217,641438,15.5,188.9,Hyderabad
+V1529,Odisha,Car,Diesel,No,Tata,Punch,2024,9542,1281911,12.8,197.9,Delhi
+V1530,Delhi,Bike,Diesel,No,TVS,Jupiter,2022,4338,2452171,19.9,161.5,Mumbai
+V1531,Chhattisgarh,Auto,Petrol,No,Piaggio,Porter,2014,7339,2488374,28.9,176.7,Jaipur
+V1532,Uttar Pradesh,Truck,Diesel,No,Mahindra,Jeeto,2021,7151,1400308,18.2,166.9,Chennai
+V1533,Karnataka,Van,Petrol,No,Tata,Punch,2013,1121,1614954,16.3,147.1,Chennai
+V1534,Punjab,Car,Petrol,No,Toyota,Innova,2020,7030,2343847,15.3,161.6,Mumbai
+V1535,Bihar,Bus,Electric,Yes,Tata,Nexon,2014,10213,2155583,0.0,0.0,Kolkata
+V1536,Telangana,Auto,Electric,Yes,Bajaj,Pulsar,2018,13535,2072251,0.0,0.0,Kochi
+V1537,Haryana,Van,Diesel,No,Force Motors,Traveller,2018,11888,1836220,26.0,147.1,Lucknow
+V1538,Rajasthan,SUV,Petrol,No,Tata,Punch,2013,7307,145907,23.7,143.2,Lucknow
+V1539,Punjab,Bus,Hybrid,No,Tata,Tiago,2014,12274,2372231,22.6,127.7,Kolkata
+V1540,Bihar,Truck,Hybrid,No,Tata,Nexon,2024,4467,683025,16.4,122.4,Kochi
+V1541,Delhi,SUV,Diesel,No,Tata,Tiago,2022,8228,1839896,14.2,123.2,Hyderabad
+V1542,Uttar Pradesh,Truck,Electric,Yes,Eicher,Pro 3015,2018,9575,265510,0.0,0.0,Delhi
+V1543,Kerala,Auto,Petrol,No,Piaggio,Ape,2020,6989,289639,13.2,101.8,Kochi
+V1544,Tamil Nadu,SUV,Electric,Yes,Tata,Tiago,2010,5809,1800265,0.0,0.0,Kolkata
+V1545,Assam,Truck,Electric,Yes,Ashok Leyland,Captain,2022,9443,1733738,0.0,0.0,Hyderabad
+V1546,West Bengal,Van,Diesel,No,Tata,Nexon,2012,644,1912974,14.7,106.5,Bengaluru
+V1547,Haryana,Bus,Hybrid,No,Volvo,9600,2023,5523,2313639,23.8,184.8,Lucknow
+V1548,Gujarat,Van,Diesel,No,Maruti,Alto,2019,5727,1823744,18.6,168.6,Delhi
+V1549,Gujarat,Truck,Diesel,No,Ashok Leyland,Dost,2014,11348,1501875,29.3,165.9,Lucknow
+V1550,Rajasthan,Bus,Electric,Yes,Tata,Tiago,2020,8178,393774,0.0,0.0,Mumbai
+V1551,Tamil Nadu,SUV,Hybrid,No,Hyundai,Venue,2013,13250,1250537,19.0,136.4,Lucknow
+V1552,Kerala,Car,Electric,Yes,Hyundai,i20,2024,282,1642294,0.0,0.0,Kochi
+V1553,Delhi,Van,Electric,Yes,Maruti,Baleno,2023,6174,380480,0.0,0.0,Kochi
+V1554,Andhra Pradesh,Truck,Diesel,No,Tata,Tiago,2015,14941,864751,24.5,134.2,Delhi
