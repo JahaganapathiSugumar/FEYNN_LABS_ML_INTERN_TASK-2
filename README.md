@@ -62,9 +62,3 @@ These clusters help identify gaps and opportunities in the EV market and guide m
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/EV_Market_Segmentation.git
-   cd EV_Market_Segmentation
